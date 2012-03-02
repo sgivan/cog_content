@@ -1,0 +1,29 @@
+C3_0311	COG0423	0/70	Glycyl-tRNA synthetase (class II)	Translation, ribosomal structure and biogenesis
+C3_0136	COG3808	7/70	Inorganic pyrophosphatase	Energy production and conversion
+C3_0150	COG3808	7/70	Inorganic pyrophosphatase	Energy production and conversion
+C3_0345	COG3794	1/70	Plastocyanin	Energy production and conversion
+C4_0649	COG3794	1/70	Plastocyanin	Energy production and conversion
+C3_0403	COG1428	1/70	Deoxynucleoside kinases	Nucleotide transport and metabolism
+C3_0065	COG4547	4/70	Cobalamin biosynthesis protein CobT (nicotinate-mononucleotide:5, 6-dimethylbenzimidazole phosphoribosyltransferase)	Coenzyme transport and metabolism
+C3_0070	COG5146	0/70	Pantothenate kinase, acetyl-CoA regulated	Coenzyme transport and metabolism
+C3_0111	COG3917	6/70	2-hydroxychromene-2-carboxylate isomerase	Secondary metabolites biosynthesis, transport and catabolism
+C4_0312	COG3509	3/70	Poly(3-hydroxybutyrate) depolymerase	Secondary metabolites biosynthesis, transport and catabolism
+C4_0315	COG3509	3/70	Poly(3-hydroxybutyrate) depolymerase	Secondary metabolites biosynthesis, transport and catabolism
+C4_0400	COG3509	3/70	Poly(3-hydroxybutyrate) depolymerase	Secondary metabolites biosynthesis, transport and catabolism
+C4_0696	COG3509	3/70	Poly(3-hydroxybutyrate) depolymerase	Secondary metabolites biosynthesis, transport and catabolism
+C3_0238	COG3818	7/70	Predicted acetyltransferase, GNAT superfamily	General function prediction only
+C3_0428	COG5524	0/70	Bacteriorhodopsin	General function prediction only
+C4_0308	COG3621	2/70	Patatin	General function prediction only
+C4_0371	COG2270	5/70	Permeases of the major facilitator superfamily	General function prediction only
+C4_0376	COG2270	5/70	Permeases of the major facilitator superfamily	General function prediction only
+C4_0670	COG1026	7/70	Predicted Zn-dependent peptidases, insulinase-like	General function prediction only
+C4_0816	COG2236	7/70	Predicted phosphoribosyltransferases	General function prediction only
+C3_0069	COG3544	3/70	Uncharacterized protein conserved in bacteria	Function unknown
+C3_0242	COG5522	0/70	Predicted integral membrane protein	Function unknown
+C3_0259	COG3502	0/70	Uncharacterized protein conserved in bacteria	Function unknown
+C3_0435	COG5488	0/70	Integral membrane protein	Function unknown
+C4_0477	COG5616	5/70	Predicted integral membrane protein	Function unknown
+C4_0533	COG1478	1/70	Uncharacterized conserved protein	Function unknown
+C4_0644	COG5522	0/70	Predicted integral membrane protein	Function unknown
+C4_0728	COG3651	6/70	Uncharacterized protein conserved in bacteria	Function unknown
+C4_0739	COG3651	6/70	Uncharacterized protein conserved in bacteria	Function unknown

@@ -1,0 +1,34 @@
+C3_0708	COG4257	3/70	Streptogramin lyase	Defense mechanisms
+C2_0102	COG1592	0/70	Rubrerythrin	Energy production and conversion
+C3_0968	COG3202	1/70	ATP/ADP translocase	Energy production and conversion
+C3_1759	COG4865	3/70	Glutamate mutase epsilon subunit	Amino acid transport and metabolism
+C3_0492	COG1428	1/70	Deoxynucleoside kinases	Nucleotide transport and metabolism
+C2_0876	COG5598	0/70	Trimethylamine:corrinoid methyltransferase	Coenzyme transport and metabolism
+C2_1709	COG2046	3/70	ATP sulfurylase (sulfate adenylyltransferase)	Inorganic ion transport and metabolism
+C3_0615	COG3509	3/70	Poly(3-hydroxybutyrate) depolymerase	Secondary metabolites biosynthesis, transport and catabolism
+C1_0247	COG3919	2/70	Predicted ATP-grasp enzyme	General function prediction only
+C2_0382	COG5524	0/70	Bacteriorhodopsin	General function prediction only
+C2_0414	COG1545	2/70	Predicted nucleic-acid-binding protein containing a Zn-ribbon	General function prediction only
+C2_0623	COG1350	0/70	Predicted alternative tryptophan synthase beta-subunit (paralog of TrpB)	General function prediction only
+C2_0883	COG3894	0/70	Uncharacterized metal-binding protein	General function prediction only
+C2_0908	COG3968	0/70	Uncharacterized protein related to glutamine synthetase	General function prediction only
+C2_1754	COG0595	2/70	Predicted hydrolase of the metallo-beta-lactamase superfamily	General function prediction only
+C3_0836	COG2738	3/70	Predicted Zn-dependent protease	General function prediction only
+C3_0965	COG3341	0/70	Predicted double-stranded RNA/RNA-DNA hybrid binding protein	General function prediction only
+C3_1473	COG3552	0/70	Protein containing von Willebrand factor type A (vWA) domain	General function prediction only
+C1_0120	COG1817	0/70	Uncharacterized protein conserved in archaea	Function unknown
+C2_0064	COG4094	2/70	Predicted membrane protein	Function unknown
+C2_0365	COG4983	0/70	Uncharacterized conserved protein	Function unknown
+C2_0367	COG4487	1/70	Uncharacterized protein conserved in bacteria	Function unknown
+C2_0394	COG4270	1/70	Predicted membrane protein	Function unknown
+C2_0412	COG3777	3/70	Uncharacterized conserved protein	Function unknown
+C2_0506	COG5605	1/70	Predicted small integral membrane protein	Function unknown
+C2_0628	COG2043	0/70	Uncharacterized protein conserved in archaea	Function unknown
+C2_0765	COG5482	0/70	Uncharacterized conserved protein	Function unknown
+C2_1218	COG1865	0/70	Uncharacterized conserved protein	Function unknown
+C2_1438	COG1920	1/70	Uncharacterized conserved protein	Function unknown
+C2_1440	COG1478	1/70	Uncharacterized conserved protein	Function unknown
+C2_1455	COG3777	3/70	Uncharacterized conserved protein	Function unknown
+C2_1641	COG2138	3/70	Uncharacterized conserved protein	Function unknown
+C3_0828	COG3461	2/70	Uncharacterized conserved protein	Function unknown
+C3_1480	COG4818	1/70	Predicted membrane protein	Function unknown

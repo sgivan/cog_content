@@ -1,0 +1,74 @@
+-	COG0130	31/32	Pseudouridine synthase	Translation, ribosomal structure and biogenesis
+-	COG0267	31/32	Ribosomal protein L33	Translation, ribosomal structure and biogenesis
+-	COG0590	32/32	Cytosine/adenosine deaminases	Translation, ribosomal structure and biogenesis
+-	COG0806	31/32	RimM protein, required for 16S rRNA processing	Translation, ribosomal structure and biogenesis
+-	COG1197	31/32	Transcription-repair coupling factor (superfamily II helicase)	Transcription
+-	COG1678	29/32	Putative transcriptional regulator	Transcription
+-	COG0249	32/32	Mismatch repair ATPase (MutS family)	Replication, recombination and repair
+-	COG0323	32/32	DNA mismatch repair enzyme (predicted ATPase)	Replication, recombination and repair
+-	COG0497	29/32	ATPase involved in DNA repair	Replication, recombination and repair
+-	COG0632	32/32	Holliday junction resolvasome, DNA-binding subunit	Replication, recombination and repair
+-	COG0758	30/32	Predicted Rossmann fold nucleotide-binding protein involved in DNA uptake	Replication, recombination and repair
+-	COG0817	32/32	Holliday junction resolvasome, endonuclease subunit	Replication, recombination and repair
+-	COG1074	32/32	ATP-dependent exoDNAse (exonuclease V) beta subunit (contains helicase and exonuclease domains)	Replication, recombination and repair
+-	COG1195	32/32	Recombinational DNA repair ATPase (RecF pathway)	Replication, recombination and repair
+-	COG1197	31/32	Transcription-repair coupling factor (superfamily II helicase)	Replication, recombination and repair
+-	COG1570	31/32	Exonuclease VII, large subunit	Replication, recombination and repair
+-	COG1722	30/32	Exonuclease VII small subunit	Replication, recombination and repair
+-	COG2003	29/32	DNA repair proteins	Replication, recombination and repair
+-	COG2255	32/32	Holliday junction resolvasome, helicase subunit	Replication, recombination and repair
+-	COG2887	32/32	RecB family exonuclease	Replication, recombination and repair
+-	COG2927	29/32	DNA polymerase III, chi subunit	Replication, recombination and repair
+-	COG4974	32/32	Site-specific recombinase XerD	Replication, recombination and repair
+-	COG0849	32/32	Actin-like ATPase involved in cell division	Cell cycle control, cell division, chromosome partitioning
+-	COG0589	28/32	Universal stress protein UspA and related nucleotide-binding proteins	Signal transduction mechanisms
+-	COG0784	29/32	FOG: CheY-like receiver	Signal transduction mechanisms
+-	COG2200	29/32	FOG: EAL domain	Signal transduction mechanisms
+-	COG2202	28/32	FOG: PAS/PAC domain	Signal transduction mechanisms
+-	COG0770	31/32	UDP-N-acetylmuramyl pentapeptide synthase	Cell wall/membrane/envelope biogenesis
+-	COG0787	29/32	Alanine racemase	Cell wall/membrane/envelope biogenesis
+-	COG1589	32/32	Cell division septal protein	Cell wall/membrane/envelope biogenesis
+-	COG0758	30/32	Predicted Rossmann fold nucleotide-binding protein involved in DNA uptake	Intracellular trafficking, secretion, and vesicular transport
+-	COG1952	32/32	Preprotein translocase subunit SecB	Intracellular trafficking, secretion, and vesicular transport
+-	COG0450	29/32	Peroxiredoxin	Posttranslational modification, protein turnover, chaperones
+-	COG0542	32/32	ATPases with chaperone activity, ATP-binding subunit	Posttranslational modification, protein turnover, chaperones
+-	COG0606	30/32	Predicted ATPase with chaperone activity	Posttranslational modification, protein turnover, chaperones
+-	COG1066	32/32	Predicted ATP-dependent serine protease	Posttranslational modification, protein turnover, chaperones
+-	COG1214	31/32	Inactive homolog of metal-dependent proteases, putative molecular chaperone	Posttranslational modification, protein turnover, chaperones
+-	COG2386	29/32	ABC-type transport system involved in cytochrome c biogenesis, permease component	Posttranslational modification, protein turnover, chaperones
+-	COG4133	32/32	ABC-type transport system involved in cytochrome c biogenesis, ATPase component	Posttranslational modification, protein turnover, chaperones
+-	COG5265	29/32	ABC-type transport system involved in Fe-S cluster assembly, permease and ATPase components	Posttranslational modification, protein turnover, chaperones
+-	COG0022	32/32	Pyruvate/2-oxoglutarate dehydrogenase complex, dehydrogenase (E1) component, eukaryotic type, beta subunit	Energy production and conversion
+-	COG0221	28/32	Inorganic pyrophosphatase	Energy production and conversion
+-	COG1071	32/32	Pyruvate/2-oxoglutarate dehydrogenase complex, dehydrogenase (E1) component, eukaryotic type, alpha subunit	Energy production and conversion
+-	COG2142	29/32	Succinate dehydrogenase, hydrophobic anchor subunit	Energy production and conversion
+-	COG1104	31/32	Cysteine sulfinate desulfinase/cysteine desulfurase and related enzymes	Amino acid transport and metabolism
+-	COG0528	32/32	Uridylate kinase	Nucleotide transport and metabolism
+-	COG0590	32/32	Cytosine/adenosine deaminases	Nucleotide transport and metabolism
+-	COG0156	30/32	7-keto-8-aminopelargonate synthetase and related enzymes	Coenzyme transport and metabolism
+-	COG0635	29/32	Coproporphyrinogen III oxidase and related Fe-S oxidoreductases	Coenzyme transport and metabolism
+-	COG0332	32/32	3-oxoacyl-[acyl-carrier-protein] synthase III	Lipid transport and metabolism
+-	COG4770	28/32	Acetyl/propionyl-CoA carboxylase, alpha subunit	Lipid transport and metabolism
+-	COG4799	28/32	Acetyl-CoA carboxylase, carboxyltransferase component (subunits alpha and beta)	Lipid transport and metabolism
+-	COG0475	29/32	Kef-type K+ transport systems, membrane components	Inorganic ion transport and metabolism
+-	COG0605	32/32	Superoxide dismutase	Inorganic ion transport and metabolism
+-	COG1226	29/32	Kef-type K+ transport systems, predicted NAD-binding component	Inorganic ion transport and metabolism
+-	COG0767	29/32	ABC-type transport system involved in resistance to organic solvents, permease component	Secondary metabolites biosynthesis, transport and catabolism
+-	COG1127	29/32	ABC-type transport system involved in resistance to organic solvents, ATPase component	Secondary metabolites biosynthesis, transport and catabolism
+-	COG1463	29/32	ABC-type transport system involved in resistance to organic solvents, periplasmic component	Secondary metabolites biosynthesis, transport and catabolism
+-	COG0218	32/32	Predicted GTPase	General function prediction only
+-	COG0220	30/32	Predicted S-adenosylmethionine-dependent methyltransferase	General function prediction only
+-	COG0488	29/32	ATPase components of ABC transporters with duplicated ATPase domains	General function prediction only
+-	COG0612	32/32	Predicted Zn-dependent peptidases	General function prediction only
+-	COG0628	32/32	Predicted permease	General function prediction only
+-	COG0658	30/32	Predicted membrane metal-binding protein	General function prediction only
+-	COG1159	32/32	GTPase	General function prediction only
+-	COG1160	32/32	Predicted GTPases	General function prediction only
+-	COG1253	32/32	Hemolysins and related proteins containing CBS domains	General function prediction only
+-	COG1559	29/32	Predicted periplasmic solute-binding protein	General function prediction only
+-	COG1853	30/32	Conserved protein/domain typically associated with flavoprotein oxygenases, DIM6/NTAB family	General function prediction only
+-	COG1999	31/32	Uncharacterized protein SCO1/SenC/PrrC, involved in biogenesis of respiratory and photosynthetic systems	General function prediction only
+-	COG0779	29/32	Uncharacterized protein conserved in bacteria	Function unknown
+-	COG1295	31/32	Predicted membrane protein	Function unknown
+-	COG3750	29/32	Uncharacterized protein conserved in bacteria	Function unknown
+-	COG3814	32/32	Uncharacterized protein conserved in bacteria	Function unknown

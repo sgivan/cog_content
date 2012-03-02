@@ -1,0 +1,5 @@
+-	COG0261	31/32	Ribosomal protein L21	Translation, ribosomal structure and biogenesis
+-	COG0360	31/32	Ribosomal protein S6	Translation, ribosomal structure and biogenesis
+-	COG0341	30/32	Preprotein translocase subunit SecF	Intracellular trafficking, secretion, and vesicular transport
+-	COG0450	29/32	Peroxiredoxin	Posttranslational modification, protein turnover, chaperones
+-	COG0736	31/32	Phosphopantetheinyl transferase (holo-ACP synthase)	Lipid transport and metabolism

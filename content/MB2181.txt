@@ -1,0 +1,1247 @@
+C4_0001	COG0050	18/18	GTPases - translation elongation factors	Translation, ribosomal structure and biogenesis
+C4_0002	COG0480	18/18	Translation elongation factors (GTPases)	Translation, ribosomal structure and biogenesis
+C4_0005	COG0222	18/18	Ribosomal protein L7/L12	Translation, ribosomal structure and biogenesis
+C4_0006	COG0244	18/18	Ribosomal protein L10	Translation, ribosomal structure and biogenesis
+C4_0007	COG0081	18/18	Ribosomal protein L1	Translation, ribosomal structure and biogenesis
+C4_0008	COG0080	18/18	Ribosomal protein L11	Translation, ribosomal structure and biogenesis
+C4_0011	COG0050	18/18	GTPases - translation elongation factors	Translation, ribosomal structure and biogenesis
+C4_0061	COG0144	18/18	tRNA and rRNA cytosine-C5-methylases	Translation, ribosomal structure and biogenesis
+C4_0083	COG1544	15/18	Ribosome-associated protein Y (PSrp-1)	Translation, ribosomal structure and biogenesis
+C4_0092	COG0144	18/18	tRNA and rRNA cytosine-C5-methylases	Translation, ribosomal structure and biogenesis
+C4_0093	COG0223	18/18	Methionyl-tRNA formyltransferase	Translation, ribosomal structure and biogenesis
+C4_0094	COG0242	18/18	N-formylmethionyl-tRNA deformylase	Translation, ribosomal structure and biogenesis
+C4_0117	COG0525	18/18	Valyl-tRNA synthetase	Translation, ribosomal structure and biogenesis
+C4_0121	COG1185	18/18	Polyribonucleotide nucleotidyltransferase (polynucleotide phosphorylase)	Translation, ribosomal structure and biogenesis
+C4_0122	COG0184	18/18	Ribosomal protein S15P/S13E	Translation, ribosomal structure and biogenesis
+C4_0123	COG0130	18/18	Pseudouridine synthase	Translation, ribosomal structure and biogenesis
+C4_0124	COG0858	18/18	Ribosome-binding factor A	Translation, ribosomal structure and biogenesis
+C4_0125	COG0532	18/18	Translation initiation factor 2 (IF-2; GTPase)	Translation, ribosomal structure and biogenesis
+C4_0128	COG0162	18/18	Tyrosyl-tRNA synthetase	Translation, ribosomal structure and biogenesis
+C4_0135	COG0103	18/18	Ribosomal protein S9	Translation, ribosomal structure and biogenesis
+C4_0136	COG0102	18/18	Ribosomal protein L13	Translation, ribosomal structure and biogenesis
+C4_0140	COG0251	18/18	Putative translation initiation inhibitor, yjgF family	Translation, ribosomal structure and biogenesis
+C4_0145	COG0689	18/18	RNase PH	Translation, ribosomal structure and biogenesis
+C4_0160	COG2264	17/18	Ribosomal protein L11 methylase	Translation, ribosomal structure and biogenesis
+C4_0174	COG0513	18/18	Superfamily II DNA and RNA helicases	Translation, ribosomal structure and biogenesis
+C4_0206	COG0594	15/18	RNase P protein component	Translation, ribosomal structure and biogenesis
+C4_0225	COG0018	18/18	Arginyl-tRNA synthetase	Translation, ribosomal structure and biogenesis
+C4_0280	COG0189	18/18	Glutathione synthase/Ribosomal protein S6 modification enzyme (glutaminyl transferase)	Translation, ribosomal structure and biogenesis
+C4_0289	COG0721	17/18	Asp-tRNAAsn/Glu-tRNAGln amidotransferase C subunit	Translation, ribosomal structure and biogenesis
+C4_0290	COG0154	18/18	Asp-tRNAAsn/Glu-tRNAGln amidotransferase A subunit and related amidases	Translation, ribosomal structure and biogenesis
+C4_0291	COG0064	18/18	Asp-tRNAAsn/Glu-tRNAGln amidotransferase B subunit (PET112 homolog)	Translation, ribosomal structure and biogenesis
+C4_0297	COG2890	18/18	Methylase of polypeptide chain release factors	Translation, ribosomal structure and biogenesis
+C4_0298	COG0216	18/18	Protein chain release factor A	Translation, ribosomal structure and biogenesis
+C4_0323	COG0173	18/18	Aspartyl-tRNA synthetase	Translation, ribosomal structure and biogenesis
+C4_0341	COG0228	17/18	Ribosomal protein S16	Translation, ribosomal structure and biogenesis
+C4_0342	COG0806	18/18	RimM protein, required for 16S rRNA processing	Translation, ribosomal structure and biogenesis
+C4_0343	COG0336	18/18	tRNA-(guanine-N1)-methyltransferase	Translation, ribosomal structure and biogenesis
+C4_0344	COG0335	18/18	Ribosomal protein L19	Translation, ribosomal structure and biogenesis
+C4_0349	COG0828	18/18	Ribosomal protein S21	Translation, ribosomal structure and biogenesis
+C4_0391	COG0254	18/18	Ribosomal protein L31	Translation, ribosomal structure and biogenesis
+C4_0417	COG0617	18/18	tRNA nucleotidyltransferase/poly(A) polymerase	Translation, ribosomal structure and biogenesis
+C4_0454	COG0343	18/18	Queuine/archaeosine tRNA-ribosyltransferase	Translation, ribosomal structure and biogenesis
+C4_0476	COG0013	18/18	Alanyl-tRNA synthetase	Translation, ribosomal structure and biogenesis
+C4_0496	COG0617	18/18	tRNA nucleotidyltransferase/poly(A) polymerase	Translation, ribosomal structure and biogenesis
+C4_0504	COG0751	18/18	Glycyl-tRNA synthetase, beta subunit	Translation, ribosomal structure and biogenesis
+C4_0505	COG0752	18/18	Glycyl-tRNA synthetase, alpha subunit	Translation, ribosomal structure and biogenesis
+C4_0511	COG0621	18/18	2-methylthioadenine synthetase	Translation, ribosomal structure and biogenesis
+C4_0518	COG0012	18/18	Predicted GTPase, probable translation factor	Translation, ribosomal structure and biogenesis
+C4_0519	COG0193	18/18	Peptidyl-tRNA hydrolase	Translation, ribosomal structure and biogenesis
+C4_0520	COG1825	18/18	Ribosomal protein L25 (general stress protein Ctc)	Translation, ribosomal structure and biogenesis
+C4_0559	COG2913	17/18	Small protein A (tmRNA-binding)	Translation, ribosomal structure and biogenesis
+C4_0565	COG1534	17/18	Predicted RNA-binding protein containing KH domain, possibly ribosomal protein	Translation, ribosomal structure and biogenesis
+C4_0566	COG0293	18/18	23S rRNA methylase	Translation, ribosomal structure and biogenesis
+C4_0574	COG1186	18/18	Protein chain release factor B	Translation, ribosomal structure and biogenesis
+C4_0575	COG1190	18/18	Lysyl-tRNA synthetase (class II)	Translation, ribosomal structure and biogenesis
+C4_0588	COG0565	18/18	rRNA methylase	Translation, ribosomal structure and biogenesis
+C4_0616	COG0008	18/18	Glutamyl- and glutaminyl-tRNA synthetases	Translation, ribosomal structure and biogenesis
+C4_0655	COG0223	18/18	Methionyl-tRNA formyltransferase	Translation, ribosomal structure and biogenesis
+C4_0698	COG0143	18/18	Methionyl-tRNA synthetase	Translation, ribosomal structure and biogenesis
+C4_0702	COG0539	18/18	Ribosomal protein S1	Translation, ribosomal structure and biogenesis
+C4_0708	COG0566	18/18	rRNA methylases	Translation, ribosomal structure and biogenesis
+C4_0709	COG0008	18/18	Glutamyl- and glutaminyl-tRNA synthetases	Translation, ribosomal structure and biogenesis
+C4_0719	COG0172	18/18	Seryl-tRNA synthetase	Translation, ribosomal structure and biogenesis
+C4_0726	COG0231	18/18	Translation elongation factor P (EF-P)/translation initiation factor 5A (eIF-5A)	Translation, ribosomal structure and biogenesis
+C4_0745	COG0101	18/18	Pseudouridylate synthase	Translation, ribosomal structure and biogenesis
+C4_0783	COG0566	18/18	rRNA methylases	Translation, ribosomal structure and biogenesis
+C4_0788	COG0360	18/18	Ribosomal protein S6	Translation, ribosomal structure and biogenesis
+C4_0790	COG0238	18/18	Ribosomal protein S18	Translation, ribosomal structure and biogenesis
+C4_0791	COG0359	18/18	Ribosomal protein L9	Translation, ribosomal structure and biogenesis
+C4_0798	COG0242	18/18	N-formylmethionyl-tRNA deformylase	Translation, ribosomal structure and biogenesis
+C4_0849	COG0009	18/18	Putative translation factor (SUA5)	Translation, ribosomal structure and biogenesis
+C4_0897	COG0333	18/18	Ribosomal protein L32	Translation, ribosomal structure and biogenesis
+C4_0912	COG0233	18/18	Ribosome recycling factor	Translation, ribosomal structure and biogenesis
+C4_0914	COG0264	18/18	Translation elongation factor Ts	Translation, ribosomal structure and biogenesis
+C4_0915	COG0052	18/18	Ribosomal protein S2	Translation, ribosomal structure and biogenesis
+C4_0916	COG0024	18/18	Methionine aminopeptidase	Translation, ribosomal structure and biogenesis
+C4_0937	COG0324	18/18	tRNA delta(2)-isopentenylpyrophosphate transferase	Translation, ribosomal structure and biogenesis
+C4_0944	COG0564	18/18	Pseudouridylate synthases, 23S RNA-specific	Translation, ribosomal structure and biogenesis
+C4_0946	COG1530	18/18	Ribonucleases G and E	Translation, ribosomal structure and biogenesis
+C4_0976	COG0008	18/18	Glutamyl- and glutaminyl-tRNA synthetases	Translation, ribosomal structure and biogenesis
+C4_0977	COG0621	18/18	2-methylthioadenine synthetase	Translation, ribosomal structure and biogenesis
+C4_0981	COG0564	18/18	Pseudouridylate synthases, 23S RNA-specific	Translation, ribosomal structure and biogenesis
+C4_0990	COG0124	18/18	Histidyl-tRNA synthetase	Translation, ribosomal structure and biogenesis
+C4_1009	COG1208	18/18	Nucleoside-diphosphate-sugar pyrophosphorylase involved in lipopolysaccharide biosynthesis/translation initiation factor 2B, gamma/epsilon subunits (eIF-2Bgamma/eIF-2Bepsilon)	Translation, ribosomal structure and biogenesis
+C4_1050	COG0182	4/18	Predicted translation initiation factor 2B subunit, eIF-2B alpha/beta/delta family	Translation, ribosomal structure and biogenesis
+C4_1065	COG1187	18/18	16S rRNA uridine-516 pseudouridylate synthase and related pseudouridylate synthases	Translation, ribosomal structure and biogenesis
+C4_1089	COG0072	18/18	Phenylalanyl-tRNA synthetase beta subunit	Translation, ribosomal structure and biogenesis
+C4_1090	COG0016	18/18	Phenylalanyl-tRNA synthetase alpha subunit	Translation, ribosomal structure and biogenesis
+C4_1091	COG0292	18/18	Ribosomal protein L20	Translation, ribosomal structure and biogenesis
+C4_1092	COG0290	17/18	Translation initiation factor 3 (IF-3)	Translation, ribosomal structure and biogenesis
+C4_1093	COG0442	18/18	Prolyl-tRNA synthetase	Translation, ribosomal structure and biogenesis
+C4_1093	COG0441	18/18	Threonyl-tRNA synthetase	Translation, ribosomal structure and biogenesis
+C4_1118	COG0590	18/18	Cytosine/adenosine deaminases	Translation, ribosomal structure and biogenesis
+C4_1125	COG2265	18/18	SAM-dependent methyltransferases related to tRNA (uracil-5-)-methyltransferase	Translation, ribosomal structure and biogenesis
+C4_1133	COG1187	18/18	16S rRNA uridine-516 pseudouridylate synthase and related pseudouridylate synthases	Translation, ribosomal structure and biogenesis
+C4_1136	COG0180	18/18	Tryptophanyl-tRNA synthetase	Translation, ribosomal structure and biogenesis
+C4_1172	COG0482	18/18	Predicted tRNA(5-methylaminomethyl-2-thiouridylate) methyltransferase, contains the PP-loop ATPase domain	Translation, ribosomal structure and biogenesis
+C4_1188	COG1187	18/18	16S rRNA uridine-516 pseudouridylate synthase and related pseudouridylate synthases	Translation, ribosomal structure and biogenesis
+C4_1196	COG1208	18/18	Nucleoside-diphosphate-sugar pyrophosphorylase involved in lipopolysaccharide biosynthesis/translation initiation factor 2B, gamma/epsilon subunits (eIF-2Bgamma/eIF-2Bepsilon)	Translation, ribosomal structure and biogenesis
+C4_1201	COG0030	18/18	Dimethyladenosine transferase (rRNA methylation)	Translation, ribosomal structure and biogenesis
+C4_1203	COG0495	18/18	Leucyl-tRNA synthetase	Translation, ribosomal structure and biogenesis
+C4_1225	COG0060	18/18	Isoleucyl-tRNA synthetase	Translation, ribosomal structure and biogenesis
+C4_1228	COG0268	18/18	Ribosomal protein S20	Translation, ribosomal structure and biogenesis
+C4_1233	COG0211	18/18	Ribosomal protein L27	Translation, ribosomal structure and biogenesis
+C4_1234	COG0261	18/18	Ribosomal protein L21	Translation, ribosomal structure and biogenesis
+C4_1242	COG0215	18/18	Cysteinyl-tRNA synthetase	Translation, ribosomal structure and biogenesis
+C4_1267	COG0809	18/18	S-adenosylmethionine:tRNA-ribosyltransferase-isomerase (queuine synthetase)	Translation, ribosomal structure and biogenesis
+C4_1269	COG0442	18/18	Prolyl-tRNA synthetase	Translation, ribosomal structure and biogenesis
+C4_1291	COG0042	18/18	tRNA-dihydrouridine synthase	Translation, ribosomal structure and biogenesis
+C4_1304	COG0267	18/18	Ribosomal protein L33	Translation, ribosomal structure and biogenesis
+C4_1307	COG0203	18/18	Ribosomal protein L17	Translation, ribosomal structure and biogenesis
+C4_1309	COG0522	18/18	Ribosomal protein S4 and related proteins	Translation, ribosomal structure and biogenesis
+C4_1310	COG0100	18/18	Ribosomal protein S11	Translation, ribosomal structure and biogenesis
+C4_1311	COG0099	18/18	Ribosomal protein S13	Translation, ribosomal structure and biogenesis
+C4_1312	COG0361	18/18	Translation initiation factor 1 (IF-1)	Translation, ribosomal structure and biogenesis
+C4_1314	COG0200	18/18	Ribosomal protein L15	Translation, ribosomal structure and biogenesis
+C4_1315	COG1841	18/18	Ribosomal protein L30/L7E	Translation, ribosomal structure and biogenesis
+C4_1316	COG0098	18/18	Ribosomal protein S5	Translation, ribosomal structure and biogenesis
+C4_1317	COG0256	18/18	Ribosomal protein L18	Translation, ribosomal structure and biogenesis
+C4_1318	COG0097	18/18	Ribosomal protein L6P/L9E	Translation, ribosomal structure and biogenesis
+C4_1319	COG0096	18/18	Ribosomal protein S8	Translation, ribosomal structure and biogenesis
+C4_1320	COG0199	18/18	Ribosomal protein S14	Translation, ribosomal structure and biogenesis
+C4_1321	COG0094	18/18	Ribosomal protein L5	Translation, ribosomal structure and biogenesis
+C4_1322	COG0198	18/18	Ribosomal protein L24	Translation, ribosomal structure and biogenesis
+C4_1323	COG0093	18/18	Ribosomal protein L14	Translation, ribosomal structure and biogenesis
+C4_1324	COG0186	18/18	Ribosomal protein S17	Translation, ribosomal structure and biogenesis
+C4_1325	COG0255	17/18	Ribosomal protein L29	Translation, ribosomal structure and biogenesis
+C4_1326	COG0197	18/18	Ribosomal protein L16/L10E	Translation, ribosomal structure and biogenesis
+C4_1327	COG0092	18/18	Ribosomal protein S3	Translation, ribosomal structure and biogenesis
+C4_1328	COG0091	18/18	Ribosomal protein L22	Translation, ribosomal structure and biogenesis
+C4_1329	COG0185	18/18	Ribosomal protein S19	Translation, ribosomal structure and biogenesis
+C4_1330	COG0090	18/18	Ribosomal protein L2	Translation, ribosomal structure and biogenesis
+C4_1331	COG0089	18/18	Ribosomal protein L23	Translation, ribosomal structure and biogenesis
+C4_1332	COG0088	18/18	Ribosomal protein L4	Translation, ribosomal structure and biogenesis
+C4_1333	COG0087	18/18	Ribosomal protein L3	Translation, ribosomal structure and biogenesis
+C4_1334	COG0051	18/18	Ribosomal protein S10	Translation, ribosomal structure and biogenesis
+C4_0948	COG1949	18/18	Oligoribonuclease (3'->5' exoribonuclease)	RNA processing and modification
+C4_0003	COG0086	18/18	DNA-directed RNA polymerase, beta' subunit/160 kD subunit	Transcription
+C4_0004	COG0085	17/18	DNA-directed RNA polymerase, beta subunit/140 kD subunit	Transcription
+C4_0009	COG0250	18/18	Transcription antiterminator	Transcription
+C4_0032	COG5007	18/18	Predicted transcriptional regulator, BolA superfamily	Transcription
+C4_0112	COG1940	8/18	Transcriptional regulator/sugar kinase	Transcription
+C4_0126	COG0195	18/18	Transcription elongation factor	Transcription
+C4_0139	COG1200	18/18	RecG-like helicase	Transcription
+C4_0141	COG0317	18/18	Guanosine polyphosphate pyrophosphohydrolases/synthetases	Transcription
+C4_0142	COG1758	18/18	DNA-directed RNA polymerase, subunit K/omega	Transcription
+C4_0174	COG0553	10/18	Superfamily II DNA/RNA helicases, SNF2 family	Transcription
+C4_0174	COG0513	18/18	Superfamily II DNA and RNA helicases	Transcription
+C4_0200	COG1475	18/18	Predicted transcriptional regulators	Transcription
+C4_0211	COG0583	18/18	Transcriptional regulator	Transcription
+C4_0266	COG0454	18/18	Histone acetyltransferase HPA2 and related acetyltransferases	Transcription
+C4_0314	COG4650	6/18	Sigma54-dependent transcription regulator containing an AAA-type ATPase domain and a DNA-binding domain	Transcription
+C4_0352	COG0568	18/18	DNA-directed RNA polymerase, sigma subunit (sigma70/sigma32)	Transcription
+C4_0364	COG1974	15/18	SOS-response transcriptional repressors (RecA-mediated autopeptidases)	Transcription
+C4_0392	COG1158	18/18	Transcription termination factor	Transcription
+C4_0461	COG1846	15/18	Transcriptional regulators	Transcription
+C4_0514	COG0745	18/18	Response regulators consisting of a CheY-like receiver domain and a winged-helix DNA-binding domain	Transcription
+C4_0536	COG0568	18/18	DNA-directed RNA polymerase, sigma subunit (sigma70/sigma32)	Transcription
+C4_0555	COG1420	16/18	Transcriptional regulator of heat shock gene	Transcription
+C4_0563	COG0782	18/18	Transcription elongation factor	Transcription
+C4_0586	COG1959	18/18	Predicted transcriptional regulator	Transcription
+C4_0592	COG1595	18/18	DNA-directed RNA polymerase specialized sigma subunit, sigma24 homolog	Transcription
+C4_0599	COG0571	18/18	dsRNA-specific ribonuclease	Transcription
+C4_0618	COG1521	17/18	Putative transcriptional regulator, homolog of Bvg accessory factor	Transcription
+C4_0645	COG2197	17/18	Response regulator containing a CheY-like receiver domain and an HTH DNA-binding domain	Transcription
+C4_0651	COG0782	18/18	Transcription elongation factor	Transcription
+C4_0721	COG1197	18/18	Transcription-repair coupling factor (superfamily II helicase)	Transcription
+C4_0724	COG0782	18/18	Transcription elongation factor	Transcription
+C4_0731	COG2197	17/18	Response regulator containing a CheY-like receiver domain and an HTH DNA-binding domain	Transcription
+C4_0773	COG0583	18/18	Transcriptional regulator	Transcription
+C4_0782	COG0557	18/18	Exoribonuclease R	Transcription
+C4_0814	COG2188	14/18	Transcriptional regulators	Transcription
+C4_0851	COG2208	7/18	Serine phosphatase RsbU, regulator of sigma subunit	Transcription
+C4_1053	COG1327	18/18	Predicted transcriptional regulator, consists of a Zn-ribbon and ATP-cone domains	Transcription
+C4_1074	COG1061	3/18	DNA or RNA helicases of superfamily II	Transcription
+C4_1087	COG0789	18/18	Predicted transcriptional regulators	Transcription
+C4_1134	COG1386	18/18	Predicted transcriptional regulator containing the HTH domain	Transcription
+C4_1190	COG1278	17/18	Cold shock proteins	Transcription
+C4_1191	COG1278	17/18	Cold shock proteins	Transcription
+C4_1246	COG0781	18/18	Transcription termination factor	Transcription
+C4_1249	COG0745	18/18	Response regulators consisting of a CheY-like receiver domain and a winged-helix DNA-binding domain	Transcription
+C4_1273	COG1199	18/18	Rad3-related DNA helicases	Transcription
+C4_1292	COG2901	17/18	Factor for inversion stimulation Fis, transcriptional activator	Transcription
+C4_1308	COG0202	18/18	DNA-directed RNA polymerase, alpha subunit/40 kD subunit	Transcription
+C4_0049	COG0550	18/18	Topoisomerase IA	Replication, recombination and repair
+C4_0065	COG0593	18/18	ATPase involved in DNA replication initiation	Replication, recombination and repair
+C4_0088	COG0708	18/18	Exonuclease III	Replication, recombination and repair
+C4_0100	COG4973	17/18	Site-specific recombinase XerC	Replication, recombination and repair
+C4_0139	COG1200	18/18	RecG-like helicase	Replication, recombination and repair
+C4_0162	COG0415	8/18	Deoxyribodipyrimidine photolyase	Replication, recombination and repair
+C4_0170	COG2827	7/18	Predicted endonuclease containing a URI domain	Replication, recombination and repair
+C4_0174	COG0553	10/18	Superfamily II DNA/RNA helicases, SNF2 family	Replication, recombination and repair
+C4_0174	COG0513	18/18	Superfamily II DNA and RNA helicases	Replication, recombination and repair
+C4_0208	COG0593	18/18	ATPase involved in DNA replication initiation	Replication, recombination and repair
+C4_0209	COG0592	18/18	DNA polymerase sliding clamp subunit (PCNA homolog)	Replication, recombination and repair
+C4_0210	COG0187	18/18	Type IIA topoisomerase (DNA gyrase/topo II, topoisomerase IV), B subunit	Replication, recombination and repair
+C4_0226	COG1198	18/18	Primosomal protein N' (replication factor Y) - superfamily II helicase	Replication, recombination and repair
+C4_0265	COG1194	18/18	A/G-specific DNA glycosylase	Replication, recombination and repair
+C4_0273	COG0494	18/18	NTP pyrophosphohydrolases including oxidative damage repair enzymes	Replication, recombination and repair
+C4_0293	COG0708	18/18	Exonuclease III	Replication, recombination and repair
+C4_0318	COG0178	18/18	Excinuclease ATPase subunit	Replication, recombination and repair
+C4_0320	COG0629	18/18	Single-stranded DNA-binding protein	Replication, recombination and repair
+C4_0329	COG0817	18/18	Holliday junction resolvasome, endonuclease subunit	Replication, recombination and repair
+C4_0330	COG0632	18/18	Holliday junction resolvasome, DNA-binding subunit	Replication, recombination and repair
+C4_0331	COG2255	18/18	Holliday junction resolvasome, helicase subunit	Replication, recombination and repair
+C4_0345	COG4974	18/18	Site-specific recombinase XerD	Replication, recombination and repair
+C4_0351	COG0358	18/18	DNA primase (bacterial type)	Replication, recombination and repair
+C4_0363	COG0776	18/18	Bacterial nucleoid DNA-binding protein	Replication, recombination and repair
+C4_0365	COG0389	18/18	Nucleotidyltransferase/DNA polymerase involved in DNA repair	Replication, recombination and repair
+C4_0434	COG0177	18/18	Predicted EndoIII-related endonuclease	Replication, recombination and repair
+C4_0478	COG0468	18/18	RecA/RadA recombinase	Replication, recombination and repair
+C4_0488	COG0415	8/18	Deoxyribodipyrimidine photolyase	Replication, recombination and repair
+C4_0529	COG0266	18/18	Formamidopyrimidine-DNA glycosylase	Replication, recombination and repair
+C4_0542	COG0742	18/18	N6-adenine-specific methylase	Replication, recombination and repair
+C4_0557	COG0497	18/18	ATPase involved in DNA repair	Replication, recombination and repair
+C4_0601	COG1381	17/18	Recombinational DNA repair protein (RecF pathway)	Replication, recombination and repair
+C4_0636	COG1643	18/18	HrpA-like helicases	Replication, recombination and repair
+C4_0638	COG0116	17/18	Predicted N6-adenine-specific DNA methylase	Replication, recombination and repair
+C4_0640	COG0587	18/18	DNA polymerase III, alpha subunit	Replication, recombination and repair
+C4_0701	COG0776	18/18	Bacterial nucleoid DNA-binding protein	Replication, recombination and repair
+C4_0718	COG2256	18/18	ATPase related to the helicase subunit of the Holliday junction resolvase	Replication, recombination and repair
+C4_0721	COG1197	18/18	Transcription-repair coupling factor (superfamily II helicase)	Replication, recombination and repair
+C4_0722	COG1074	18/18	ATP-dependent exoDNAse (exonuclease V) beta subunit (contains helicase and exonuclease domains)	Replication, recombination and repair
+C4_0755	COG0188	18/18	Type IIA topoisomerase (DNA gyrase/topo II, topoisomerase IV), A subunit	Replication, recombination and repair
+C4_0787	COG0556	18/18	Helicase subunit of the DNA excision repair complex	Replication, recombination and repair
+C4_0792	COG0305	18/18	Replicative DNA helicase	Replication, recombination and repair
+C4_0804	COG0272	18/18	NAD-dependent DNA ligase (contains BRCT domain type II)	Replication, recombination and repair
+C4_0823	COG0847	18/18	DNA polymerase III, epsilon subunit and related 3'-5' exonucleases	Replication, recombination and repair
+C4_0824	COG0328	18/18	Ribonuclease HI	Replication, recombination and repair
+C4_0886	COG0084	18/18	Mg-dependent DNase	Replication, recombination and repair
+C4_0887	COG0470	18/18	ATPase involved in DNA replication	Replication, recombination and repair
+C4_0902	COG0164	18/18	Ribonuclease HII	Replication, recombination and repair
+C4_0964	COG2812	18/18	DNA polymerase III, gamma/tau subunits	Replication, recombination and repair
+C4_0966	COG0353	17/18	Recombinational DNA repair protein (RecF pathway)	Replication, recombination and repair
+C4_1051	COG0084	18/18	Mg-dependent DNase	Replication, recombination and repair
+C4_1066	COG0847	18/18	DNA polymerase III, epsilon subunit and related 3'-5' exonucleases	Replication, recombination and repair
+C4_1069	COG0863	10/18	DNA modification methylase	Replication, recombination and repair
+C4_1072	COG0419	6/18	ATPase involved in DNA repair	Replication, recombination and repair
+C4_1074	COG1061	3/18	DNA or RNA helicases of superfamily II	Replication, recombination and repair
+C4_1082	COG0210	18/18	Superfamily I DNA and RNA helicases	Replication, recombination and repair
+C4_1088	COG0776	18/18	Bacterial nucleoid DNA-binding protein	Replication, recombination and repair
+C4_1106	COG0608	18/18	Single-stranded DNA-specific exonuclease	Replication, recombination and repair
+C4_1108	COG0322	18/18	Nuclease subunit of the excinuclease complex	Replication, recombination and repair
+C4_1110	COG1573	18/18	Uracil-DNA glycosylase	Replication, recombination and repair
+C4_1127	COG1570	18/18	Exonuclease VII, large subunit	Replication, recombination and repair
+C4_1166	COG0816	18/18	Predicted endonuclease involved in recombination (possible Holliday junction resolvase in Mycoplasmas and B. subtilis)	Replication, recombination and repair
+C4_1178	COG0494	18/18	NTP pyrophosphohydrolases including oxidative damage repair enzymes	Replication, recombination and repair
+C4_1182	COG1722	13/18	Exonuclease VII small subunit	Replication, recombination and repair
+C4_1205	COG1466	18/18	DNA polymerase III, delta subunit	Replication, recombination and repair
+C4_1240	COG0494	18/18	NTP pyrophosphohydrolases including oxidative damage repair enzymes	Replication, recombination and repair
+C4_1273	COG1199	18/18	Rad3-related DNA helicases	Replication, recombination and repair
+C4_1285	COG0210	18/18	Superfamily I DNA and RNA helicases	Replication, recombination and repair
+C4_1289	COG0749	18/18	DNA polymerase I - 3'-5' exonuclease and polymerase domains	Replication, recombination and repair
+C4_1289	COG0258	18/18	5'-3' exonuclease (including N-terminal domain of PolI)	Replication, recombination and repair
+C4_1292	COG2901	17/18	Factor for inversion stimulation Fis, transcriptional activator	Replication, recombination and repair
+C4_0922	COG0123	17/18	Deacetylases, including yeast histone deacetylase and acetoin utilization protein	Chromatin structure and dynamics
+C4_0048	COG0037	18/18	Predicted ATPase of the PP-loop superfamily implicated in cell cycle control	Cell cycle control, cell division, chromosome partitioning
+C4_0201	COG1192	18/18	ATPases involved in chromosome partitioning	Cell cycle control, cell division, chromosome partitioning
+C4_0203	COG0445	18/18	NAD/FAD-utilizing enzyme apparently involved in cell division	Cell cycle control, cell division, chromosome partitioning
+C4_0285	COG0772	18/18	Bacterial cell division membrane protein	Cell cycle control, cell division, chromosome partitioning
+C4_0288	COG1077	16/18	Actin-like ATPase involved in cell morphogenesis	Cell cycle control, cell division, chromosome partitioning
+C4_0407	COG0772	18/18	Bacterial cell division membrane protein	Cell cycle control, cell division, chromosome partitioning
+C4_0413	COG0849	18/18	Actin-like ATPase involved in cell division	Cell cycle control, cell division, chromosome partitioning
+C4_0414	COG0206	18/18	Cell division GTPase	Cell cycle control, cell division, chromosome partitioning
+C4_0537	COG2177	12/18	Cell division protein	Cell cycle control, cell division, chromosome partitioning
+C4_0538	COG2884	12/18	Predicted ATPase involved in cell division	Cell cycle control, cell division, chromosome partitioning
+C4_0642	COG0037	18/18	Predicted ATPase of the PP-loop superfamily implicated in cell cycle control	Cell cycle control, cell division, chromosome partitioning
+C4_0697	COG0489	18/18	ATPases involved in chromosome partitioning	Cell cycle control, cell division, chromosome partitioning
+C4_0716	COG1674	18/18	DNA segregation ATPase FtsK/SpoIIIE and related proteins	Cell cycle control, cell division, chromosome partitioning
+C4_0802	COG1196	17/18	Chromosome segregation ATPases	Cell cycle control, cell division, chromosome partitioning
+C4_0900	COG0424	18/18	Nucleotide-binding protein implicated in inhibition of septum formation	Cell cycle control, cell division, chromosome partitioning
+C4_0947	COG0239	17/18	Integral membrane protein possibly involved in chromosome condensation	Cell cycle control, cell division, chromosome partitioning
+C4_1045	COG2919	18/18	Septum formation initiator	Cell cycle control, cell division, chromosome partitioning
+C4_1139	COG2917	18/18	Intracellular septation protein A	Cell cycle control, cell division, chromosome partitioning
+C4_1220	COG4942	12/18	Membrane-bound metallopeptidase	Cell cycle control, cell division, chromosome partitioning
+C4_0033	COG0842	16/18	ABC-type multidrug transport system, permease component	Defense mechanisms
+C4_0034	COG1131	18/18	ABC-type multidrug transport system, ATPase component	Defense mechanisms
+C4_0057	COG3023	18/18	Negative regulator of beta-lactamase expression	Defense mechanisms
+C4_0059	COG0841	18/18	Cation/multidrug efflux pump	Defense mechanisms
+C4_0171	COG1132	18/18	ABC-type multidrug transport system, ATPase and permease components	Defense mechanisms
+C4_0263	COG1968	18/18	Uncharacterized bacitracin resistance protein	Defense mechanisms
+C4_0525	COG1131	18/18	ABC-type multidrug transport system, ATPase component	Defense mechanisms
+C4_1003	COG3510	1/18	Cephalosporin hydroxylase	Defense mechanisms
+C4_1025	COG3510	1/18	Cephalosporin hydroxylase	Defense mechanisms
+C4_1026	COG1132	18/18	ABC-type multidrug transport system, ATPase and permease components	Defense mechanisms
+C4_1085	COG3440	2/18	Predicted restriction endonuclease	Defense mechanisms
+C4_1158	COG1132	18/18	ABC-type multidrug transport system, ATPase and permease components	Defense mechanisms
+C4_1161	COG1136	18/18	ABC-type antimicrobial peptide transport system, ATPase component	Defense mechanisms
+C4_0089	COG2204	18/18	Response regulator containing CheY-like receiver, AAA-type ATPase, and DNA-binding domains	Signal transduction mechanisms
+C4_0090	COG5000	18/18	Signal transduction histidine kinase involved in nitrogen fixation and metabolism regulation	Signal transduction mechanisms
+C4_0120	COG1734	18/18	DnaK suppressor protein	Signal transduction mechanisms
+C4_0141	COG0317	18/18	Guanosine polyphosphate pyrophosphohydrolases/synthetases	Signal transduction mechanisms
+C4_0314	COG4650	6/18	Sigma54-dependent transcription regulator containing an AAA-type ATPase domain and a DNA-binding domain	Signal transduction mechanisms
+C4_0314	COG2204	18/18	Response regulator containing CheY-like receiver, AAA-type ATPase, and DNA-binding domains	Signal transduction mechanisms
+C4_0315	COG3852	14/18	Signal transduction histidine kinase, nitrogen specific	Signal transduction mechanisms
+C4_0357	COG1366	6/18	Anti-anti-sigma regulatory factor (antagonist of anti-sigma factor)	Signal transduction mechanisms
+C4_0358	COG1366	6/18	Anti-anti-sigma regulatory factor (antagonist of anti-sigma factor)	Signal transduction mechanisms
+C4_0364	COG1974	15/18	SOS-response transcriptional repressors (RecA-mediated autopeptidases)	Signal transduction mechanisms
+C4_0376	COG1875	15/18	Predicted ATPase related to phosphate starvation-inducible protein PhoH	Signal transduction mechanisms
+C4_0510	COG1702	18/18	Phosphate starvation-inducible protein PhoH, predicted ATPase	Signal transduction mechanisms
+C4_0513	COG0642	18/18	Signal transduction histidine kinase	Signal transduction mechanisms
+C4_0514	COG0745	18/18	Response regulators consisting of a CheY-like receiver domain and a winged-helix DNA-binding domain	Signal transduction mechanisms
+C4_0594	COG3026	14/18	Negative regulator of sigma E activity	Signal transduction mechanisms
+C4_0644	COG3851	2/18	Signal transduction histidine kinase, glucose-6-phosphate specific	Signal transduction mechanisms
+C4_0645	COG2197	17/18	Response regulator containing a CheY-like receiver domain and an HTH DNA-binding domain	Signal transduction mechanisms
+C4_0647	COG1217	18/18	Predicted membrane GTPase involved in stress response	Signal transduction mechanisms
+C4_0730	COG3851	2/18	Signal transduction histidine kinase, glucose-6-phosphate specific	Signal transduction mechanisms
+C4_0731	COG2197	17/18	Response regulator containing a CheY-like receiver domain and an HTH DNA-binding domain	Signal transduction mechanisms
+C4_0845	COG3848	6/18	Phosphohistidine swiveling domain	Signal transduction mechanisms
+C4_0850	COG0784	16/18	FOG: CheY-like receiver	Signal transduction mechanisms
+C4_0850	COG0642	18/18	Signal transduction histidine kinase	Signal transduction mechanisms
+C4_0851	COG2208	7/18	Serine phosphatase RsbU, regulator of sigma subunit	Signal transduction mechanisms
+C4_0851	COG0784	16/18	FOG: CheY-like receiver	Signal transduction mechanisms
+C4_1067	COG1391	18/18	Glutamine synthetase adenylyltransferase	Signal transduction mechanisms
+C4_1249	COG0745	18/18	Response regulators consisting of a CheY-like receiver domain and a winged-helix DNA-binding domain	Signal transduction mechanisms
+C4_1250	COG0642	18/18	Signal transduction histidine kinase	Signal transduction mechanisms
+C4_1254	COG0639	18/18	Diadenosine tetraphosphatase and related serine/threonine protein phosphatases	Signal transduction mechanisms
+C4_1300	COG1966	11/18	Carbon starvation protein, predicted membrane protein	Signal transduction mechanisms
+C4_0030	COG0766	18/18	UDP-N-acetylglucosamine enolpyruvyl transferase	Cell wall/membrane/envelope biogenesis
+C4_0050	COG1686	18/18	D-alanyl-D-alanine carboxypeptidase	Cell wall/membrane/envelope biogenesis
+C4_0058	COG0845	18/18	Membrane-fusion protein	Cell wall/membrane/envelope biogenesis
+C4_0070	COG0859	17/18	ADP-heptose:LPS heptosyltransferase	Cell wall/membrane/envelope biogenesis
+C4_0071	COG1560	16/18	Lauroyl/myristoyl acyltransferase	Cell wall/membrane/envelope biogenesis
+C4_0073	COG0859	17/18	ADP-heptose:LPS heptosyltransferase	Cell wall/membrane/envelope biogenesis
+C4_0074	COG0438	18/18	Glycosyltransferase	Cell wall/membrane/envelope biogenesis
+C4_0075	COG0438	18/18	Glycosyltransferase	Cell wall/membrane/envelope biogenesis
+C4_0076	COG3660	0/18	Predicted nucleoside-diphosphate-sugar epimerase	Cell wall/membrane/envelope biogenesis
+C4_0079	COG0794	16/18	Predicted sugar phosphate isomerase involved in capsule formation	Cell wall/membrane/envelope biogenesis
+C4_0132	COG1664	9/18	Integral membrane protein CcmA involved in cell shape determination	Cell wall/membrane/envelope biogenesis
+C4_0189	COG0449	18/18	Glucosamine 6-phosphate synthetase, contains amidotransferase and phosphosugar isomerase domains	Cell wall/membrane/envelope biogenesis
+C4_0189	COG2222	15/18	Predicted phosphosugar isomerases	Cell wall/membrane/envelope biogenesis
+C4_0190	COG1207	18/18	N-acetylglucosamine-1-phosphate uridyltransferase (contains nucleotidyltransferase and I-patch acetyltransferase domains)	Cell wall/membrane/envelope biogenesis
+C4_0202	COG0357	18/18	Predicted S-adenosylmethionine-dependent methyltransferase involved in bacterial cell division	Cell wall/membrane/envelope biogenesis
+C4_0239	COG0463	18/18	Glycosyltransferases involved in cell wall biogenesis	Cell wall/membrane/envelope biogenesis
+C4_0241	COG0810	16/18	Periplasmic protein TonB, links inner and outer membranes	Cell wall/membrane/envelope biogenesis
+C4_0242	COG0773	18/18	UDP-N-acetylmuramate-alanine ligase	Cell wall/membrane/envelope biogenesis
+C4_0248	COG2821	18/18	Membrane-bound lytic murein transglycosylase	Cell wall/membrane/envelope biogenesis
+C4_0259	COG1519	16/18	3-deoxy-D-manno-octulosonic-acid transferase	Cell wall/membrane/envelope biogenesis
+C4_0261	COG1538	18/18	Outer membrane protein	Cell wall/membrane/envelope biogenesis
+C4_0274	COG0761	18/18	Penicillin tolerance protein	Cell wall/membrane/envelope biogenesis
+C4_0284	COG0797	17/18	Lipoproteins	Cell wall/membrane/envelope biogenesis
+C4_0286	COG0768	18/18	Cell division protein FtsI/penicillin-binding protein 2	Cell wall/membrane/envelope biogenesis
+C4_0287	COG1792	16/18	Cell shape-determining protein	Cell wall/membrane/envelope biogenesis
+C4_0308	COG5009	18/18	Membrane carboxypeptidase/penicillin-binding protein	Cell wall/membrane/envelope biogenesis
+C4_0337	COG2885	18/18	Outer membrane protein and related peptidoglycan-associated (lipo)proteins	Cell wall/membrane/envelope biogenesis
+C4_0388	COG1807	18/18	4-amino-4-deoxy-L-arabinose transferase and related glycosyltransferases of PMT family	Cell wall/membrane/envelope biogenesis
+C4_0399	COG0275	18/18	Predicted S-adenosylmethionine-dependent methyltransferase involved in cell envelope biogenesis	Cell wall/membrane/envelope biogenesis
+C4_0400	COG0275	18/18	Predicted S-adenosylmethionine-dependent methyltransferase involved in cell envelope biogenesis	Cell wall/membrane/envelope biogenesis
+C4_0402	COG0768	18/18	Cell division protein FtsI/penicillin-binding protein 2	Cell wall/membrane/envelope biogenesis
+C4_0403	COG0769	18/18	UDP-N-acetylmuramyl tripeptide synthase	Cell wall/membrane/envelope biogenesis
+C4_0404	COG0770	15/18	UDP-N-acetylmuramyl pentapeptide synthase	Cell wall/membrane/envelope biogenesis
+C4_0405	COG0472	18/18	UDP-N-acetylmuramyl pentapeptide phosphotransferase/UDP-N-acetylglucosamine-1-phosphate transferase	Cell wall/membrane/envelope biogenesis
+C4_0406	COG0771	18/18	UDP-N-acetylmuramoylalanine-D-glutamate ligase	Cell wall/membrane/envelope biogenesis
+C4_0408	COG0707	18/18	UDP-N-acetylglucosamine:LPS N-acetylglucosamine transferase	Cell wall/membrane/envelope biogenesis
+C4_0409	COG0773	18/18	UDP-N-acetylmuramate-alanine ligase	Cell wall/membrane/envelope biogenesis
+C4_0410	COG0812	18/18	UDP-N-acetylmuramate dehydrogenase	Cell wall/membrane/envelope biogenesis
+C4_0411	COG1181	18/18	D-alanine-D-alanine ligase and related ATP-grasp enzymes	Cell wall/membrane/envelope biogenesis
+C4_0412	COG1589	18/18	Cell division septal protein	Cell wall/membrane/envelope biogenesis
+C4_0415	COG0774	16/18	UDP-3-O-acyl-N-acetylglucosamine deacetylase	Cell wall/membrane/envelope biogenesis
+C4_0416	COG0702	16/18	Predicted nucleoside-diphosphate-sugar epimerases	Cell wall/membrane/envelope biogenesis
+C4_0431	COG0739	18/18	Membrane proteins related to metalloendopeptidases	Cell wall/membrane/envelope biogenesis
+C4_0441	COG0329	18/18	Dihydrodipicolinate synthase/N-acetylneuraminate lyase	Cell wall/membrane/envelope biogenesis
+C4_0442	COG3317	18/18	Uncharacterized lipoprotein	Cell wall/membrane/envelope biogenesis
+C4_0472	COG0818	15/18	Diacylglycerol kinase	Cell wall/membrane/envelope biogenesis
+C4_0487	COG2853	17/18	Surface lipoprotein	Cell wall/membrane/envelope biogenesis
+C4_0498	COG0796	15/18	Glutamate racemase	Cell wall/membrane/envelope biogenesis
+C4_0506	COG0815	16/18	Apolipoprotein N-acyltransferase	Cell wall/membrane/envelope biogenesis
+C4_0552	COG2870	17/18	ADP-heptose synthase, bifunctional sugar kinase/adenylyltransferase	Cell wall/membrane/envelope biogenesis
+C4_0552	COG0615	3/18	Cytidylyltransferase	Cell wall/membrane/envelope biogenesis
+C4_0553	COG0451	18/18	Nucleoside-diphosphate-sugar epimerases	Cell wall/membrane/envelope biogenesis
+C4_0597	COG0481	18/18	Membrane GTPase LepA	Cell wall/membrane/envelope biogenesis
+C4_0611	COG3468	9/18	Type V secretory pathway, adhesin AidA	Cell wall/membrane/envelope biogenesis
+C4_0612	COG0810	16/18	Periplasmic protein TonB, links inner and outer membranes	Cell wall/membrane/envelope biogenesis
+C4_0624	COG3306	2/18	Glycosyltransferase involved in LPS biosynthesis	Cell wall/membrane/envelope biogenesis
+C4_0648	COG0677	13/18	UDP-N-acetyl-D-mannosaminuronate dehydrogenase	Cell wall/membrane/envelope biogenesis
+C4_0673	COG3637	2/18	Opacity protein and related surface antigens	Cell wall/membrane/envelope biogenesis
+C4_0676	COG0463	18/18	Glycosyltransferases involved in cell wall biogenesis	Cell wall/membrane/envelope biogenesis
+C4_0717	COG2834	18/18	Outer membrane lipoprotein-sorting protein	Cell wall/membrane/envelope biogenesis
+C4_0780	COG1210	17/18	UDP-glucose pyrophosphorylase	Cell wall/membrane/envelope biogenesis
+C4_0793	COG0787	18/18	Alanine racemase	Cell wall/membrane/envelope biogenesis
+C4_0827	COG0741	18/18	Soluble lytic murein transglycosylase and related regulatory proteins (some contain LysM/invasin domains)	Cell wall/membrane/envelope biogenesis
+C4_0842	COG0794	16/18	Predicted sugar phosphate isomerase involved in capsule formation	Cell wall/membrane/envelope biogenesis
+C4_0903	COG0763	16/18	Lipid A disaccharide synthetase	Cell wall/membrane/envelope biogenesis
+C4_0904	COG1043	17/18	Acyl-[acyl carrier protein]--UDP-N-acetylglucosamine O-acyltransferase	Cell wall/membrane/envelope biogenesis
+C4_0906	COG1044	16/18	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase	Cell wall/membrane/envelope biogenesis
+C4_0908	COG4775	18/18	Outer membrane protein/protective antigen OMA87	Cell wall/membrane/envelope biogenesis
+C4_0924	COG2230	13/18	Cyclopropane fatty acid synthase and related methyltransferases	Cell wall/membrane/envelope biogenesis
+C4_0930	COG3040	8/18	Bacterial lipocalin	Cell wall/membrane/envelope biogenesis
+C4_0934	COG2230	13/18	Cyclopropane fatty acid synthase and related methyltransferases	Cell wall/membrane/envelope biogenesis
+C4_0938	COG0860	18/18	N-acetylmuramoyl-L-alanine amidase	Cell wall/membrane/envelope biogenesis
+C4_0998	COG1086	18/18	Predicted nucleoside-diphosphate sugar epimerases	Cell wall/membrane/envelope biogenesis
+C4_0999	COG2148	18/18	Sugar transferases involved in lipopolysaccharide synthesis	Cell wall/membrane/envelope biogenesis
+C4_1000	COG0438	18/18	Glycosyltransferase	Cell wall/membrane/envelope biogenesis
+C4_1001	COG0463	18/18	Glycosyltransferases involved in cell wall biogenesis	Cell wall/membrane/envelope biogenesis
+C4_1005	COG0399	18/18	Predicted pyridoxal phosphate-dependent enzyme apparently involved in regulation of cell wall biogenesis	Cell wall/membrane/envelope biogenesis
+C4_1007	COG1898	18/18	dTDP-4-dehydrorhamnose 3,5-epimerase and related enzymes	Cell wall/membrane/envelope biogenesis
+C4_1008	COG0451	18/18	Nucleoside-diphosphate-sugar epimerases	Cell wall/membrane/envelope biogenesis
+C4_1009	COG1208	18/18	Nucleoside-diphosphate-sugar pyrophosphorylase involved in lipopolysaccharide biosynthesis/translation initiation factor 2B, gamma/epsilon subunits (eIF-2Bgamma/eIF-2Bepsilon)	Cell wall/membrane/envelope biogenesis
+C4_1010	COG1898	18/18	dTDP-4-dehydrorhamnose 3,5-epimerase and related enzymes	Cell wall/membrane/envelope biogenesis
+C4_1011	COG1209	15/18	dTDP-glucose pyrophosphorylase	Cell wall/membrane/envelope biogenesis
+C4_1012	COG0463	18/18	Glycosyltransferases involved in cell wall biogenesis	Cell wall/membrane/envelope biogenesis
+C4_1013	COG0438	18/18	Glycosyltransferase	Cell wall/membrane/envelope biogenesis
+C4_1014	COG0451	18/18	Nucleoside-diphosphate-sugar epimerases	Cell wall/membrane/envelope biogenesis
+C4_1020	COG1083	4/18	CMP-N-acetylneuraminic acid synthetase	Cell wall/membrane/envelope biogenesis
+C4_1021	COG0329	18/18	Dihydrodipicolinate synthase/N-acetylneuraminate lyase	Cell wall/membrane/envelope biogenesis
+C4_1022	COG1089	6/18	GDP-D-mannose dehydratase	Cell wall/membrane/envelope biogenesis
+C4_1023	COG2089	5/18	Sialic acid synthase	Cell wall/membrane/envelope biogenesis
+C4_1027	COG0451	18/18	Nucleoside-diphosphate-sugar epimerases	Cell wall/membrane/envelope biogenesis
+C4_1028	COG1089	6/18	GDP-D-mannose dehydratase	Cell wall/membrane/envelope biogenesis
+C4_1029	COG0836	11/18	Mannose-1-phosphate guanylyltransferase	Cell wall/membrane/envelope biogenesis
+C4_1030	COG1004	13/18	Predicted UDP-glucose 6-dehydrogenase	Cell wall/membrane/envelope biogenesis
+C4_1031	COG1091	18/18	dTDP-4-dehydrorhamnose reductase	Cell wall/membrane/envelope biogenesis
+C4_1032	COG1088	18/18	dTDP-D-glucose 4,6-dehydratase	Cell wall/membrane/envelope biogenesis
+C4_1047	COG2877	16/18	3-deoxy-D-manno-octulosonic acid (KDO) 8-phosphate synthase	Cell wall/membrane/envelope biogenesis
+C4_1081	COG3764	0/18	Sortase (surface protein transpeptidase)	Cell wall/membrane/envelope biogenesis
+C4_1094	COG0451	18/18	Nucleoside-diphosphate-sugar epimerases	Cell wall/membrane/envelope biogenesis
+C4_1115	COG0739	18/18	Membrane proteins related to metalloendopeptidases	Cell wall/membrane/envelope biogenesis
+C4_1155	COG1212	18/18	CMP-2-keto-3-deoxyoctulosonic acid synthetase	Cell wall/membrane/envelope biogenesis
+C4_1157	COG1663	17/18	Tetraacyldisaccharide-1-P 4'-kinase	Cell wall/membrane/envelope biogenesis
+C4_1162	COG4591	18/18	ABC-type transport system, involved in lipoprotein release, permease component	Cell wall/membrane/envelope biogenesis
+C4_1196	COG1208	18/18	Nucleoside-diphosphate-sugar pyrophosphorylase involved in lipopolysaccharide biosynthesis/translation initiation factor 2B, gamma/epsilon subunits (eIF-2Bgamma/eIF-2Bepsilon)	Cell wall/membrane/envelope biogenesis
+C4_1198	COG1452	18/18	Organic solvent tolerance protein OstA	Cell wall/membrane/envelope biogenesis
+C4_1224	COG0597	18/18	Lipoprotein signal peptidase	Cell wall/membrane/envelope biogenesis
+C4_1275	COG0793	18/18	Periplasmic protease	Cell wall/membrane/envelope biogenesis
+C4_1280	COG2027	18/18	D-alanyl-D-alanine carboxypeptidase (penicillin-binding protein 4)	Cell wall/membrane/envelope biogenesis
+C4_1299	COG0682	18/18	Prolipoprotein diacylglyceryltransferase	Cell wall/membrane/envelope biogenesis
+C4_1305	COG3264	15/18	Small-conductance mechanosensitive channel	Cell wall/membrane/envelope biogenesis
+C4_0527	COG3225	3/18	ABC-type uncharacterized transport system involved in gliding motility, auxiliary component	Cell motility
+C4_0743	COG3170	16/18	Tfp pilus assembly protein FimV	Cell motility
+C4_0961	COG1450	16/18	Type II secretory pathway, component PulD	Cell motility
+C4_0010	COG0690	16/18	Preprotein translocase subunit SecE	Intracellular trafficking, secretion, and vesicular transport
+C4_0017	COG0805	18/18	Sec-independent protein secretion pathway component TatC	Intracellular trafficking, secretion, and vesicular transport
+C4_0205	COG0706	18/18	Preprotein translocase subunit YidC	Intracellular trafficking, secretion, and vesicular transport
+C4_0261	COG1538	18/18	Outer membrane protein	Intracellular trafficking, secretion, and vesicular transport
+C4_0333	COG0811	18/18	Biopolymer transport proteins	Intracellular trafficking, secretion, and vesicular transport
+C4_0334	COG0848	18/18	Biopolymer transport protein	Intracellular trafficking, secretion, and vesicular transport
+C4_0336	COG0823	16/18	Periplasmic component of the Tol biopolymer transport system	Intracellular trafficking, secretion, and vesicular transport
+C4_0432	COG0653	18/18	Preprotein translocase subunit SecA (ATPase, RNA helicase)	Intracellular trafficking, secretion, and vesicular transport
+C4_0451	COG0341	18/18	Preprotein translocase subunit SecF	Intracellular trafficking, secretion, and vesicular transport
+C4_0452	COG0342	18/18	Preprotein translocase subunit SecD	Intracellular trafficking, secretion, and vesicular transport
+C4_0453	COG1862	18/18	Preprotein translocase subunit YajC	Intracellular trafficking, secretion, and vesicular transport
+C4_0460	COG0541	18/18	Signal recognition particle GTPase	Intracellular trafficking, secretion, and vesicular transport
+C4_0539	COG0552	18/18	Signal recognition particle GTPase	Intracellular trafficking, secretion, and vesicular transport
+C4_0598	COG0681	18/18	Signal peptidase I	Intracellular trafficking, secretion, and vesicular transport
+C4_0607	COG2831	14/18	Hemolysin activation/secretion protein	Intracellular trafficking, secretion, and vesicular transport
+C4_0611	COG3210	14/18	Large exoproteins involved in heme utilization or adhesion	Intracellular trafficking, secretion, and vesicular transport
+C4_0611	COG3468	9/18	Type V secretory pathway, adhesin AidA	Intracellular trafficking, secretion, and vesicular transport
+C4_0614	COG0811	18/18	Biopolymer transport proteins	Intracellular trafficking, secretion, and vesicular transport
+C4_0743	COG3170	16/18	Tfp pilus assembly protein FimV	Intracellular trafficking, secretion, and vesicular transport
+C4_0835	COG0740	18/18	Protease subunit of ATP-dependent Clp proteases	Intracellular trafficking, secretion, and vesicular transport
+C4_0942	COG0616	15/18	Periplasmic serine proteases (ClpP class)	Intracellular trafficking, secretion, and vesicular transport
+C4_0961	COG1450	16/18	Type II secretory pathway, component PulD	Intracellular trafficking, secretion, and vesicular transport
+C4_1104	COG1314	10/18	Preprotein translocase subunit SecG	Intracellular trafficking, secretion, and vesicular transport
+C4_1159	COG0848	18/18	Biopolymer transport protein	Intracellular trafficking, secretion, and vesicular transport
+C4_1160	COG0811	18/18	Biopolymer transport proteins	Intracellular trafficking, secretion, and vesicular transport
+C4_1215	COG1952	18/18	Preprotein translocase subunit SecB	Intracellular trafficking, secretion, and vesicular transport
+C4_1224	COG0597	18/18	Lipoprotein signal peptidase	Intracellular trafficking, secretion, and vesicular transport
+C4_1313	COG0201	18/18	Preprotein translocase subunit SecY	Intracellular trafficking, secretion, and vesicular transport
+C4_0013	COG0625	18/18	Glutathione S-transferase	Posttranslational modification, protein turnover, chaperones
+C4_0031	COG0278	18/18	Glutaredoxin-related protein	Posttranslational modification, protein turnover, chaperones
+C4_0040	COG0755	18/18	ABC-type transport system involved in cytochrome c biogenesis, permease component	Posttranslational modification, protein turnover, chaperones
+C4_0041	COG1333	12/18	ResB protein required for cytochrome c biosynthesis	Posttranslational modification, protein turnover, chaperones
+C4_0066	COG3634	6/18	Alkyl hydroperoxide reductase, large subunit	Posttranslational modification, protein turnover, chaperones
+C4_0067	COG0450	15/18	Peroxiredoxin	Posttranslational modification, protein turnover, chaperones
+C4_0109	COG2924	17/18	Fe-S cluster protector protein	Posttranslational modification, protein turnover, chaperones
+C4_0116	COG0425	17/18	Predicted redox protein, regulator of disulfide bond formation	Posttranslational modification, protein turnover, chaperones
+C4_0129	COG2377	16/18	Predicted molecular chaperone distantly related to HSP70-fold metalloproteases	Posttranslational modification, protein turnover, chaperones
+C4_0155	COG4232	18/18	Thiol:disulfide interchange protein	Posttranslational modification, protein turnover, chaperones
+C4_0156	COG0526	18/18	Thiol-disulfide isomerase and thioredoxins	Posttranslational modification, protein turnover, chaperones
+C4_0220	COG0450	15/18	Peroxiredoxin	Posttranslational modification, protein turnover, chaperones
+C4_0223	COG0526	18/18	Thiol-disulfide isomerase and thioredoxins	Posttranslational modification, protein turnover, chaperones
+C4_0255	COG0265	18/18	Trypsin-like serine proteases, typically periplasmic, contain C-terminal PDZ domain	Posttranslational modification, protein turnover, chaperones
+C4_0339	COG0602	18/18	Organic radical activating enzymes	Posttranslational modification, protein turnover, chaperones
+C4_0348	COG0533	18/18	Metal-dependent proteases with possible chaperone activity	Posttranslational modification, protein turnover, chaperones
+C4_0377	COG1225	18/18	Peroxiredoxin	Posttranslational modification, protein turnover, chaperones
+C4_0394	COG0526	18/18	Thiol-disulfide isomerase and thioredoxins	Posttranslational modification, protein turnover, chaperones
+C4_0422	COG0526	18/18	Thiol-disulfide isomerase and thioredoxins	Posttranslational modification, protein turnover, chaperones
+C4_0446	COG0625	18/18	Glutathione S-transferase	Posttranslational modification, protein turnover, chaperones
+C4_0447	COG0542	18/18	ATPases with chaperone activity, ATP-binding subunit	Posttranslational modification, protein turnover, chaperones
+C4_0463	COG0265	18/18	Trypsin-like serine proteases, typically periplasmic, contain C-terminal PDZ domain	Posttranslational modification, protein turnover, chaperones
+C4_0546	COG0484	18/18	DnaJ-class molecular chaperone with C-terminal Zn finger domain	Posttranslational modification, protein turnover, chaperones
+C4_0547	COG0443	18/18	Molecular chaperone	Posttranslational modification, protein turnover, chaperones
+C4_0548	COG0576	18/18	Molecular chaperone GrpE (heat shock protein)	Posttranslational modification, protein turnover, chaperones
+C4_0567	COG0465	18/18	ATP-dependent Zn proteases	Posttranslational modification, protein turnover, chaperones
+C4_0580	COG0443	18/18	Molecular chaperone	Posttranslational modification, protein turnover, chaperones
+C4_0581	COG1076	17/18	DnaJ-domain-containing proteins 1	Posttranslational modification, protein turnover, chaperones
+C4_0590	COG1047	18/18	FKBP-type peptidyl-prolyl cis-trans isomerases 2	Posttranslational modification, protein turnover, chaperones
+C4_0596	COG0265	18/18	Trypsin-like serine proteases, typically periplasmic, contain C-terminal PDZ domain	Posttranslational modification, protein turnover, chaperones
+C4_0605	COG0326	16/18	Molecular chaperone, HSP90 family	Posttranslational modification, protein turnover, chaperones
+C4_0623	COG1225	18/18	Peroxiredoxin	Posttranslational modification, protein turnover, chaperones
+C4_0639	COG2077	10/18	Peroxiredoxin	Posttranslational modification, protein turnover, chaperones
+C4_0664	COG0691	18/18	tmRNA-binding protein	Posttranslational modification, protein turnover, chaperones
+C4_0706	COG2935	16/18	Putative arginyl-tRNA:protein arginylyltransferase	Posttranslational modification, protein turnover, chaperones
+C4_0715	COG0492	18/18	Thioredoxin reductase	Posttranslational modification, protein turnover, chaperones
+C4_0786	COG0265	18/18	Trypsin-like serine proteases, typically periplasmic, contain C-terminal PDZ domain	Posttranslational modification, protein turnover, chaperones
+C4_0794	COG1066	18/18	Predicted ATP-dependent serine protease	Posttranslational modification, protein turnover, chaperones
+C4_0832	COG0760	18/18	Parvulin-like peptidyl-prolyl isomerase	Posttranslational modification, protein turnover, chaperones
+C4_0833	COG0466	18/18	ATP-dependent Lon protease, bacterial type	Posttranslational modification, protein turnover, chaperones
+C4_0834	COG1219	18/18	ATP-dependent protease Clp, ATPase subunit	Posttranslational modification, protein turnover, chaperones
+C4_0835	COG0740	18/18	Protease subunit of ATP-dependent Clp proteases	Posttranslational modification, protein turnover, chaperones
+C4_0836	COG0544	18/18	FKBP-type peptidyl-prolyl cis-trans isomerase (trigger factor)	Posttranslational modification, protein turnover, chaperones
+C4_0847	COG0386	15/18	Glutathione peroxidase	Posttranslational modification, protein turnover, chaperones
+C4_0855	COG1281	16/18	Disulfide bond chaperones of the HSP33 family	Posttranslational modification, protein turnover, chaperones
+C4_0874	COG0225	18/18	Peptide methionine sulfoxide reductase	Posttranslational modification, protein turnover, chaperones
+C4_0875	COG0229	18/18	Conserved domain frequently associated with peptide methionine sulfoxide reductase	Posttranslational modification, protein turnover, chaperones
+C4_0917	COG2844	17/18	UTP:GlnB (protein PII) uridylyltransferase	Posttranslational modification, protein turnover, chaperones
+C4_0936	COG3914	6/18	Predicted O-linked N-acetylglucosamine transferase, SPINDLY family	Posttranslational modification, protein turnover, chaperones
+C4_0942	COG0616	15/18	Periplasmic serine proteases (ClpP class)	Posttranslational modification, protein turnover, chaperones
+C4_0949	COG0501	18/18	Zn-dependent protease with chaperone function	Posttranslational modification, protein turnover, chaperones
+C4_0972	COG0330	18/18	Membrane protease subunits, stomatin/prohibitin homologs	Posttranslational modification, protein turnover, chaperones
+C4_0973	COG0330	18/18	Membrane protease subunits, stomatin/prohibitin homologs	Posttranslational modification, protein turnover, chaperones
+C4_1067	COG1391	18/18	Glutamine synthetase adenylyltransferase	Posttranslational modification, protein turnover, chaperones
+C4_1116	COG0526	18/18	Thiol-disulfide isomerase and thioredoxins	Posttranslational modification, protein turnover, chaperones
+C4_1129	COG0501	18/18	Zn-dependent protease with chaperone function	Posttranslational modification, protein turnover, chaperones
+C4_1142	COG0760	18/18	Parvulin-like peptidyl-prolyl isomerase	Posttranslational modification, protein turnover, chaperones
+C4_1192	COG1651	18/18	Protein-disulfide isomerase	Posttranslational modification, protein turnover, chaperones
+C4_1199	COG0760	18/18	Parvulin-like peptidyl-prolyl isomerase	Posttranslational modification, protein turnover, chaperones
+C4_1217	COG0695	18/18	Glutaredoxin and related proteins	Posttranslational modification, protein turnover, chaperones
+C4_1243	COG0652	18/18	Peptidyl-prolyl cis-trans isomerase (rotamase) - cyclophilin family	Posttranslational modification, protein turnover, chaperones
+C4_1244	COG0652	18/18	Peptidyl-prolyl cis-trans isomerase (rotamase) - cyclophilin family	Posttranslational modification, protein turnover, chaperones
+C4_1256	COG0109	16/18	Polyprenyltransferase (cytochrome oxidase assembly factor)	Posttranslational modification, protein turnover, chaperones
+C4_1257	COG1612	15/18	Uncharacterized protein required for cytochrome oxidase assembly	Posttranslational modification, protein turnover, chaperones
+C4_1258	COG0526	18/18	Thiol-disulfide isomerase and thioredoxins	Posttranslational modification, protein turnover, chaperones
+C4_1262	COG3175	12/18	Cytochrome oxidase assembly factor	Posttranslational modification, protein turnover, chaperones
+C4_1272	COG1214	18/18	Inactive homolog of metal-dependent proteases, putative molecular chaperone	Posttranslational modification, protein turnover, chaperones
+C4_1274	COG3526	4/18	Uncharacterized protein conserved in bacteria	Posttranslational modification, protein turnover, chaperones
+C4_1278	COG1765	18/18	Predicted redox protein, regulator of disulfide bond formation	Posttranslational modification, protein turnover, chaperones
+C4_1279	COG0545	14/18	FKBP-type peptidyl-prolyl cis-trans isomerases 1	Posttranslational modification, protein turnover, chaperones
+C4_1283	COG0234	18/18	Co-chaperonin GroES (HSP10)	Posttranslational modification, protein turnover, chaperones
+C4_1284	COG0459	18/18	Chaperonin GroEL (HSP60 family)	Posttranslational modification, protein turnover, chaperones
+C4_0014	COG2857	18/18	Cytochrome c1	Energy production and conversion
+C4_0015	COG1290	17/18	Cytochrome b subunit of the bc complex	Energy production and conversion
+C4_0016	COG0723	17/18	Rieske Fe-S protein	Energy production and conversion
+C4_0043	COG2863	17/18	Cytochrome c553	Energy production and conversion
+C4_0060	COG1301	12/18	Na+/H+-dicarboxylate symporters	Energy production and conversion
+C4_0109	COG2924	17/18	Fe-S cluster protector protein	Energy production and conversion
+C4_0130	COG0372	18/18	Citrate synthase	Energy production and conversion
+C4_0153	COG0543	18/18	2-polyprenylphenol hydroxylase and related flavodoxin oxidoreductases	Energy production and conversion
+C4_0155	COG4232	18/18	Thiol:disulfide interchange protein	Energy production and conversion
+C4_0156	COG0526	18/18	Thiol-disulfide isomerase and thioredoxins	Energy production and conversion
+C4_0191	COG0355	18/18	F0F1-type ATP synthase, epsilon subunit (mitochondrial delta subunit)	Energy production and conversion
+C4_0192	COG0055	18/18	F0F1-type ATP synthase, beta subunit	Energy production and conversion
+C4_0193	COG0224	18/18	F0F1-type ATP synthase, gamma subunit	Energy production and conversion
+C4_0194	COG0056	18/18	F0F1-type ATP synthase, alpha subunit	Energy production and conversion
+C4_0195	COG0712	18/18	F0F1-type ATP synthase, delta subunit (mitochondrial oligomycin sensitivity protein)	Energy production and conversion
+C4_0196	COG0711	18/18	F0F1-type ATP synthase, subunit b	Energy production and conversion
+C4_0197	COG0636	18/18	F0F1-type ATP synthase, subunit c/Archaeal/vacuolar-type H+-ATPase, subunit K	Energy production and conversion
+C4_0198	COG0356	18/18	F0F1-type ATP synthase, subunit a	Energy production and conversion
+C4_0212	COG3288	16/18	NAD/NADP transhydrogenase alpha subunit	Energy production and conversion
+C4_0213	COG3288	16/18	NAD/NADP transhydrogenase alpha subunit	Energy production and conversion
+C4_0214	COG1282	15/18	NAD/NADP transhydrogenase beta subunit	Energy production and conversion
+C4_0221	COG1902	16/18	NADH:flavin oxidoreductases, Old Yellow Enzyme family	Energy production and conversion
+C4_0223	COG0526	18/18	Thiol-disulfide isomerase and thioredoxins	Energy production and conversion
+C4_0270	COG3038	12/18	Cytochrome B561	Energy production and conversion
+C4_0271	COG3411	12/18	Ferredoxin	Energy production and conversion
+C4_0374	COG1252	15/18	NADH dehydrogenase, FAD-containing subunit	Energy production and conversion
+C4_0382	COG1905	18/18	NADH:ubiquinone oxidoreductase 24 kD subunit	Energy production and conversion
+C4_0383	COG1894	18/18	NADH:ubiquinone oxidoreductase, NADH-binding (51 kD) subunit	Energy production and conversion
+C4_0385	COG1526	11/18	Uncharacterized protein required for formate dehydrogenase activity	Energy production and conversion
+C4_0394	COG0526	18/18	Thiol-disulfide isomerase and thioredoxins	Energy production and conversion
+C4_0422	COG0526	18/18	Thiol-disulfide isomerase and thioredoxins	Energy production and conversion
+C4_0428	COG3808	6/18	Inorganic pyrophosphatase	Energy production and conversion
+C4_0435	COG4660	3/18	Predicted NADH:ubiquinone oxidoreductase, subunit RnfE	Energy production and conversion
+C4_0436	COG4659	3/18	Predicted NADH:ubiquinone oxidoreductase, subunit RnfG	Energy production and conversion
+C4_0437	COG4658	3/18	Predicted NADH:ubiquinone oxidoreductase, subunit RnfD	Energy production and conversion
+C4_0438	COG4656	3/18	Predicted NADH:ubiquinone oxidoreductase, subunit RnfC	Energy production and conversion
+C4_0439	COG2878	18/18	Predicted NADH:ubiquinone oxidoreductase, subunit RnfB	Energy production and conversion
+C4_0440	COG4657	3/18	Predicted NADH:ubiquinone oxidoreductase, subunit RnfA	Energy production and conversion
+C4_0544	COG1145	18/18	Ferredoxin	Energy production and conversion
+C4_0579	COG0633	16/18	Ferredoxin	Energy production and conversion
+C4_0583	COG0822	18/18	NifU homolog involved in Fe-S cluster formation	Energy production and conversion
+C4_0619	COG1249	18/18	Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide dehydrogenase (E3) component, and related enzymes	Energy production and conversion
+C4_0620	COG0508	18/18	Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide acyltransferase (E2) component, and related enzymes	Energy production and conversion
+C4_0621	COG2609	17/18	Pyruvate dehydrogenase complex, dehydrogenase (E1) component	Energy production and conversion
+C4_0650	COG0778	16/18	Nitroreductase	Energy production and conversion
+C4_0741	COG0473	18/18	Isocitrate/isopropylmalate dehydrogenase	Energy production and conversion
+C4_0766	COG1146	15/18	Ferredoxin	Energy production and conversion
+C4_0806	COG1838	14/18	Tartrate dehydratase beta subunit/Fumarate hydratase class I, C-terminal domain	Energy production and conversion
+C4_0806	COG1951	14/18	Tartrate dehydratase alpha subunit/Fumarate hydratase class I, N-terminal domain	Energy production and conversion
+C4_0810	COG0479	17/18	Succinate dehydrogenase/fumarate reductase, Fe-S protein subunit	Energy production and conversion
+C4_0811	COG1053	17/18	Succinate dehydrogenase/fumarate reductase, flavoprotein subunit	Energy production and conversion
+C4_0812	COG2009	17/18	Succinate dehydrogenase/fumarate reductase, cytochrome b subunit	Energy production and conversion
+C4_0813	COG0281	16/18	Malic enzyme	Energy production and conversion
+C4_0819	COG0372	18/18	Citrate synthase	Energy production and conversion
+C4_0882	COG0243	15/18	Anaerobic dehydrogenases, typically selenocysteine-containing	Energy production and conversion
+C4_0899	COG5016	6/18	Pyruvate/oxaloacetate carboxyltransferase	Energy production and conversion
+C4_0940	COG1600	12/18	Uncharacterized Fe-S protein	Energy production and conversion
+C4_0962	COG1012	17/18	NAD-dependent aldehyde dehydrogenases	Energy production and conversion
+C4_1097	COG2871	3/18	Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrF	Energy production and conversion
+C4_1098	COG2209	3/18	Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrE	Energy production and conversion
+C4_1099	COG1347	3/18	Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrD	Energy production and conversion
+C4_1100	COG2869	3/18	Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrC	Energy production and conversion
+C4_1101	COG1805	4/18	Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrB	Energy production and conversion
+C4_1102	COG1726	3/18	Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrA	Energy production and conversion
+C4_1111	COG1049	13/18	Aconitase B	Energy production and conversion
+C4_1116	COG0526	18/18	Thiol-disulfide isomerase and thioredoxins	Energy production and conversion
+C4_1117	COG0778	16/18	Nitroreductase	Energy production and conversion
+C4_1149	COG0045	18/18	Succinyl-CoA synthetase, beta subunit	Energy production and conversion
+C4_1150	COG0074	18/18	Succinyl-CoA synthetase, alpha subunit	Energy production and conversion
+C4_1189	COG0538	15/18	Isocitrate dehydrogenases	Energy production and conversion
+C4_1193	COG0654	18/18	2-polyprenyl-6-methoxyphenol hydroxylase and related FAD-dependent oxidoreductases	Energy production and conversion
+C4_1194	COG0654	18/18	2-polyprenyl-6-methoxyphenol hydroxylase and related FAD-dependent oxidoreductases	Energy production and conversion
+C4_1213	COG0240	18/18	Glycerol-3-phosphate dehydrogenase	Energy production and conversion
+C4_1252	COG0247	18/18	Fe-S oxidoreductase	Energy production and conversion
+C4_1252	COG0277	18/18	FAD/FMN-containing dehydrogenases	Energy production and conversion
+C4_1255	COG3245	15/18	Cytochrome c5	Energy production and conversion
+C4_1258	COG0526	18/18	Thiol-disulfide isomerase and thioredoxins	Energy production and conversion
+C4_1261	COG1845	16/18	Heme/copper-type cytochrome/quinol oxidase, subunit 3	Energy production and conversion
+C4_1264	COG0843	16/18	Heme/copper-type cytochrome/quinol oxidases, subunit 1	Energy production and conversion
+C4_1265	COG2010	18/18	Cytochrome c, mono- and diheme variants	Energy production and conversion
+C4_1265	COG1622	16/18	Heme/copper-type cytochrome/quinol oxidases, subunit 2	Energy production and conversion
+C4_1282	COG0667	13/18	Predicted oxidoreductases (related to aryl-alcohol dehydrogenases)	Energy production and conversion
+C4_1296	COG4654	15/18	Cytochrome c551/c552	Energy production and conversion
+C4_0020	COG0537	18/18	Diadenosine tetraphosphate (Ap4A) hydrolase and other HIT family hydrolases	Carbohydrate transport and metabolism
+C4_0084	COG2893	18/18	Phosphotransferase system, mannose/fructose-specific component IIA	Carbohydrate transport and metabolism
+C4_0085	COG1925	18/18	Phosphotransferase system, HPr-related proteins	Carbohydrate transport and metabolism
+C4_0086	COG1080	18/18	Phosphoenolpyruvate-protein kinase (PTS system EI component in bacteria)	Carbohydrate transport and metabolism
+C4_0107	COG0120	18/18	Ribose 5-phosphate isomerase	Carbohydrate transport and metabolism
+C4_0112	COG1940	8/18	Transcriptional regulator/sugar kinase	Carbohydrate transport and metabolism
+C4_0236	COG4993	4/18	Glucose dehydrogenase	Carbohydrate transport and metabolism
+C4_0238	COG0366	12/18	Glycosidases	Carbohydrate transport and metabolism
+C4_0294	COG0477	18/18	Permeases of the major facilitator superfamily	Carbohydrate transport and metabolism
+C4_0300	COG0036	18/18	Pentose-5-phosphate-3-epimerase	Carbohydrate transport and metabolism
+C4_0319	COG0477	18/18	Permeases of the major facilitator superfamily	Carbohydrate transport and metabolism
+C4_0327	COG0697	18/18	Permeases of the drug/metabolite transporter (DMT) superfamily	Carbohydrate transport and metabolism
+C4_0371	COG4993	4/18	Glucose dehydrogenase	Carbohydrate transport and metabolism
+C4_0375	COG0477	18/18	Permeases of the major facilitator superfamily	Carbohydrate transport and metabolism
+C4_0416	COG0702	16/18	Predicted nucleoside-diphosphate-sugar epimerases	Carbohydrate transport and metabolism
+C4_0423	COG0021	18/18	Transketolase	Carbohydrate transport and metabolism
+C4_0424	COG0057	18/18	Glyceraldehyde-3-phosphate dehydrogenase/erythrose-4-phosphate dehydrogenase	Carbohydrate transport and metabolism
+C4_0425	COG0126	18/18	3-phosphoglycerate kinase	Carbohydrate transport and metabolism
+C4_0549	COG0129	18/18	Dihydroxyacid dehydratase/phosphogluconate dehydratase	Carbohydrate transport and metabolism
+C4_0550	COG0800	10/18	2-keto-3-deoxy-6-phosphogluconate aldolase	Carbohydrate transport and metabolism
+C4_0553	COG0451	18/18	Nucleoside-diphosphate-sugar epimerases	Carbohydrate transport and metabolism
+C4_0556	COG0061	18/18	Predicted sugar kinase	Carbohydrate transport and metabolism
+C4_0569	COG1109	18/18	Phosphomannomutase	Carbohydrate transport and metabolism
+C4_0589	COG0483	18/18	Archaeal fructose-1,6-bisphosphatase and related enzymes of inositol monophosphatase family	Carbohydrate transport and metabolism
+C4_0694	COG0364	14/18	Glucose-6-phosphate 1-dehydrogenase	Carbohydrate transport and metabolism
+C4_0695	COG1023	5/18	Predicted 6-phosphogluconate dehydrogenase	Carbohydrate transport and metabolism
+C4_0696	COG0363	12/18	6-phosphogluconolactonase/Glucosamine-6-phosphate isomerase/deaminase	Carbohydrate transport and metabolism
+C4_0700	COG2956	16/18	Predicted N-acetylglucosaminyl transferase	Carbohydrate transport and metabolism
+C4_0720	COG0120	18/18	Ribose 5-phosphate isomerase	Carbohydrate transport and metabolism
+C4_0732	COG0697	18/18	Permeases of the drug/metabolite transporter (DMT) superfamily	Carbohydrate transport and metabolism
+C4_0764	COG0477	18/18	Permeases of the major facilitator superfamily	Carbohydrate transport and metabolism
+C4_0808	COG2301	13/18	Citrate lyase beta subunit	Carbohydrate transport and metabolism
+C4_0815	COG2301	13/18	Citrate lyase beta subunit	Carbohydrate transport and metabolism
+C4_0817	COG2301	13/18	Citrate lyase beta subunit	Carbohydrate transport and metabolism
+C4_0818	COG2513	12/18	PEP phosphonomutase and related enzymes	Carbohydrate transport and metabolism
+C4_0843	COG0269	1/18	3-hexulose-6-phosphate synthase and related proteins	Carbohydrate transport and metabolism
+C4_0844	COG0176	18/18	Transaldolase	Carbohydrate transport and metabolism
+C4_0845	COG0574	18/18	Phosphoenolpyruvate synthase/pyruvate phosphate dikinase	Carbohydrate transport and metabolism
+C4_0880	COG0477	18/18	Permeases of the major facilitator superfamily	Carbohydrate transport and metabolism
+C4_0941	COG0166	18/18	Glucose-6-phosphate isomerase	Carbohydrate transport and metabolism
+C4_0998	COG1086	18/18	Predicted nucleoside-diphosphate sugar epimerases	Carbohydrate transport and metabolism
+C4_1008	COG0451	18/18	Nucleoside-diphosphate-sugar epimerases	Carbohydrate transport and metabolism
+C4_1014	COG0451	18/18	Nucleoside-diphosphate-sugar epimerases	Carbohydrate transport and metabolism
+C4_1027	COG0451	18/18	Nucleoside-diphosphate-sugar epimerases	Carbohydrate transport and metabolism
+C4_1029	COG0662	15/18	Mannose-6-phosphate isomerase	Carbohydrate transport and metabolism
+C4_1033	COG0279	16/18	Phosphoheptose isomerase	Carbohydrate transport and metabolism
+C4_1046	COG0148	18/18	Enolase	Carbohydrate transport and metabolism
+C4_1049	COG0235	12/18	Ribulose-5-phosphate 4-epimerase and related epimerases and aldolases	Carbohydrate transport and metabolism
+C4_1056	COG1109	18/18	Phosphomannomutase	Carbohydrate transport and metabolism
+C4_1094	COG0451	18/18	Nucleoside-diphosphate-sugar epimerases	Carbohydrate transport and metabolism
+C4_1105	COG0149	18/18	Triosephosphate isomerase	Carbohydrate transport and metabolism
+C4_1120	COG1472	18/18	Beta-glucosidase-related glycosidases	Carbohydrate transport and metabolism
+C4_1147	COG2133	12/18	Glucose/sorbosone dehydrogenases	Carbohydrate transport and metabolism
+C4_1186	COG0477	18/18	Permeases of the major facilitator superfamily	Carbohydrate transport and metabolism
+C4_1219	COG0696	4/18	Phosphoglyceromutase	Carbohydrate transport and metabolism
+C4_1248	COG0477	18/18	Permeases of the major facilitator superfamily	Carbohydrate transport and metabolism
+C4_1253	COG0524	16/18	Sugar kinases, ribokinase family	Carbohydrate transport and metabolism
+C4_1297	COG0676	9/18	Uncharacterized enzymes related to aldose 1-epimerase	Carbohydrate transport and metabolism
+C4_1298	COG0129	18/18	Dihydroxyacid dehydratase/phosphogluconate dehydratase	Carbohydrate transport and metabolism
+C4_0021	COG0140	18/18	Phosphoribosyl-ATP pyrophosphohydrolase	Amino acid transport and metabolism
+C4_0022	COG0139	18/18	Phosphoribosyl-AMP cyclohydrolase	Amino acid transport and metabolism
+C4_0023	COG0107	18/18	Imidazoleglycerol-phosphate synthase	Amino acid transport and metabolism
+C4_0024	COG0106	18/18	Phosphoribosylformimino-5-aminoimidazole carboxamide ribonucleotide (ProFAR) isomerase	Amino acid transport and metabolism
+C4_0025	COG0118	18/18	Glutamine amidotransferase	Amino acid transport and metabolism
+C4_0026	COG0131	18/18	Imidazoleglycerol-phosphate dehydratase	Amino acid transport and metabolism
+C4_0027	COG0079	18/18	Histidinol-phosphate/aromatic aminotransferase and cobyric acid decarboxylase	Amino acid transport and metabolism
+C4_0028	COG0141	18/18	Histidinol dehydrogenase	Amino acid transport and metabolism
+C4_0029	COG0040	17/18	ATP phosphoribosyltransferase	Amino acid transport and metabolism
+C4_0051	COG0509	18/18	Glycine cleavage system H protein (lipoate-binding)	Amino acid transport and metabolism
+C4_0053	COG0260	17/18	Leucyl aminopeptidase	Amino acid transport and metabolism
+C4_0077	COG0665	18/18	Glycine/D-amino acid oxidases (deaminating)	Amino acid transport and metabolism
+C4_0087	COG0339	18/18	Zn-dependent oligopeptidases	Amino acid transport and metabolism
+C4_0096	COG0685	18/18	5,10-methylenetetrahydrofolate reductase	Amino acid transport and metabolism
+C4_0099	COG0253	18/18	Diaminopimelate epimerase	Amino acid transport and metabolism
+C4_0106	COG1171	18/18	Threonine dehydratase	Amino acid transport and metabolism
+C4_0134	COG0002	18/18	Acetylglutamate semialdehyde dehydrogenase	Amino acid transport and metabolism
+C4_0150	COG0165	18/18	Argininosuccinate lyase	Amino acid transport and metabolism
+C4_0157	COG0757	15/18	3-dehydroquinate dehydratase II	Amino acid transport and metabolism
+C4_0190	COG2171	18/18	Tetrahydrodipicolinate N-succinyltransferase	Amino acid transport and metabolism
+C4_0230	COG0069	16/18	Glutamate synthase domain 2	Amino acid transport and metabolism
+C4_0230	COG0070	14/18	Glutamate synthase domain 3	Amino acid transport and metabolism
+C4_0230	COG0067	14/18	Glutamate synthase domain 1	Amino acid transport and metabolism
+C4_0231	COG0493	16/18	NADPH-dependent glutamate synthase beta chain and related oxidoreductases	Amino acid transport and metabolism
+C4_0243	COG0646	10/18	Methionine synthase I (cobalamin-dependent), methyltransferase domain	Amino acid transport and metabolism
+C4_0243	COG1410	15/18	Methionine synthase I, cobalamin-binding domain	Amino acid transport and metabolism
+C4_0246	COG0347	17/18	Nitrogen regulatory protein PII	Amino acid transport and metabolism
+C4_0275	COG0019	18/18	Diaminopimelate decarboxylase	Amino acid transport and metabolism
+C4_0294	COG0477	18/18	Permeases of the major facilitator superfamily	Amino acid transport and metabolism
+C4_0296	COG2021	17/18	Homoserine acetyltransferase	Amino acid transport and metabolism
+C4_0302	COG0147	18/18	Anthranilate/para-aminobenzoate synthases component I	Amino acid transport and metabolism
+C4_0303	COG0512	18/18	Anthranilate/para-aminobenzoate synthases component II	Amino acid transport and metabolism
+C4_0304	COG0547	18/18	Anthranilate phosphoribosyltransferase	Amino acid transport and metabolism
+C4_0305	COG0134	18/18	Indole-3-glycerol phosphate synthase	Amino acid transport and metabolism
+C4_0309	COG0703	18/18	Shikimate kinase	Amino acid transport and metabolism
+C4_0310	COG0337	18/18	3-dehydroquinate synthetase	Amino acid transport and metabolism
+C4_0316	COG0174	18/18	Glutamine synthetase	Amino acid transport and metabolism
+C4_0317	COG0169	18/18	Shikimate 5-dehydrogenase	Amino acid transport and metabolism
+C4_0319	COG0477	18/18	Permeases of the major facilitator superfamily	Amino acid transport and metabolism
+C4_0327	COG0697	18/18	Permeases of the drug/metabolite transporter (DMT) superfamily	Amino acid transport and metabolism
+C4_0375	COG0477	18/18	Permeases of the major facilitator superfamily	Amino acid transport and metabolism
+C4_0419	COG0548	18/18	Acetylglutamate kinase	Amino acid transport and metabolism
+C4_0420	COG0548	18/18	Acetylglutamate kinase	Amino acid transport and metabolism
+C4_0420	COG1246	17/18	N-acetylglutamate synthase and related acetyltransferases	Amino acid transport and metabolism
+C4_0441	COG0329	18/18	Dihydrodipicolinate synthase/N-acetylneuraminate lyase	Amino acid transport and metabolism
+C4_0456	COG0119	18/18	Isopropylmalate/homocitrate/citramalate synthases	Amino acid transport and metabolism
+C4_0457	COG0560	18/18	Phosphoserine phosphatase	Amino acid transport and metabolism
+C4_0468	COG1115	8/18	Na+/alanine symporter	Amino acid transport and metabolism
+C4_0475	COG0527	18/18	Aspartokinases	Amino acid transport and metabolism
+C4_0499	COG0115	18/18	Branched-chain amino acid aminotransferase/4-amino-4-deoxychorismate lyase	Amino acid transport and metabolism
+C4_0503	COG0241	18/18	Histidinol phosphatase and related phosphatases	Amino acid transport and metabolism
+C4_0521	COG0462	18/18	Phosphoribosylpyrophosphate synthetase	Amino acid transport and metabolism
+C4_0530	COG0591	12/18	Na+/proline symporter	Amino acid transport and metabolism
+C4_0545	COG0346	18/18	Lactoylglutathione lyase and related lyases	Amino acid transport and metabolism
+C4_0549	COG0129	18/18	Dihydroxyacid dehydratase/phosphogluconate dehydratase	Amino acid transport and metabolism
+C4_0560	COG0289	18/18	Dihydrodipicolinate reductase	Amino acid transport and metabolism
+C4_0561	COG0505	18/18	Carbamoylphosphate synthase small subunit	Amino acid transport and metabolism
+C4_0562	COG0458	18/18	Carbamoylphosphate synthase large subunit (split gene in MJ)	Amino acid transport and metabolism
+C4_0584	COG1104	18/18	Cysteine sulfinate desulfinase/cysteine desulfurase and related enzymes	Amino acid transport and metabolism
+C4_0585	COG1104	18/18	Cysteine sulfinate desulfinase/cysteine desulfurase and related enzymes	Amino acid transport and metabolism
+C4_0587	COG1045	18/18	Serine acetyltransferase	Amino acid transport and metabolism
+C4_0622	COG0260	17/18	Leucyl aminopeptidase	Amino acid transport and metabolism
+C4_0626	COG0308	18/18	Aminopeptidase N	Amino acid transport and metabolism
+C4_0637	COG0421	17/18	Spermidine synthase	Amino acid transport and metabolism
+C4_0654	COG0560	18/18	Phosphoserine phosphatase	Amino acid transport and metabolism
+C4_0687	COG0436	18/18	Aspartate/tyrosine/aromatic aminotransferase	Amino acid transport and metabolism
+C4_0688	COG0460	18/18	Homoserine dehydrogenase	Amino acid transport and metabolism
+C4_0689	COG0498	18/18	Threonine synthase	Amino acid transport and metabolism
+C4_0692	COG1982	15/18	Arginine/lysine/ornithine decarboxylases	Amino acid transport and metabolism
+C4_0704	COG0128	18/18	5-enolpyruvylshikimate-3-phosphate synthase	Amino acid transport and metabolism
+C4_0705	COG0287	18/18	Prephenate dehydrogenase	Amino acid transport and metabolism
+C4_0732	COG0697	18/18	Permeases of the drug/metabolite transporter (DMT) superfamily	Amino acid transport and metabolism
+C4_0734	COG4992	18/18	Ornithine/acetylornithine aminotransferase	Amino acid transport and metabolism
+C4_0736	COG0078	18/18	Ornithine carbamoyltransferase	Amino acid transport and metabolism
+C4_0737	COG0137	18/18	Argininosuccinate synthase	Amino acid transport and metabolism
+C4_0739	COG0065	18/18	3-isopropylmalate dehydratase large subunit	Amino acid transport and metabolism
+C4_0740	COG0066	18/18	3-isopropylmalate dehydratase small subunit	Amino acid transport and metabolism
+C4_0741	COG0473	18/18	Isocitrate/isopropylmalate dehydrogenase	Amino acid transport and metabolism
+C4_0742	COG0136	18/18	Aspartate-semialdehyde dehydrogenase	Amino acid transport and metabolism
+C4_0746	COG0135	18/18	Phosphoribosylanthranilate isomerase	Amino acid transport and metabolism
+C4_0747	COG0133	18/18	Tryptophan synthase beta chain	Amino acid transport and metabolism
+C4_0748	COG0159	18/18	Tryptophan synthase alpha chain	Amino acid transport and metabolism
+C4_0754	COG0626	18/18	Cystathionine beta-lyases/cystathionine gamma-synthases	Amino acid transport and metabolism
+C4_0756	COG1932	18/18	Phosphoserine aminotransferase	Amino acid transport and metabolism
+C4_0757	COG0077	18/18	Prephenate dehydratase	Amino acid transport and metabolism
+C4_0758	COG0079	18/18	Histidinol-phosphate/aromatic aminotransferase and cobyric acid decarboxylase	Amino acid transport and metabolism
+C4_0759	COG2876	3/18	3-deoxy-D-arabino-heptulosonate 7-phosphate (DAHP) synthase	Amino acid transport and metabolism
+C4_0764	COG0477	18/18	Permeases of the major facilitator superfamily	Amino acid transport and metabolism
+C4_0768	COG0175	17/18	3'-phosphoadenosine 5'-phosphosulfate sulfotransferase (PAPS reductase)/FAD synthetase and related enzymes	Amino acid transport and metabolism
+C4_0769	COG0175	17/18	3'-phosphoadenosine 5'-phosphosulfate sulfotransferase (PAPS reductase)/FAD synthetase and related enzymes	Amino acid transport and metabolism
+C4_0776	COG2873	14/18	O-acetylhomoserine sulfhydrylase	Amino acid transport and metabolism
+C4_0785	COG0436	18/18	Aspartate/tyrosine/aromatic aminotransferase	Amino acid transport and metabolism
+C4_0828	COG0747	16/18	ABC-type dipeptide transport system, periplasmic component	Amino acid transport and metabolism
+C4_0829	COG0601	16/18	ABC-type dipeptide/oligopeptide/nickel transport systems, permease components	Amino acid transport and metabolism
+C4_0830	COG1173	16/18	ABC-type dipeptide/oligopeptide/nickel transport systems, permease components	Amino acid transport and metabolism
+C4_0841	COG0147	18/18	Anthranilate/para-aminobenzoate synthases component I	Amino acid transport and metabolism
+C4_0856	COG2873	14/18	O-acetylhomoserine sulfhydrylase	Amino acid transport and metabolism
+C4_0880	COG0477	18/18	Permeases of the major facilitator superfamily	Amino acid transport and metabolism
+C4_0890	COG0115	18/18	Branched-chain amino acid aminotransferase/4-amino-4-deoxychorismate lyase	Amino acid transport and metabolism
+C4_0919	COG3104	5/18	Dipeptide/tripeptide permease	Amino acid transport and metabolism
+C4_0935	COG0665	18/18	Glycine/D-amino acid oxidases (deaminating)	Amino acid transport and metabolism
+C4_0971	COG3705	18/18	ATP phosphoribosyltransferase involved in histidine biosynthesis	Amino acid transport and metabolism
+C4_0988	COG4608	11/18	ABC-type oligopeptide transport system, ATPase component	Amino acid transport and metabolism
+C4_0989	COG0444	11/18	ABC-type dipeptide/oligopeptide/nickel transport system, ATPase component	Amino acid transport and metabolism
+C4_1021	COG0329	18/18	Dihydrodipicolinate synthase/N-acetylneuraminate lyase	Amino acid transport and metabolism
+C4_1035	COG1063	13/18	Threonine dehydrogenase and related Zn-dependent dehydrogenases	Amino acid transport and metabolism
+C4_1054	COG0112	18/18	Glycine/serine hydroxymethyltransferase	Amino acid transport and metabolism
+C4_1121	COG1173	16/18	ABC-type dipeptide/oligopeptide/nickel transport systems, permease components	Amino acid transport and metabolism
+C4_1122	COG0601	16/18	ABC-type dipeptide/oligopeptide/nickel transport systems, permease components	Amino acid transport and metabolism
+C4_1124	COG0747	16/18	ABC-type dipeptide transport system, periplasmic component	Amino acid transport and metabolism
+C4_1126	COG0031	18/18	Cysteine synthase	Amino acid transport and metabolism
+C4_1130	COG2171	18/18	Tetrahydrodipicolinate N-succinyltransferase	Amino acid transport and metabolism
+C4_1132	COG0624	18/18	Acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase and related deacylases	Amino acid transport and metabolism
+C4_1154	COG0347	17/18	Nitrogen regulatory protein PII	Amino acid transport and metabolism
+C4_1171	COG0345	18/18	Pyrroline-5-carboxylate reductase	Amino acid transport and metabolism
+C4_1174	COG0028	18/18	Thiamine pyrophosphate-requiring enzymes [acetolactate synthase, pyruvate dehydrogenase (cytochrome), glyoxylate carboligase, phosphonopyruvate decarboxylase]	Amino acid transport and metabolism
+C4_1175	COG0440	18/18	Acetolactate synthase, small (regulatory) subunit	Amino acid transport and metabolism
+C4_1176	COG0059	18/18	Ketol-acid reductoisomerase	Amino acid transport and metabolism
+C4_1186	COG0477	18/18	Permeases of the major facilitator superfamily	Amino acid transport and metabolism
+C4_1187	COG0082	18/18	Chorismate synthase	Amino acid transport and metabolism
+C4_1195	COG0006	18/18	Xaa-Pro aminopeptidase	Amino acid transport and metabolism
+C4_1206	COG0014	18/18	Gamma-glutamyl phosphate reductase	Amino acid transport and metabolism
+C4_1231	COG0263	18/18	Glutamate 5-kinase	Amino acid transport and metabolism
+C4_1241	COG1364	18/18	N-acetylglutamate synthase (N-acetylornithine aminotransferase)	Amino acid transport and metabolism
+C4_1248	COG0477	18/18	Permeases of the major facilitator superfamily	Amino acid transport and metabolism
+C4_1298	COG0129	18/18	Dihydroxyacid dehydratase/phosphogluconate dehydratase	Amino acid transport and metabolism
+C4_0020	COG0537	18/18	Diadenosine tetraphosphate (Ap4A) hydrolase and other HIT family hydrolases	Nucleotide transport and metabolism
+C4_0064	COG0150	18/18	Phosphoribosylaminoimidazole (AIR) synthetase	Nucleotide transport and metabolism
+C4_0143	COG0194	18/18	Guanylate kinase	Nucleotide transport and metabolism
+C4_0146	COG0127	18/18	Xanthosine triphosphate pyrophosphatase	Nucleotide transport and metabolism
+C4_0257	COG0209	18/18	Ribonucleotide reductase, alpha subunit	Nucleotide transport and metabolism
+C4_0292	COG0461	18/18	Orotate phosphoribosyltransferase	Nucleotide transport and metabolism
+C4_0311	COG0232	16/18	dGTP triphosphohydrolase	Nucleotide transport and metabolism
+C4_0356	COG2233	12/18	Xanthine/uracil permeases	Nucleotide transport and metabolism
+C4_0397	COG0418	18/18	Dihydroorotase	Nucleotide transport and metabolism
+C4_0426	COG0152	18/18	Phosphoribosylaminoimidazolesuccinocarboxamide (SAICAR) synthase	Nucleotide transport and metabolism
+C4_0445	COG0167	18/18	Dihydroorotate dehydrogenase	Nucleotide transport and metabolism
+C4_0494	COG1428	10/18	Deoxynucleoside kinases	Nucleotide transport and metabolism
+C4_0521	COG0462	18/18	Phosphoribosylpyrophosphate synthetase	Nucleotide transport and metabolism
+C4_0561	COG0505	18/18	Carbamoylphosphate synthase small subunit	Nucleotide transport and metabolism
+C4_0562	COG0458	18/18	Carbamoylphosphate synthase large subunit (split gene in MJ)	Nucleotide transport and metabolism
+C4_0646	COG0027	11/18	Formate-dependent phosphoribosylglycinamide formyltransferase (GAR transformylase)	Nucleotide transport and metabolism
+C4_0660	COG0519	18/18	GMP synthase, PP-ATPase domain/subunit	Nucleotide transport and metabolism
+C4_0660	COG0518	18/18	GMP synthase - Glutamine amidotransferase domain	Nucleotide transport and metabolism
+C4_0661	COG0516	18/18	IMP dehydrogenase/GMP reductase	Nucleotide transport and metabolism
+C4_0690	COG0207	18/18	Thymidylate synthase	Nucleotide transport and metabolism
+C4_0693	COG0717	18/18	Deoxycytidine deaminase	Nucleotide transport and metabolism
+C4_0699	COG0284	18/18	Orotidine-5'-phosphate decarboxylase	Nucleotide transport and metabolism
+C4_0703	COG0283	18/18	Cytidylate kinase	Nucleotide transport and metabolism
+C4_0753	COG0034	18/18	Glutamine phosphoribosylpyrophosphate amidotransferase	Nucleotide transport and metabolism
+C4_0774	COG2759	3/18	Formyltetrahydrofolate synthetase	Nucleotide transport and metabolism
+C4_0781	COG0634	12/18	Hypoxanthine-guanine phosphoribosyltransferase	Nucleotide transport and metabolism
+C4_0797	COG0005	9/18	Purine nucleoside phosphorylase	Nucleotide transport and metabolism
+C4_0888	COG0125	18/18	Thymidylate kinase	Nucleotide transport and metabolism
+C4_0913	COG0528	18/18	Uridylate kinase	Nucleotide transport and metabolism
+C4_0969	COG0402	15/18	Cytosine deaminase and related metal-dependent hydrolases	Nucleotide transport and metabolism
+C4_0970	COG0104	18/18	Adenylosuccinate synthase	Nucleotide transport and metabolism
+C4_0994	COG0105	18/18	Nucleoside diphosphate kinase	Nucleotide transport and metabolism
+C4_1048	COG0504	18/18	CTP synthase (UTP-ammonia lyase)	Nucleotide transport and metabolism
+C4_1112	COG0015	18/18	Adenylosuccinate lyase	Nucleotide transport and metabolism
+C4_1118	COG0590	18/18	Cytosine/adenosine deaminases	Nucleotide transport and metabolism
+C4_1145	COG0046	18/18	Phosphoribosylformylglycinamidine (FGAM) synthase, synthetase domain	Nucleotide transport and metabolism
+C4_1145	COG0047	18/18	Phosphoribosylformylglycinamidine (FGAM) synthase, glutamine amidotransferase domain	Nucleotide transport and metabolism
+C4_1167	COG2065	12/18	Pyrimidine operon attenuation protein/uracil phosphoribosyltransferase	Nucleotide transport and metabolism
+C4_1168	COG0540	18/18	Aspartate carbamoyltransferase, catalytic chain	Nucleotide transport and metabolism
+C4_1202	COG0563	18/18	Adenylate kinase and related kinases	Nucleotide transport and metabolism
+C4_1229	COG0026	18/18	Phosphoribosylaminoimidazole carboxylase (NCAIR synthetase)	Nucleotide transport and metabolism
+C4_1230	COG0041	18/18	Phosphoribosylcarboxyaminoimidazole (NCAIR) mutase	Nucleotide transport and metabolism
+C4_1293	COG0138	18/18	AICAR transformylase/IMP cyclohydrolase PurH (only IMP cyclohydrolase domain in Aful)	Nucleotide transport and metabolism
+C4_1294	COG0151	18/18	Phosphoribosylamine-glycine ligase	Nucleotide transport and metabolism
+C4_1303	COG0756	18/18	dUTPase	Nucleotide transport and metabolism
+C4_0069	COG0315	13/18	Molybdenum cofactor biosynthesis enzyme	Coenzyme transport and metabolism
+C4_0097	COG0499	16/18	S-adenosylhomocysteine hydrolase	Coenzyme transport and metabolism
+C4_0098	COG0192	18/18	S-adenosylmethionine synthetase	Coenzyme transport and metabolism
+C4_0110	COG4206	12/18	Outer membrane cobalamin receptor protein	Coenzyme transport and metabolism
+C4_0118	COG0476	18/18	Dinucleotide-utilizing enzymes involved in molybdopterin and thiamine biosynthesis family 2	Coenzyme transport and metabolism
+C4_0119	COG0190	17/18	5,10-methylene-tetrahydrofolate dehydrogenase/Methenyl tetrahydrofolate cyclohydrolase	Coenzyme transport and metabolism
+C4_0137	COG0382	18/18	4-hydroxybenzoate polyprenyltransferase and related prenyltransferases	Coenzyme transport and metabolism
+C4_0148	COG0635	18/18	Coproporphyrinogen III oxidase and related Fe-S oxidoreductases	Coenzyme transport and metabolism
+C4_0151	COG0181	18/18	Porphobilinogen deaminase	Coenzyme transport and metabolism
+C4_0152	COG1587	13/18	Uroporphyrinogen-III synthase	Coenzyme transport and metabolism
+C4_0153	COG0543	18/18	2-polyprenylphenol hydroxylase and related flavodoxin oxidoreductases	Coenzyme transport and metabolism
+C4_0186	COG0142	18/18	Geranylgeranyl pyrophosphate synthase	Coenzyme transport and metabolism
+C4_0227	COG0351	18/18	Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase	Coenzyme transport and metabolism
+C4_0228	COG0352	18/18	Thiamine monophosphate synthase	Coenzyme transport and metabolism
+C4_0229	COG0001	18/18	Glutamate-1-semialdehyde aminotransferase	Coenzyme transport and metabolism
+C4_0233	COG0407	18/18	Uroporphyrinogen-III decarboxylase	Coenzyme transport and metabolism
+C4_0250	COG2022	18/18	Uncharacterized enzyme of thiazole biosynthesis	Coenzyme transport and metabolism
+C4_0251	COG2104	12/18	Sulfur transfer protein involved in thiamine biosynthesis	Coenzyme transport and metabolism
+C4_0262	COG0422	18/18	Thiamine biosynthesis protein ThiC	Coenzyme transport and metabolism
+C4_0272	COG0379	15/18	Quinolinate synthase	Coenzyme transport and metabolism
+C4_0279	COG1477	14/18	Membrane-associated lipoprotein involved in thiamine biosynthesis	Coenzyme transport and metabolism
+C4_0280	COG0189	18/18	Glutathione synthase/Ribosomal protein S6 modification enzyme (glutaminyl transferase)	Coenzyme transport and metabolism
+C4_0282	COG0320	18/18	Lipoate synthase	Coenzyme transport and metabolism
+C4_0283	COG0321	18/18	Lipoate-protein ligase B	Coenzyme transport and metabolism
+C4_0299	COG0373	18/18	Glutamyl-tRNA reductase	Coenzyme transport and metabolism
+C4_0302	COG0147	18/18	Anthranilate/para-aminobenzoate synthases component I	Coenzyme transport and metabolism
+C4_0303	COG0512	18/18	Anthranilate/para-aminobenzoate synthases component II	Coenzyme transport and metabolism
+C4_0306	COG0113	18/18	Delta-aminolevulinic acid dehydratase	Coenzyme transport and metabolism
+C4_0346	COG1539	16/18	Dihydroneopterin aldolase	Coenzyme transport and metabolism
+C4_0378	COG0303	14/18	Molybdopterin biosynthesis enzyme	Coenzyme transport and metabolism
+C4_0379	COG1763	12/18	Molybdopterin-guanine dinucleotide biosynthesis protein	Coenzyme transport and metabolism
+C4_0380	COG0746	15/18	Molybdopterin-guanine dinucleotide biosynthesis protein A	Coenzyme transport and metabolism
+C4_0381	COG2896	14/18	Molybdenum cofactor biosynthesis enzyme	Coenzyme transport and metabolism
+C4_0481	COG0611	18/18	Thiamine monophosphate kinase	Coenzyme transport and metabolism
+C4_0482	COG0521	14/18	Molybdopterin biosynthesis enzymes	Coenzyme transport and metabolism
+C4_0491	COG0853	14/18	Aspartate 1-decarboxylase	Coenzyme transport and metabolism
+C4_0492	COG0414	18/18	Panthothenate synthetase	Coenzyme transport and metabolism
+C4_0493	COG0413	18/18	Ketopantoate hydroxymethyltransferase	Coenzyme transport and metabolism
+C4_0495	COG0801	18/18	7,8-dihydro-6-hydroxymethylpterin-pyrophosphokinase	Coenzyme transport and metabolism
+C4_0499	COG0115	18/18	Branched-chain amino acid aminotransferase/4-amino-4-deoxychorismate lyase	Coenzyme transport and metabolism
+C4_0512	COG1648	10/18	Siroheme synthase (precorrin-2 oxidase/ferrochelatase domain)	Coenzyme transport and metabolism
+C4_0512	COG0007	18/18	Uroporphyrinogen-III methylase	Coenzyme transport and metabolism
+C4_0534	COG2226	18/18	Methylase involved in ubiquinone/menaquinone biosynthesis	Coenzyme transport and metabolism
+C4_0543	COG0669	18/18	Phosphopantetheine adenylyltransferase	Coenzyme transport and metabolism
+C4_0554	COG0276	18/18	Protoheme ferro-lyase (ferrochelatase)	Coenzyme transport and metabolism
+C4_0568	COG0294	18/18	Dihydropteroate synthase and related enzymes	Coenzyme transport and metabolism
+C4_0591	COG0029	15/18	Aspartate oxidase	Coenzyme transport and metabolism
+C4_0602	COG0854	18/18	Pyridoxal phosphate biosynthesis protein	Coenzyme transport and metabolism
+C4_0604	COG1179	16/18	Dinucleotide-utilizing enzymes involved in molybdopterin and thiamine biosynthesis family 1	Coenzyme transport and metabolism
+C4_0617	COG0340	16/18	Biotin-(acetyl-CoA carboxylase) ligase	Coenzyme transport and metabolism
+C4_0691	COG0262	18/18	Dihydrofolate reductase	Coenzyme transport and metabolism
+C4_0750	COG0285	18/18	Folylpolyglutamate synthase	Coenzyme transport and metabolism
+C4_0756	COG1932	18/18	Phosphoserine aminotransferase	Coenzyme transport and metabolism
+C4_0761	COG5424	8/18	Pyrroloquinoline quinone (Coenzyme PQQ) biosynthesis protein C	Coenzyme transport and metabolism
+C4_0768	COG0175	17/18	3'-phosphoadenosine 5'-phosphosulfate sulfotransferase (PAPS reductase)/FAD synthetase and related enzymes	Coenzyme transport and metabolism
+C4_0769	COG0175	17/18	3'-phosphoadenosine 5'-phosphosulfate sulfotransferase (PAPS reductase)/FAD synthetase and related enzymes	Coenzyme transport and metabolism
+C4_0778	COG1977	16/18	Molybdopterin converting factor, small subunit	Coenzyme transport and metabolism
+C4_0779	COG0314	14/18	Molybdopterin converting factor, large subunit	Coenzyme transport and metabolism
+C4_0840	COG2154	16/18	Pterin-4a-carbinolamine dehydratase	Coenzyme transport and metabolism
+C4_0841	COG0147	18/18	Anthranilate/para-aminobenzoate synthases component I	Coenzyme transport and metabolism
+C4_0871	COG0212	17/18	5-formyltetrahydrofolate cyclo-ligase	Coenzyme transport and metabolism
+C4_0872	COG0413	18/18	Ketopantoate hydroxymethyltransferase	Coenzyme transport and metabolism
+C4_0890	COG0115	18/18	Branched-chain amino acid aminotransferase/4-amino-4-deoxychorismate lyase	Coenzyme transport and metabolism
+C4_0950	COG0720	18/18	6-pyruvoyl-tetrahydropterin synthase	Coenzyme transport and metabolism
+C4_0968	COG2227	18/18	2-polyprenyl-3-methyl-5-hydroxy-6-metoxy-1,4-benzoquinol methylase	Coenzyme transport and metabolism
+C4_1036	COG0156	17/18	7-keto-8-aminopelargonate synthetase and related enzymes	Coenzyme transport and metabolism
+C4_1052	COG1985	18/18	Pyrimidine reductase, riboflavin biosynthesis	Coenzyme transport and metabolism
+C4_1052	COG0117	18/18	Pyrimidine deaminase	Coenzyme transport and metabolism
+C4_1153	COG0171	18/18	NAD synthase	Coenzyme transport and metabolism
+C4_1163	COG0307	18/18	Riboflavin synthase alpha chain	Coenzyme transport and metabolism
+C4_1164	COG0108	18/18	3,4-dihydroxy-2-butanone 4-phosphate synthase	Coenzyme transport and metabolism
+C4_1164	COG0807	18/18	GTP cyclohydrolase II	Coenzyme transport and metabolism
+C4_1173	COG0157	18/18	Nicotinate-nucleotide pyrophosphorylase	Coenzyme transport and metabolism
+C4_1174	COG0028	18/18	Thiamine pyrophosphate-requiring enzymes [acetolactate synthase, pyruvate dehydrogenase (cytochrome), glyoxylate carboligase, phosphonopyruvate decarboxylase]	Coenzyme transport and metabolism
+C4_1176	COG0059	18/18	Ketol-acid reductoisomerase	Coenzyme transport and metabolism
+C4_1183	COG0142	18/18	Geranylgeranyl pyrophosphate synthase	Coenzyme transport and metabolism
+C4_1184	COG1154	18/18	Deoxyxylulose-5-phosphate synthase	Coenzyme transport and metabolism
+C4_1193	COG0654	18/18	2-polyprenyl-6-methoxyphenol hydroxylase and related FAD-dependent oxidoreductases	Coenzyme transport and metabolism
+C4_1194	COG0654	18/18	2-polyprenyl-6-methoxyphenol hydroxylase and related FAD-dependent oxidoreductases	Coenzyme transport and metabolism
+C4_1200	COG1995	18/18	Pyridoxal phosphate biosynthesis protein	Coenzyme transport and metabolism
+C4_1207	COG1057	18/18	Nicotinic acid mononucleotide adenylyltransferase	Coenzyme transport and metabolism
+C4_1208	COG0132	17/18	Dethiobiotin synthetase	Coenzyme transport and metabolism
+C4_1211	COG0156	17/18	7-keto-8-aminopelargonate synthetase and related enzymes	Coenzyme transport and metabolism
+C4_1212	COG0502	18/18	Biotin synthase and related enzymes	Coenzyme transport and metabolism
+C4_1226	COG0196	18/18	FAD synthase	Coenzyme transport and metabolism
+C4_1235	COG0142	18/18	Geranylgeranyl pyrophosphate synthase	Coenzyme transport and metabolism
+C4_1237	COG0237	18/18	Dephospho-CoA kinase	Coenzyme transport and metabolism
+C4_1240	COG0352	18/18	Thiamine monophosphate synthase	Coenzyme transport and metabolism
+C4_1247	COG0054	18/18	Riboflavin synthase beta-chain	Coenzyme transport and metabolism
+C4_1276	COG2941	15/18	Ubiquinone biosynthesis protein COQ7	Coenzyme transport and metabolism
+C4_1281	COG0161	18/18	Adenosylmethionine-8-amino-7-oxononanoate aminotransferase	Coenzyme transport and metabolism
+C4_1295	COG0408	16/18	Coproporphyrinogen III oxidase	Coenzyme transport and metabolism
+C4_1302	COG0452	18/18	Phosphopantothenoylcysteine synthetase/decarboxylase	Coenzyme transport and metabolism
+C4_0047	COG1028	18/18	Dehydrogenases with different specificities (related to short-chain alcohol dehydrogenases)	Lipid transport and metabolism
+C4_0158	COG0511	18/18	Biotin carboxyl carrier protein	Lipid transport and metabolism
+C4_0159	COG0439	18/18	Biotin carboxylase	Lipid transport and metabolism
+C4_0177	COG1028	18/18	Dehydrogenases with different specificities (related to short-chain alcohol dehydrogenases)	Lipid transport and metabolism
+C4_0184	COG1562	18/18	Phytoene/squalene synthetase	Lipid transport and metabolism
+C4_0222	COG1028	18/18	Dehydrogenases with different specificities (related to short-chain alcohol dehydrogenases)	Lipid transport and metabolism
+C4_0274	COG0761	18/18	Penicillin tolerance protein	Lipid transport and metabolism
+C4_0361	COG1028	18/18	Dehydrogenases with different specificities (related to short-chain alcohol dehydrogenases)	Lipid transport and metabolism
+C4_0455	COG1183	17/18	Phosphatidylserine synthase	Lipid transport and metabolism
+C4_0480	COG1267	18/18	Phosphatidylglycerophosphatase A and related proteins	Lipid transport and metabolism
+C4_0502	COG0204	18/18	1-acyl-sn-glycerol-3-phosphate acyltransferase	Lipid transport and metabolism
+C4_0522	COG1947	18/18	4-diphosphocytidyl-2C-methyl-D-erythritol 2-phosphate synthase	Lipid transport and metabolism
+C4_0552	COG0615	3/18	Cytidylyltransferase	Lipid transport and metabolism
+C4_0603	COG0736	18/18	Phosphopantetheinyl transferase (holo-ACP synthase)	Lipid transport and metabolism
+C4_0641	COG0825	18/18	Acetyl-CoA carboxylase alpha subunit	Lipid transport and metabolism
+C4_0663	COG2867	18/18	Oligoketide cyclase/lipid transport protein	Lipid transport and metabolism
+C4_0666	COG3000	7/18	Sterol desaturase	Lipid transport and metabolism
+C4_0685	COG0764	18/18	3-hydroxymyristoyl/3-hydroxydecanoyl-(acyl carrier protein) dehydratases	Lipid transport and metabolism
+C4_0686	COG0304	18/18	3-oxoacyl-(acyl-carrier-protein) synthase	Lipid transport and metabolism
+C4_0712	COG1211	18/18	4-diphosphocytidyl-2-methyl-D-erithritol synthase	Lipid transport and metabolism
+C4_0713	COG0245	18/18	2C-methyl-D-erythritol 2,4-cyclodiphosphate synthase	Lipid transport and metabolism
+C4_0729	COG0365	16/18	Acyl-coenzyme A synthetases/AMP-(fatty) acid ligases	Lipid transport and metabolism
+C4_0749	COG0777	18/18	Acetyl-CoA carboxylase beta subunit	Lipid transport and metabolism
+C4_0795	COG1562	18/18	Phytoene/squalene synthetase	Lipid transport and metabolism
+C4_0796	COG1562	18/18	Phytoene/squalene synthetase	Lipid transport and metabolism
+C4_0807	COG0365	16/18	Acyl-coenzyme A synthetases/AMP-(fatty) acid ligases	Lipid transport and metabolism
+C4_0816	COG2030	13/18	Acyl dehydratase	Lipid transport and metabolism
+C4_0831	COG0623	17/18	Enoyl-[acyl-carrier-protein] reductase (NADH)	Lipid transport and metabolism
+C4_0891	COG0304	18/18	3-oxoacyl-(acyl-carrier-protein) synthase	Lipid transport and metabolism
+C4_0892	COG0236	18/18	Acyl carrier protein	Lipid transport and metabolism
+C4_0893	COG1028	18/18	Dehydrogenases with different specificities (related to short-chain alcohol dehydrogenases)	Lipid transport and metabolism
+C4_0894	COG0331	18/18	(acyl-carrier-protein) S-malonyltransferase	Lipid transport and metabolism
+C4_0895	COG0332	18/18	3-oxoacyl-[acyl-carrier-protein] synthase III	Lipid transport and metabolism
+C4_0896	COG0416	18/18	Fatty acid/phospholipid biosynthesis enzyme	Lipid transport and metabolism
+C4_0898	COG0439	18/18	Biotin carboxylase	Lipid transport and metabolism
+C4_0899	COG0511	18/18	Biotin carboxyl carrier protein	Lipid transport and metabolism
+C4_0905	COG0764	18/18	3-hydroxymyristoyl/3-hydroxydecanoyl-(acyl carrier protein) dehydratases	Lipid transport and metabolism
+C4_0909	COG0743	18/18	1-deoxy-D-xylulose 5-phosphate reductoisomerase	Lipid transport and metabolism
+C4_0910	COG0575	18/18	CDP-diglyceride synthetase	Lipid transport and metabolism
+C4_0911	COG0020	18/18	Undecaprenyl pyrophosphate synthase	Lipid transport and metabolism
+C4_0931	COG1398	14/18	Fatty-acid desaturase	Lipid transport and metabolism
+C4_0991	COG0821	18/18	Enzyme involved in the deoxyxylulose pathway of isoprenoid biosynthesis	Lipid transport and metabolism
+C4_1107	COG0558	18/18	Phosphatidylglycerophosphate synthase	Lipid transport and metabolism
+C4_1177	COG0688	18/18	Phosphatidylserine decarboxylase	Lipid transport and metabolism
+C4_1184	COG1154	18/18	Deoxyxylulose-5-phosphate synthase	Lipid transport and metabolism
+C4_0078	COG0475	16/18	Kef-type K+ transport systems, membrane components	Inorganic ion transport and metabolism
+C4_0078	COG1226	17/18	Kef-type K+ transport systems, predicted NAD-binding component	Inorganic ion transport and metabolism
+C4_0108	COG0704	16/18	Phosphate uptake regulator	Inorganic ion transport and metabolism
+C4_0115	COG0607	18/18	Rhodanese-related sulfurtransferase	Inorganic ion transport and metabolism
+C4_0247	COG0004	17/18	Ammonia permease	Inorganic ion transport and metabolism
+C4_0249	COG2967	16/18	Uncharacterized protein affecting Mg2+/Co2+ transport	Inorganic ion transport and metabolism
+C4_0294	COG0477	18/18	Permeases of the major facilitator superfamily	Inorganic ion transport and metabolism
+C4_0319	COG0477	18/18	Permeases of the major facilitator superfamily	Inorganic ion transport and metabolism
+C4_0375	COG0477	18/18	Permeases of the major facilitator superfamily	Inorganic ion transport and metabolism
+C4_0449	COG4536	9/18	Putative Mg2+ and Co2+ transporter CorB	Inorganic ion transport and metabolism
+C4_0508	COG4535	18/18	Putative Mg2+ and Co2+ transporter CorC	Inorganic ion transport and metabolism
+C4_0558	COG0735	18/18	Fe2+/Zn2+ uptake regulation proteins	Inorganic ion transport and metabolism
+C4_0570	COG1117	16/18	ABC-type phosphate transport system, ATPase component	Inorganic ion transport and metabolism
+C4_0571	COG0581	15/18	ABC-type phosphate transport system, permease component	Inorganic ion transport and metabolism
+C4_0572	COG0573	16/18	ABC-type phosphate transport system, permease component	Inorganic ion transport and metabolism
+C4_0573	COG0226	16/18	ABC-type phosphate transport system, periplasmic component	Inorganic ion transport and metabolism
+C4_0577	COG0659	15/18	Sulfate permease and related transporters (MFS superfamily)	Inorganic ion transport and metabolism
+C4_0578	COG0288	16/18	Carbonic anhydrase	Inorganic ion transport and metabolism
+C4_0628	COG0659	15/18	Sulfate permease and related transporters (MFS superfamily)	Inorganic ion transport and metabolism
+C4_0643	COG1629	18/18	Outer membrane receptor proteins, mostly Fe transport	Inorganic ion transport and metabolism
+C4_0711	COG0004	17/18	Ammonia permease	Inorganic ion transport and metabolism
+C4_0764	COG0477	18/18	Permeases of the major facilitator superfamily	Inorganic ion transport and metabolism
+C4_0767	COG2895	16/18	GTPases - Sulfate adenylate transferase subunit 1	Inorganic ion transport and metabolism
+C4_0771	COG0155	17/18	Sulfite reductase, beta subunit (hemoprotein)	Inorganic ion transport and metabolism
+C4_0829	COG0601	16/18	ABC-type dipeptide/oligopeptide/nickel transport systems, permease components	Inorganic ion transport and metabolism
+C4_0830	COG1173	16/18	ABC-type dipeptide/oligopeptide/nickel transport systems, permease components	Inorganic ion transport and metabolism
+C4_0839	COG3696	12/18	Putative silver efflux pump	Inorganic ion transport and metabolism
+C4_0853	COG1629	18/18	Outer membrane receptor proteins, mostly Fe transport	Inorganic ion transport and metabolism
+C4_0854	COG1629	18/18	Outer membrane receptor proteins, mostly Fe transport	Inorganic ion transport and metabolism
+C4_0857	COG2072	10/18	Predicted flavoprotein involved in K+ transport	Inorganic ion transport and metabolism
+C4_0880	COG0477	18/18	Permeases of the major facilitator superfamily	Inorganic ion transport and metabolism
+C4_0978	COG0428	14/18	Predicted divalent heavy-metal cations transporter	Inorganic ion transport and metabolism
+C4_0989	COG0444	11/18	ABC-type dipeptide/oligopeptide/nickel transport system, ATPase component	Inorganic ion transport and metabolism
+C4_0992	COG0529	6/18	Adenylylsulfate kinase and related kinases	Inorganic ion transport and metabolism
+C4_1121	COG1173	16/18	ABC-type dipeptide/oligopeptide/nickel transport systems, permease components	Inorganic ion transport and metabolism
+C4_1122	COG0601	16/18	ABC-type dipeptide/oligopeptide/nickel transport systems, permease components	Inorganic ion transport and metabolism
+C4_1128	COG3158	14/18	K+ transporter	Inorganic ion transport and metabolism
+C4_1131	COG1393	17/18	Arsenate reductase and related proteins, glutaredoxin family	Inorganic ion transport and metabolism
+C4_1144	COG0370	5/18	Fe2+ transport system protein B	Inorganic ion transport and metabolism
+C4_1186	COG0477	18/18	Permeases of the major facilitator superfamily	Inorganic ion transport and metabolism
+C4_1218	COG0607	18/18	Rhodanese-related sulfurtransferase	Inorganic ion transport and metabolism
+C4_1222	COG1629	18/18	Outer membrane receptor proteins, mostly Fe transport	Inorganic ion transport and metabolism
+C4_1248	COG0477	18/18	Permeases of the major facilitator superfamily	Inorganic ion transport and metabolism
+C4_1306	COG2239	11/18	Mg/Co/Ni transporter MgtE (contains CBS domain)	Inorganic ion transport and metabolism
+C4_0036	COG2854	18/18	ABC-type transport system involved in resistance to organic solvents, auxiliary component	Secondary metabolites biosynthesis, transport and catabolism
+C4_0037	COG1463	18/18	ABC-type transport system involved in resistance to organic solvents, periplasmic component	Secondary metabolites biosynthesis, transport and catabolism
+C4_0038	COG0767	18/18	ABC-type transport system involved in resistance to organic solvents, permease component	Secondary metabolites biosynthesis, transport and catabolism
+C4_0039	COG1127	18/18	ABC-type transport system involved in resistance to organic solvents, ATPase component	Secondary metabolites biosynthesis, transport and catabolism
+C4_0047	COG1028	18/18	Dehydrogenases with different specificities (related to short-chain alcohol dehydrogenases)	Secondary metabolites biosynthesis, transport and catabolism
+C4_0177	COG1028	18/18	Dehydrogenases with different specificities (related to short-chain alcohol dehydrogenases)	Secondary metabolites biosynthesis, transport and catabolism
+C4_0185	COG1233	3/18	Phytoene dehydrogenase and related proteins	Secondary metabolites biosynthesis, transport and catabolism
+C4_0222	COG1028	18/18	Dehydrogenases with different specificities (related to short-chain alcohol dehydrogenases)	Secondary metabolites biosynthesis, transport and catabolism
+C4_0253	COG0412	14/18	Dienelactone hydrolase and related enzymes	Secondary metabolites biosynthesis, transport and catabolism
+C4_0260	COG1335	17/18	Amidases related to nicotinamidase	Secondary metabolites biosynthesis, transport and catabolism
+C4_0295	COG0500	18/18	SAM-dependent methyltransferases	Secondary metabolites biosynthesis, transport and catabolism
+C4_0361	COG1028	18/18	Dehydrogenases with different specificities (related to short-chain alcohol dehydrogenases)	Secondary metabolites biosynthesis, transport and catabolism
+C4_0634	COG0500	18/18	SAM-dependent methyltransferases	Secondary metabolites biosynthesis, transport and catabolism
+C4_0686	COG0304	18/18	3-oxoacyl-(acyl-carrier-protein) synthase	Secondary metabolites biosynthesis, transport and catabolism
+C4_0800	COG0500	18/18	SAM-dependent methyltransferases	Secondary metabolites biosynthesis, transport and catabolism
+C4_0825	COG0500	18/18	SAM-dependent methyltransferases	Secondary metabolites biosynthesis, transport and catabolism
+C4_0891	COG0304	18/18	3-oxoacyl-(acyl-carrier-protein) synthase	Secondary metabolites biosynthesis, transport and catabolism
+C4_0892	COG0236	18/18	Acyl carrier protein	Secondary metabolites biosynthesis, transport and catabolism
+C4_0893	COG1028	18/18	Dehydrogenases with different specificities (related to short-chain alcohol dehydrogenases)	Secondary metabolites biosynthesis, transport and catabolism
+C4_0922	COG0123	17/18	Deacetylases, including yeast histone deacetylase and acetoin utilization protein	Secondary metabolites biosynthesis, transport and catabolism
+C4_1006	COG0500	18/18	SAM-dependent methyltransferases	Secondary metabolites biosynthesis, transport and catabolism
+C4_1015	COG0500	18/18	SAM-dependent methyltransferases	Secondary metabolites biosynthesis, transport and catabolism
+C4_1209	COG0500	18/18	SAM-dependent methyltransferases	Secondary metabolites biosynthesis, transport and catabolism
+C4_0012	COG2969	18/18	Stringent starvation protein B	General function prediction only
+C4_0020	COG0537	18/18	Diadenosine tetraphosphate (Ap4A) hydrolase and other HIT family hydrolases	General function prediction only
+C4_0045	COG0218	18/18	Predicted GTPase	General function prediction only
+C4_0046	COG0220	18/18	Predicted S-adenosylmethionine-dependent methyltransferase	General function prediction only
+C4_0047	COG1028	18/18	Dehydrogenases with different specificities (related to short-chain alcohol dehydrogenases)	General function prediction only
+C4_0049	COG1754	2/18	Uncharacterized C-terminal domain of topoisomerase IA	General function prediction only
+C4_0054	COG0795	18/18	Predicted permeases	General function prediction only
+C4_0055	COG0795	18/18	Predicted permeases	General function prediction only
+C4_0068	COG4783	16/18	Putative Zn-dependent protease, contains TPR repeats	General function prediction only
+C4_0079	COG0517	18/18	FOG: CBS domain	General function prediction only
+C4_0082	COG1137	18/18	ABC-type (unclassified) transport system, ATPase component	General function prediction only
+C4_0113	COG3788	0/18	Uncharacterized relative of glutathione S-transferase, MAPEG superfamily	General function prediction only
+C4_0154	COG3030	2/18	Protein affecting phage T7 exclusion by the F plasmid	General function prediction only
+C4_0161	COG3046	1/18	Uncharacterized protein related to deoxyribodipyrimidine photolyase	General function prediction only
+C4_0169	COG1064	13/18	Zn-dependent alcohol dehydrogenases	General function prediction only
+C4_0177	COG1028	18/18	Dehydrogenases with different specificities (related to short-chain alcohol dehydrogenases)	General function prediction only
+C4_0204	COG0486	18/18	Predicted GTPase	General function prediction only
+C4_0218	COG0790	14/18	FOG: TPR repeat, SEL1 subfamily	General function prediction only
+C4_0219	COG0790	14/18	FOG: TPR repeat, SEL1 subfamily	General function prediction only
+C4_0222	COG1028	18/18	Dehydrogenases with different specificities (related to short-chain alcohol dehydrogenases)	General function prediction only
+C4_0231	COG0493	16/18	NADPH-dependent glutamate synthase beta chain and related oxidoreductases	General function prediction only
+C4_0234	COG4147	13/18	Predicted symporter	General function prediction only
+C4_0240	COG3769	0/18	Predicted hydrolase (HAD superfamily)	General function prediction only
+C4_0243	COG5012	14/18	Predicted cobalamin binding protein	General function prediction only
+C4_0264	COG3932	1/18	Uncharacterized ABC-type transport system, permease components	General function prediction only
+C4_0266	COG0454	18/18	Histone acetyltransferase HPA2 and related acetyltransferases	General function prediction only
+C4_0269	COG0491	18/18	Zn-dependent hydrolases, including glyoxylases	General function prediction only
+C4_0273	COG0494	18/18	NTP pyrophosphohydrolases including oxidative damage repair enzymes	General function prediction only
+C4_0294	COG0477	18/18	Permeases of the major facilitator superfamily	General function prediction only
+C4_0295	COG0500	18/18	SAM-dependent methyltransferases	General function prediction only
+C4_0301	COG0546	18/18	Predicted phosphatases	General function prediction only
+C4_0313	COG0457	18/18	FOG: TPR repeat	General function prediction only
+C4_0319	COG0477	18/18	Permeases of the major facilitator superfamily	General function prediction only
+C4_0327	COG0697	18/18	Permeases of the drug/metabolite transporter (DMT) superfamily	General function prediction only
+C4_0332	COG0824	18/18	Predicted thioesterase	General function prediction only
+C4_0340	COG0603	18/18	Predicted PP-loop superfamily ATPase	General function prediction only
+C4_0361	COG1028	18/18	Dehydrogenases with different specificities (related to short-chain alcohol dehydrogenases)	General function prediction only
+C4_0368	COG0457	18/18	FOG: TPR repeat	General function prediction only
+C4_0370	COG0596	18/18	Predicted hydrolases or acyltransferases (alpha/beta hydrolase superfamily)	General function prediction only
+C4_0375	COG0477	18/18	Permeases of the major facilitator superfamily	General function prediction only
+C4_0384	COG3383	9/18	Uncharacterized anaerobic dehydrogenase	General function prediction only
+C4_0395	COG2823	18/18	Predicted periplasmic or secreted lipoprotein	General function prediction only
+C4_0396	COG0313	18/18	Predicted methyltransferases	General function prediction only
+C4_0418	COG1011	17/18	Predicted hydrolase (HAD superfamily)	General function prediction only
+C4_0429	COG0730	18/18	Predicted permeases	General function prediction only
+C4_0433	COG3313	13/18	Predicted Fe-S protein	General function prediction only
+C4_0443	COG1235	11/18	Metal-dependent hydrolases of the beta-lactamase superfamily I	General function prediction only
+C4_0458	COG4137	18/18	ABC-type uncharacterized transport system, permease component	General function prediction only
+C4_0469	COG3907	1/18	PAP2 (acid phosphatase) superfamily protein	General function prediction only
+C4_0470	COG2194	8/18	Predicted membrane-associated, metal-dependent hydrolase	General function prediction only
+C4_0477	COG2137	17/18	Uncharacterized protein conserved in bacteria	General function prediction only
+C4_0479	COG1546	18/18	Uncharacterized protein (competence- and mitomycin-induced)	General function prediction only
+C4_0485	COG0312	18/18	Predicted Zn-dependent proteases and their inactivated homologs	General function prediction only
+C4_0500	COG1999	18/18	Uncharacterized protein SCO1/SenC/PrrC, involved in biogenesis of respiratory and photosynthetic systems	General function prediction only
+C4_0501	COG1451	18/18	Predicted metal-dependent hydrolase	General function prediction only
+C4_0509	COG0319	18/18	Predicted metal-dependent hydrolase	General function prediction only
+C4_0524	COG0457	18/18	FOG: TPR repeat	General function prediction only
+C4_0526	COG1277	10/18	ABC-type transport system involved in multi-copper enzyme maturation, permease component	General function prediction only
+C4_0530	COG0591	12/18	Na+/proline symporter	General function prediction only
+C4_0532	COG0661	18/18	Predicted unusual protein kinase	General function prediction only
+C4_0540	COG0612	14/18	Predicted Zn-dependent peptidases	General function prediction only
+C4_0541	COG0612	14/18	Predicted Zn-dependent peptidases	General function prediction only
+C4_0551	COG0546	18/18	Predicted phosphatases	General function prediction only
+C4_0600	COG1159	18/18	GTPase	General function prediction only
+C4_0633	COG1161	9/18	Predicted GTPases	General function prediction only
+C4_0634	COG0500	18/18	SAM-dependent methyltransferases	General function prediction only
+C4_0649	COG0488	18/18	ATPase components of ABC transporters with duplicated ATPase domains	General function prediction only
+C4_0653	COG1988	6/18	Predicted membrane-bound metal-dependent hydrolases	General function prediction only
+C4_0678	COG0354	18/18	Predicted aminomethyltransferase related to GcvT	General function prediction only
+C4_0684	COG0714	16/18	MoxR-like ATPases	General function prediction only
+C4_0727	COG0312	18/18	Predicted Zn-dependent proteases and their inactivated homologs	General function prediction only
+C4_0732	COG0697	18/18	Permeases of the drug/metabolite transporter (DMT) superfamily	General function prediction only
+C4_0760	COG1235	11/18	Metal-dependent hydrolases of the beta-lactamase superfamily I	General function prediction only
+C4_0763	COG0535	12/18	Predicted Fe-S oxidoreductases	General function prediction only
+C4_0764	COG0477	18/18	Permeases of the major facilitator superfamily	General function prediction only
+C4_0772	COG0730	18/18	Predicted permeases	General function prediction only
+C4_0784	COG0579	14/18	Predicted dehydrogenase	General function prediction only
+C4_0800	COG0500	18/18	SAM-dependent methyltransferases	General function prediction only
+C4_0801	COG0780	18/18	Enzyme related to GTP cyclohydrolase I	General function prediction only
+C4_0820	COG2079	11/18	Uncharacterized protein involved in propionate catabolism	General function prediction only
+C4_0825	COG0500	18/18	SAM-dependent methyltransferases	General function prediction only
+C4_0826	COG0491	18/18	Zn-dependent hydrolases, including glyoxylases	General function prediction only
+C4_0880	COG0477	18/18	Permeases of the major facilitator superfamily	General function prediction only
+C4_0885	COG1235	11/18	Metal-dependent hydrolases of the beta-lactamase superfamily I	General function prediction only
+C4_0889	COG1559	18/18	Predicted periplasmic solute-binding protein	General function prediction only
+C4_0893	COG1028	18/18	Dehydrogenases with different specificities (related to short-chain alcohol dehydrogenases)	General function prediction only
+C4_0901	COG0313	18/18	Predicted methyltransferases	General function prediction only
+C4_0932	COG2907	13/18	Predicted NAD/FAD-binding protein	General function prediction only
+C4_0939	COG0802	17/18	Predicted ATPase or kinase	General function prediction only
+C4_0943	COG0546	18/18	Predicted phosphatases	General function prediction only
+C4_0957	COG1721	10/18	Uncharacterized conserved protein (some members contain a von Willebrand factor type A (vWA) domain)	General function prediction only
+C4_0958	COG0714	16/18	MoxR-like ATPases	General function prediction only
+C4_0967	COG0546	18/18	Predicted phosphatases	General function prediction only
+C4_0969	COG0402	15/18	Cytosine deaminase and related metal-dependent hydrolases	General function prediction only
+C4_0974	COG2262	18/18	GTPases	General function prediction only
+C4_0975	COG1923	18/18	Uncharacterized host factor I protein	General function prediction only
+C4_0984	COG4105	18/18	DNA uptake lipoprotein	General function prediction only
+C4_0985	COG1160	18/18	Predicted GTPases	General function prediction only
+C4_0993	COG0820	18/18	Predicted Fe-S-cluster redox enzyme	General function prediction only
+C4_0995	COG1054	11/18	Predicted sulfurtransferase	General function prediction only
+C4_0996	COG0673	13/18	Predicted dehydrogenases and related proteins	General function prediction only
+C4_0997	COG0546	18/18	Predicted phosphatases	General function prediction only
+C4_1002	COG2244	15/18	Membrane protein involved in the export of O-antigen and teichoic acid	General function prediction only
+C4_1006	COG0500	18/18	SAM-dependent methyltransferases	General function prediction only
+C4_1015	COG0500	18/18	SAM-dependent methyltransferases	General function prediction only
+C4_1016	COG0110	16/18	Acetyltransferase (isoleucine patch superfamily)	General function prediction only
+C4_1035	COG1063	13/18	Threonine dehydrogenase and related Zn-dependent dehydrogenases	General function prediction only
+C4_1080	COG2304	6/18	Uncharacterized protein containing a von Willebrand factor type A (vWA) domain	General function prediction only
+C4_1089	COG0073	18/18	EMAP domain	General function prediction only
+C4_1096	COG0517	18/18	FOG: CBS domain	General function prediction only
+C4_1113	COG0655	14/18	Multimeric flavodoxin WrbA	General function prediction only
+C4_1114	COG0496	18/18	Predicted acid phosphatase	General function prediction only
+C4_1119	COG0670	18/18	Integral membrane protein, interacts with FtsH	General function prediction only
+C4_1137	COG1994	17/18	Zn-dependent proteases	General function prediction only
+C4_1138	COG0613	18/18	Predicted metal-dependent phosphoesterases (PHP family)	General function prediction only
+C4_1152	COG0666	17/18	FOG: Ankyrin repeat	General function prediction only
+C4_1153	COG0388	18/18	Predicted amidohydrolase	General function prediction only
+C4_1170	COG0325	18/18	Predicted enzyme with a TIM-barrel fold	General function prediction only
+C4_1178	COG0494	18/18	NTP pyrophosphohydrolases including oxidative damage repair enzymes	General function prediction only
+C4_1181	COG0400	12/18	Predicted esterase	General function prediction only
+C4_1186	COG0477	18/18	Permeases of the major facilitator superfamily	General function prediction only
+C4_1197	COG3178	18/18	Predicted phosphotransferase related to Ser/Thr protein kinases	General function prediction only
+C4_1209	COG0500	18/18	SAM-dependent methyltransferases	General function prediction only
+C4_1210	COG0596	18/18	Predicted hydrolases or acyltransferases (alpha/beta hydrolase superfamily)	General function prediction only
+C4_1227	COG0728	18/18	Uncharacterized membrane protein, putative virulence factor	General function prediction only
+C4_1232	COG0536	18/18	Predicted GTPase	General function prediction only
+C4_1240	COG0494	18/18	NTP pyrophosphohydrolases including oxidative damage repair enzymes	General function prediction only
+C4_1248	COG0477	18/18	Permeases of the major facilitator superfamily	General function prediction only
+C4_1271	COG0456	18/18	Acetyltransferases	General function prediction only
+C4_1287	COG2334	18/18	Putative homoserine kinase type II (protein kinase fold)	General function prediction only
+C4_1290	COG1058	15/18	Predicted nucleotide-utilizing enzyme related to molybdopterin-biosynthesis enzyme MoeA	General function prediction only
+C4_0081	COG1934	14/18	Uncharacterized protein conserved in bacteria	Function unknown
+C4_0095	COG2922	12/18	Uncharacterized protein conserved in bacteria	Function unknown
+C4_0102	COG3027	11/18	Uncharacterized protein conserved in bacteria	Function unknown
+C4_0103	COG3651	4/18	Uncharacterized protein conserved in bacteria	Function unknown
+C4_0104	COG2947	10/18	Uncharacterized conserved protein	Function unknown
+C4_0105	COG3391	16/18	Uncharacterized conserved protein	Function unknown
+C4_0127	COG0779	18/18	Uncharacterized protein conserved in bacteria	Function unknown
+C4_0131	COG0316	18/18	Uncharacterized conserved protein	Function unknown
+C4_0144	COG1561	17/18	Uncharacterized stress-induced protein	Function unknown
+C4_0149	COG3453	9/18	Uncharacterized protein conserved in bacteria	Function unknown
+C4_0168	COG2849	4/18	Uncharacterized protein conserved in bacteria	Function unknown
+C4_0244	COG2960	16/18	Uncharacterized protein conserved in bacteria	Function unknown
+C4_0268	COG2259	14/18	Predicted membrane protein	Function unknown
+C4_0322	COG2928	16/18	Uncharacterized conserved protein	Function unknown
+C4_0325	COG0432	5/18	Uncharacterized conserved protein	Function unknown
+C4_0328	COG0217	18/18	Uncharacterized conserved protein	Function unknown
+C4_0338	COG1729	18/18	Uncharacterized protein conserved in bacteria	Function unknown
+C4_0347	COG0344	18/18	Predicted membrane protein	Function unknown
+C4_0350	COG1610	18/18	Uncharacterized conserved protein	Function unknown
+C4_0362	COG1357	6/18	Uncharacterized low-complexity proteins	Function unknown
+C4_0398	COG2001	18/18	Uncharacterized protein conserved in bacteria	Function unknown
+C4_0421	COG1385	18/18	Uncharacterized protein conserved in bacteria	Function unknown
+C4_0444	COG2850	14/18	Uncharacterized conserved protein	Function unknown
+C4_0448	COG2127	18/18	Uncharacterized conserved protein	Function unknown
+C4_0466	COG3812	6/18	Uncharacterized protein conserved in bacteria	Function unknown
+C4_0484	COG3028	17/18	Uncharacterized protein conserved in bacteria	Function unknown
+C4_0489	COG1576	18/18	Uncharacterized conserved protein	Function unknown
+C4_0490	COG0799	18/18	Uncharacterized homolog of plant Iojap protein	Function unknown
+C4_0497	COG2096	14/18	Uncharacterized conserved protein	Function unknown
+C4_0516	COG3146	14/18	Uncharacterized protein conserved in bacteria	Function unknown
+C4_0533	COG3165	9/18	Uncharacterized protein conserved in bacteria	Function unknown
+C4_0535	COG3536	13/18	Uncharacterized protein conserved in bacteria	Function unknown
+C4_0582	COG0316	18/18	Uncharacterized conserved protein	Function unknown
+C4_0657	COG1944	6/18	Uncharacterized conserved protein	Function unknown
+C4_0662	COG2914	14/18	Uncharacterized protein conserved in bacteria	Function unknown
+C4_0707	COG3735	0/18	Uncharacterized protein conserved in bacteria	Function unknown
+C4_0714	COG2840	18/18	Uncharacterized protein conserved in bacteria	Function unknown
+C4_0725	COG4394	16/18	Uncharacterized protein conserved in bacteria	Function unknown
+C4_0728	COG3164	15/18	Predicted membrane protein	Function unknown
+C4_0738	COG1666	16/18	Uncharacterized protein conserved in bacteria	Function unknown
+C4_0770	COG3749	13/18	Uncharacterized protein conserved in bacteria	Function unknown
+C4_0775	COG1739	12/18	Uncharacterized conserved protein	Function unknown
+C4_0777	COG1322	17/18	Uncharacterized protein conserved in bacteria	Function unknown
+C4_0846	COG1806	18/18	Uncharacterized protein conserved in bacteria	Function unknown
+C4_0879	COG1238	13/18	Predicted membrane protein	Function unknown
+C4_0927	COG3752	0/18	Predicted membrane protein	Function unknown
+C4_0933	COG3496	3/18	Uncharacterized conserved protein	Function unknown
+C4_0963	COG3564	3/18	Uncharacterized protein conserved in bacteria	Function unknown
+C4_0965	COG0718	18/18	Uncharacterized protein conserved in bacteria	Function unknown
+C4_0979	COG1496	18/18	Uncharacterized conserved protein	Function unknown
+C4_0986	COG1520	16/18	FOG: WD40-like repeat	Function unknown
+C4_0987	COG2976	18/18	Uncharacterized protein conserved in bacteria	Function unknown
+C4_1044	COG0397	15/18	Uncharacterized conserved protein	Function unknown
+C4_1055	COG2975	14/18	Uncharacterized protein conserved in bacteria	Function unknown
+C4_1078	COG3904	1/18	Predicted periplasmic protein	Function unknown
+C4_1123	COG1376	7/18	Uncharacterized protein conserved in bacteria	Function unknown
+C4_1135	COG1354	18/18	Uncharacterized conserved protein	Function unknown
+C4_1140	COG2350	14/18	Uncharacterized protein conserved in bacteria	Function unknown
+C4_1156	COG2835	17/18	Uncharacterized conserved protein	Function unknown
+C4_1179	COG3391	16/18	Uncharacterized conserved protein	Function unknown
+C4_1185	COG1469	15/18	Uncharacterized conserved protein	Function unknown
+C4_1221	COG0432	5/18	Uncharacterized conserved protein	Function unknown
+C4_1238	COG4582	16/18	Uncharacterized protein conserved in bacteria	Function unknown
+C4_1239	COG2847	16/18	Uncharacterized protein conserved in bacteria	Function unknown
+C4_1245	COG2908	16/18	Uncharacterized protein conserved in bacteria	Function unknown
+C4_1260	COG3346	13/18	Uncharacterized conserved protein	Function unknown
+C4_1277	COG4390	10/18	Uncharacterized protein conserved in bacteria	Function unknown
+C4_1301	COG4923	0/18	Uncharacterized conserved protein	Function unknown

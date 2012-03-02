@@ -1,0 +1,13 @@
+-	COG0048	69/70	Ribosomal protein S12	Translation, ribosomal structure and biogenesis
+-	COG0100	69/70	Ribosomal protein S11	Translation, ribosomal structure and biogenesis
+-	COG0227	68/70	Ribosomal protein L28	Translation, ribosomal structure and biogenesis
+-	COG0254	69/70	Ribosomal protein L31	Translation, ribosomal structure and biogenesis
+-	COG0267	68/70	Ribosomal protein L33	Translation, ribosomal structure and biogenesis
+-	COG0507	66/70	ATP-dependent exoDNAse (exonuclease V), alpha subunit - helicase superfamily I member	Replication, recombination and repair
+-	COG0544	69/70	FKBP-type peptidyl-prolyl cis-trans isomerase (trigger factor)	Posttranslational modification, protein turnover, chaperones
+-	COG1145	67/70	Ferredoxin	Energy production and conversion
+-	COG0634	66/70	Hypoxanthine-guanine phosphoribosyltransferase	Nucleotide transport and metabolism
+-	COG0156	67/70	7-keto-8-aminopelargonate synthetase and related enzymes	Coenzyme transport and metabolism
+-	COG0502	68/70	Biotin synthase and related enzymes	Coenzyme transport and metabolism
+-	COG0605	69/70	Superoxide dismutase	Inorganic ion transport and metabolism
+-	COG1778	67/70	Low specificity phosphatase (HAD superfamily)	General function prediction only

@@ -1,0 +1,25 @@
+-	COG0051	69/70	Ribosomal protein S10	Translation, ribosomal structure and biogenesis
+-	COG0211	69/70	Ribosomal protein L27	Translation, ribosomal structure and biogenesis
+-	COG0261	67/70	Ribosomal protein L21	Translation, ribosomal structure and biogenesis
+-	COG0264	69/70	Translation elongation factor Ts	Translation, ribosomal structure and biogenesis
+-	COG0333	66/70	Ribosomal protein L32	Translation, ribosomal structure and biogenesis
+-	COG1396	65/70	Predicted transcriptional regulators	Transcription
+-	COG0507	66/70	ATP-dependent exoDNAse (exonuclease V), alpha subunit - helicase superfamily I member	Replication, recombination and repair
+-	COG0114	63/70	Fumarase	Energy production and conversion
+-	COG1145	67/70	Ferredoxin	Energy production and conversion
+-	COG1271	64/70	Cytochrome bd-type quinol oxidase, subunit 1	Energy production and conversion
+-	COG1294	64/70	Cytochrome bd-type quinol oxidase, subunit 2	Energy production and conversion
+-	COG0026	65/70	Phosphoribosylaminoimidazole carboxylase (NCAIR synthetase)	Nucleotide transport and metabolism
+-	COG0634	66/70	Hypoxanthine-guanine phosphoribosyltransferase	Nucleotide transport and metabolism
+-	COG0352	65/70	Thiamine monophosphate synthase	Coenzyme transport and metabolism
+-	COG0236	69/70	Acyl carrier protein	Lipid transport and metabolism
+-	COG0605	69/70	Superoxide dismutase	Inorganic ion transport and metabolism
+-	COG0236	69/70	Acyl carrier protein	Secondary metabolites biosynthesis, transport and catabolism
+-	COG1463	65/70	ABC-type transport system involved in resistance to organic solvents, periplasmic component	Secondary metabolites biosynthesis, transport and catabolism
+-	COG2854	65/70	ABC-type transport system involved in resistance to organic solvents, auxiliary component	Secondary metabolites biosynthesis, transport and catabolism
+-	COG0496	63/70	Predicted acid phosphatase	General function prediction only
+-	COG1559	66/70	Predicted periplasmic solute-binding protein	General function prediction only
+-	COG1923	67/70	Uncharacterized host factor I protein	General function prediction only
+-	COG2961	63/70	Protein involved in catabolism of external DNA	General function prediction only
+-	COG0586	63/70	Uncharacterized membrane-associated protein	Function unknown
+-	COG2904	64/70	Uncharacterized protein conserved in bacteria	Function unknown

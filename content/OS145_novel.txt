@@ -1,0 +1,6 @@
+C7_0032	COG4152	1/70	ABC-type uncharacterized transport system, ATPase component	General function prediction only
+C8_0260	COG0595	2/70	Predicted hydrolase of the metallo-beta-lactamase superfamily	General function prediction only
+C12_0273	COG5658	0/70	Predicted integral membrane protein	Function unknown
+C15_0119	COG5360	0/70	Uncharacterized protein conserved in bacteria	Function unknown
+C7_0173	COG4946	2/70	Uncharacterized protein related to the periplasmic component of the Tol biopolymer transport system	Function unknown
+C8_0102	COG4633	3/70	Uncharacterized protein conserved in bacteria	Function unknown

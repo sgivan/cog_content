@@ -1,0 +1,9 @@
+-	COG0186	31/32	Ribosomal protein S17	Translation, ribosomal structure and biogenesis
+-	COG0255	29/32	Ribosomal protein L29	Translation, ribosomal structure and biogenesis
+-	COG1126	28/32	ABC-type polar amino acid transport system, ATPase component	Amino acid transport and metabolism
+-	COG0236	32/32	Acyl carrier protein	Lipid transport and metabolism
+-	COG0688	30/32	Phosphatidylserine decarboxylase	Lipid transport and metabolism
+-	COG1183	31/32	Phosphatidylserine synthase	Lipid transport and metabolism
+-	COG1108	28/32	ABC-type Mn2+/Zn2+ transport systems, permease components	Inorganic ion transport and metabolism
+-	COG1121	28/32	ABC-type Mn/Zn transport systems, ATPase component	Inorganic ion transport and metabolism
+-	COG0236	32/32	Acyl carrier protein	Secondary metabolites biosynthesis, transport and catabolism

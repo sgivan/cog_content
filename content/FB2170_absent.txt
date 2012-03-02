@@ -1,0 +1,220 @@
+-	COG0023	2/3	Translation initiation factor 1 (eIF-1/SUI1) and related proteins	Translation, ribosomal structure and biogenesis
+-	COG0048	2/3	Ribosomal protein S12	Translation, ribosomal structure and biogenesis
+-	COG0186	2/3	Ribosomal protein S17	Translation, ribosomal structure and biogenesis
+-	COG0349	2/3	Ribonuclease D	Translation, ribosomal structure and biogenesis
+-	COG0553	3/3	Superfamily II DNA/RNA helicases, SNF2 family	Transcription
+-	COG1396	2/3	Predicted transcriptional regulators	Transcription
+-	COG1438	3/3	Arginine repressor	Transcription
+-	COG1725	2/3	Predicted transcriptional regulators	Transcription
+-	COG2865	3/3	Predicted transcriptional regulator containing an HTH domain and an uncharacterized domain shared with the mammalian protein Schlafen	Transcription
+-	COG4646	2/3	DNA methylase	Transcription
+-	COG0553	3/3	Superfamily II DNA/RNA helicases, SNF2 family	Replication, recombination and repair
+-	COG0648	2/3	Endonuclease IV	Replication, recombination and repair
+-	COG0827	2/3	Adenine-specific DNA methylase	Replication, recombination and repair
+-	COG1112	2/3	Superfamily I DNA and RNA helicases and helicase subunits	Replication, recombination and repair
+-	COG1570	2/3	Exonuclease VII, large subunit	Replication, recombination and repair
+-	COG1961	3/3	Site-specific recombinases, DNA invertase Pin homologs	Replication, recombination and repair
+-	COG2801	2/3	Transposase and inactivated derivatives	Replication, recombination and repair
+-	COG2816	2/3	NTP pyrophosphohydrolases containing a Zn-finger, probably nucleic-acid-binding	Replication, recombination and repair
+-	COG3039	2/3	Transposase and inactivated derivatives, IS5 family	Replication, recombination and repair
+-	COG3344	3/3	Retron-type reverse transcriptase	Replication, recombination and repair
+-	COG3385	2/3	FOG: Transposase and inactivated derivatives	Replication, recombination and repair
+-	COG3449	2/3	DNA gyrase inhibitor	Replication, recombination and repair
+-	COG3663	2/3	G:T/U mismatch-specific DNA glycosylase	Replication, recombination and repair
+-	COG4646	2/3	DNA methylase	Replication, recombination and repair
+-	COG5433	2/3	Transposase	Replication, recombination and repair
+-	COG0239	2/3	Integral membrane protein possibly involved in chromosome condensation	Cell cycle control, cell division, chromosome partitioning
+-	COG2385	2/3	Sporulation protein and related proteins	Cell cycle control, cell division, chromosome partitioning
+-	COG0610	2/3	Type I site-specific restriction-modification system, R (restriction) subunit and related helicases	Defense mechanisms
+-	COG0842	2/3	ABC-type multidrug transport system, permease component	Defense mechanisms
+-	COG1002	3/3	Type II restriction enzyme, methylase subunits	Defense mechanisms
+-	COG2274	2/3	ABC-type bacteriocin/lantibiotic exporters, contain an N-terminal double-glycine peptidase domain	Defense mechanisms
+-	COG2367	2/3	Beta-lactamase class A	Defense mechanisms
+-	COG1734	2/3	DnaK suppressor protein	Signal transduction mechanisms
+-	COG1875	2/3	Predicted ATPase related to phosphate starvation-inducible protein PhoH	Signal transduction mechanisms
+-	COG2205	2/3	Osmosensitive K+ channel histidine kinase	Signal transduction mechanisms
+-	COG2365	2/3	Protein tyrosine/serine phosphatase	Signal transduction mechanisms
+-	COG3292	2/3	Predicted periplasmic ligand-binding sensor domain	Signal transduction mechanisms
+-	COG4753	2/3	Response regulator containing CheY-like receiver domain and AraC-type DNA-binding domain	Signal transduction mechanisms
+-	COG0381	3/3	UDP-N-acetylglucosamine 2-epimerase	Cell wall/membrane/envelope biogenesis
+-	COG0729	2/3	Outer membrane protein	Cell wall/membrane/envelope biogenesis
+-	COG0744	2/3	Membrane carboxypeptidase (penicillin-binding protein)	Cell wall/membrane/envelope biogenesis
+-	COG0761	2/3	Penicillin tolerance protein	Cell wall/membrane/envelope biogenesis
+-	COG0859	2/3	ADP-heptose:LPS heptosyltransferase	Cell wall/membrane/envelope biogenesis
+-	COG1346	2/3	Putative effector of murein hydrolase	Cell wall/membrane/envelope biogenesis
+-	COG1442	2/3	Lipopolysaccharide biosynthesis proteins, LPS:glycosyltransferases	Cell wall/membrane/envelope biogenesis
+-	COG1696	2/3	Predicted membrane protein involved in D-alanine export	Cell wall/membrane/envelope biogenesis
+-	COG2825	3/3	Outer membrane protein	Cell wall/membrane/envelope biogenesis
+-	COG2843	2/3	Putative enzyme of poly-gamma-glutamate biosynthesis (capsule formation)	Cell wall/membrane/envelope biogenesis
+-	COG3206	2/3	Uncharacterized protein involved in exopolysaccharide biosynthesis	Cell wall/membrane/envelope biogenesis
+-	COG4623	2/3	Predicted soluble lytic transglycosylase fused to an ABC-type amino acid-binding protein	Cell wall/membrane/envelope biogenesis
+-	COG0848	2/3	Biopolymer transport protein	Intracellular trafficking, secretion, and vesicular transport
+-	COG3451	2/3	Type IV secretory pathway, VirB4 components	Intracellular trafficking, secretion, and vesicular transport
+-	COG3505	3/3	Type IV secretory pathway, VirD4 components	Intracellular trafficking, secretion, and vesicular transport
+-	COG0425	2/3	Predicted redox protein, regulator of disulfide bond formation	Posttranslational modification, protein turnover, chaperones
+-	COG1047	2/3	FKBP-type peptidyl-prolyl cis-trans isomerases 2	Posttranslational modification, protein turnover, chaperones
+-	COG1180	2/3	Pyruvate-formate lyase-activating enzyme	Posttranslational modification, protein turnover, chaperones
+-	COG3590	2/3	Predicted metalloendopeptidase	Posttranslational modification, protein turnover, chaperones
+-	COG3634	3/3	Alkyl hydroperoxide reductase, large subunit	Posttranslational modification, protein turnover, chaperones
+-	COG0426	3/3	Uncharacterized flavoproteins	Energy production and conversion
+-	COG0543	3/3	2-polyprenylphenol hydroxylase and related flavodoxin oxidoreductases	Energy production and conversion
+-	COG0636	2/3	F0F1-type ATP synthase, subunit c/Archaeal/vacuolar-type H+-ATPase, subunit K	Energy production and conversion
+-	COG0713	2/3	NADH:ubiquinone oxidoreductase subunit 11 or 4L (chain K)	Energy production and conversion
+-	COG0716	2/3	Flavodoxins	Energy production and conversion
+-	COG0731	2/3	Fe-S oxidoreductases	Energy production and conversion
+-	COG0839	2/3	NADH:ubiquinone oxidoreductase subunit 6 (chain J)	Energy production and conversion
+-	COG1032	2/3	Fe-S oxidoreductase	Energy production and conversion
+-	COG1042	2/3	Acyl-CoA synthetase (NDP forming)	Energy production and conversion
+-	COG1139	2/3	Uncharacterized conserved protein containing a ferredoxin-like domain	Energy production and conversion
+-	COG1146	2/3	Ferredoxin	Energy production and conversion
+-	COG1151	2/3	6Fe-6S prismane cluster-containing protein	Energy production and conversion
+-	COG1155	2/3	Archaeal/vacuolar-type H+-ATPase subunit A	Energy production and conversion
+-	COG1156	2/3	Archaeal/vacuolar-type H+-ATPase subunit B	Energy production and conversion
+-	COG1269	2/3	Archaeal/vacuolar-type H+-ATPase subunit I	Energy production and conversion
+-	COG1271	2/3	Cytochrome bd-type quinol oxidase, subunit 1	Energy production and conversion
+-	COG1294	2/3	Cytochrome bd-type quinol oxidase, subunit 2	Energy production and conversion
+-	COG1394	2/3	Archaeal/vacuolar-type H+-ATPase subunit D	Energy production and conversion
+-	COG1592	3/3	Rubrerythrin	Energy production and conversion
+-	COG1620	2/3	L-lactate permease	Energy production and conversion
+-	COG1838	3/3	Tartrate dehydratase beta subunit/Fumarate hydratase class I, C-terminal domain	Energy production and conversion
+-	COG1882	2/3	Pyruvate-formate lyase	Energy production and conversion
+-	COG1951	3/3	Tartrate dehydratase alpha subunit/Fumarate hydratase class I, N-terminal domain	Energy production and conversion
+-	COG1979	2/3	Uncharacterized oxidoreductases, Fe-dependent alcohol dehydrogenase family	Energy production and conversion
+-	COG3005	3/3	Nitrate/TMAO reductases, membrane-bound tetraheme cytochrome c subunit	Energy production and conversion
+-	COG4231	2/3	Indolepyruvate ferredoxin oxidoreductase, alpha and beta subunits	Energy production and conversion
+-	COG5016	2/3	Pyruvate/oxaloacetate carboxyltransferase	Energy production and conversion
+-	COG0058	2/3	Glucan phosphorylase	Carbohydrate transport and metabolism
+-	COG0235	2/3	Ribulose-5-phosphate 4-epimerase and related epimerases and aldolases	Carbohydrate transport and metabolism
+-	COG0588	2/3	Phosphoglycerate mutase 1	Carbohydrate transport and metabolism
+-	COG1449	3/3	Alpha-amylase/alpha-mannosidase	Carbohydrate transport and metabolism
+-	COG1640	2/3	4-alpha-glucanotransferase	Carbohydrate transport and metabolism
+-	COG1874	2/3	Beta-galactosidase	Carbohydrate transport and metabolism
+-	COG2407	2/3	L-fucose isomerase and related proteins	Carbohydrate transport and metabolism
+-	COG3345	2/3	Alpha-galactosidase	Carbohydrate transport and metabolism
+-	COG3408	3/3	Glycogen debranching enzyme	Carbohydrate transport and metabolism
+-	COG3507	2/3	Beta-xylosidase	Carbohydrate transport and metabolism
+-	COG3534	2/3	Alpha-L-arabinofuranosidase	Carbohydrate transport and metabolism
+-	COG3635	2/3	Predicted phosphoglycerate mutase, AP superfamily	Carbohydrate transport and metabolism
+-	COG3855	2/3	Uncharacterized protein conserved in bacteria	Carbohydrate transport and metabolism
+-	COG1027	2/3	Aspartate ammonia-lyase	Amino acid transport and metabolism
+-	COG1166	2/3	Arginine decarboxylase (spermidine biosynthesis)	Amino acid transport and metabolism
+-	COG1168	2/3	Bifunctional PLP-dependent enzyme with beta-cystathionase and maltose regulon repressor activities	Amino acid transport and metabolism
+-	COG1387	2/3	Histidinol phosphatase and related hydrolases of the PHP family	Amino acid transport and metabolism
+-	COG1509	2/3	Lysine 2,3-aminomutase	Amino acid transport and metabolism
+-	COG1897	2/3	Homoserine trans-succinylase	Amino acid transport and metabolism
+-	COG2066	2/3	Glutaminase	Amino acid transport and metabolism
+-	COG2957	2/3	Peptidylarginine deiminase and related enzymes	Amino acid transport and metabolism
+-	COG3033	2/3	Tryptophanase	Amino acid transport and metabolism
+-	COG3404	2/3	Methenyl tetrahydrofolate cyclohydrolase	Amino acid transport and metabolism
+-	COG3579	2/3	Aminopeptidase C	Amino acid transport and metabolism
+-	COG3643	2/3	Glutamate formiminotransferase	Amino acid transport and metabolism
+-	COG4690	3/3	Dipeptidase	Amino acid transport and metabolism
+-	COG0248	2/3	Exopolyphosphatase	Nucleotide transport and metabolism
+-	COG0775	2/3	Nucleoside phosphorylase	Nucleotide transport and metabolism
+-	COG1328	2/3	Oxygen-sensitive ribonucleoside-triphosphate reductase	Nucleotide transport and metabolism
+-	COG1781	2/3	Aspartate carbamoyltransferase, regulatory subunit	Nucleotide transport and metabolism
+-	COG2233	2/3	Xanthine/uracil permeases	Nucleotide transport and metabolism
+-	COG2759	2/3	Formyltetrahydrofolate synthetase	Nucleotide transport and metabolism
+-	COG0029	3/3	Aspartate oxidase	Coenzyme transport and metabolism
+-	COG0132	2/3	Dethiobiotin synthetase	Coenzyme transport and metabolism
+-	COG0161	2/3	Adenosylmethionine-8-amino-7-oxononanoate aminotransferase	Coenzyme transport and metabolism
+-	COG0351	2/3	Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase	Coenzyme transport and metabolism
+-	COG0352	2/3	Thiamine monophosphate synthase	Coenzyme transport and metabolism
+-	COG0379	2/3	Quinolinate synthase	Coenzyme transport and metabolism
+-	COG0422	2/3	Thiamine biosynthesis protein ThiC	Coenzyme transport and metabolism
+-	COG0502	2/3	Biotin synthase and related enzymes	Coenzyme transport and metabolism
+-	COG0543	3/3	2-polyprenylphenol hydroxylase and related flavodoxin oxidoreductases	Coenzyme transport and metabolism
+-	COG1060	2/3	Thiamine biosynthesis enzyme ThiH and related uncharacterized enzymes	Coenzyme transport and metabolism
+-	COG1179	3/3	Dinucleotide-utilizing enzymes involved in molybdopterin and thiamine biosynthesis family 1	Coenzyme transport and metabolism
+-	COG1429	2/3	Cobalamin biosynthesis protein CobN and related Mg-chelatases	Coenzyme transport and metabolism
+-	COG1488	2/3	Nicotinic acid phosphoribosyltransferase	Coenzyme transport and metabolism
+-	COG1541	2/3	Coenzyme F390 synthetase	Coenzyme transport and metabolism
+-	COG1564	3/3	Thiamine pyrophosphokinase	Coenzyme transport and metabolism
+-	COG1893	2/3	Ketopantoate reductase	Coenzyme transport and metabolism
+-	COG2022	2/3	Uncharacterized enzyme of thiazole biosynthesis	Coenzyme transport and metabolism
+-	COG0245	2/3	2C-methyl-D-erythritol 2,4-cyclodiphosphate synthase	Lipid transport and metabolism
+-	COG0743	2/3	1-deoxy-D-xylulose 5-phosphate reductoisomerase	Lipid transport and metabolism
+-	COG0761	2/3	Penicillin tolerance protein	Lipid transport and metabolism
+-	COG0821	2/3	Enzyme involved in the deoxyxylulose pathway of isoprenoid biosynthesis	Lipid transport and metabolism
+-	COG1211	2/3	4-diphosphocytidyl-2-methyl-D-erithritol synthase	Lipid transport and metabolism
+-	COG1835	2/3	Predicted acyltransferases	Lipid transport and metabolism
+-	COG1947	2/3	4-diphosphocytidyl-2C-methyl-D-erythritol 2-phosphate synthase	Lipid transport and metabolism
+-	COG0053	2/3	Predicted Co/Zn/Cd cation transporters	Inorganic ion transport and metabolism
+-	COG0248	2/3	Exopolyphosphatase	Inorganic ion transport and metabolism
+-	COG0474	3/3	Cation transport ATPase	Inorganic ion transport and metabolism
+-	COG0475	3/3	Kef-type K+ transport systems, membrane components	Inorganic ion transport and metabolism
+-	COG0598	3/3	Mg2+ and Co2+ transporters	Inorganic ion transport and metabolism
+-	COG0753	2/3	Catalase	Inorganic ion transport and metabolism
+-	COG0803	3/3	ABC-type metal ion transport system, periplasmic component/surface adhesin	Inorganic ion transport and metabolism
+-	COG0855	2/3	Polyphosphate kinase	Inorganic ion transport and metabolism
+-	COG1108	3/3	ABC-type Mn2+/Zn2+ transport systems, permease components	Inorganic ion transport and metabolism
+-	COG1121	3/3	ABC-type Mn/Zn transport systems, ATPase component	Inorganic ion transport and metabolism
+-	COG2060	2/3	K+-transporting ATPase, A chain	Inorganic ion transport and metabolism
+-	COG2156	2/3	K+-transporting ATPase, c chain	Inorganic ion transport and metabolism
+-	COG2216	2/3	High-affinity K+ transport system, ATPase chain B	Inorganic ion transport and metabolism
+-	COG3004	2/3	Na+/H+ antiporter	Inorganic ion transport and metabolism
+-	COG3263	2/3	NhaP-type Na+/H+ and K+/H+ antiporters with a unique C-terminal domain	Inorganic ion transport and metabolism
+-	COG3303	3/3	Formate-dependent nitrite reductase, periplasmic cytochrome c552 subunit	Inorganic ion transport and metabolism
+-	COG0300	2/3	Short-chain dehydrogenases of various substrate specificities	General function prediction only
+-	COG0546	2/3	Predicted phosphatases	General function prediction only
+-	COG0603	3/3	Predicted PP-loop superfamily ATPase	General function prediction only
+-	COG0622	2/3	Predicted phosphoesterase	General function prediction only
+-	COG0724	2/3	RNA-binding proteins (RRM domain)	General function prediction only
+-	COG0733	2/3	Na+-dependent transporters of the SNF family	General function prediction only
+-	COG0780	3/3	Enzyme related to GTP cyclohydrolase I	General function prediction only
+-	COG0790	2/3	FOG: TPR repeat, SEL1 subfamily	General function prediction only
+-	COG1060	2/3	Thiamine biosynthesis enzyme ThiH and related uncharacterized enzymes	General function prediction only
+-	COG1092	3/3	Predicted SAM-dependent methyltransferases	General function prediction only
+-	COG1106	2/3	Predicted ATPases	General function prediction only
+-	COG1242	3/3	Predicted Fe-S oxidoreductase	General function prediction only
+-	COG1350	2/3	Predicted alternative tryptophan synthase beta-subunit (paralog of TrpB)	General function prediction only
+-	COG1373	3/3	Predicted ATPase (AAA+ superfamily)	General function prediction only
+-	COG1380	2/3	Putative effector of murein hydrolase LrgA	General function prediction only
+-	COG1387	2/3	Histidinol phosphatase and related hydrolases of the PHP family	General function prediction only
+-	COG1409	3/3	Predicted phosphohydrolases	General function prediction only
+-	COG1451	2/3	Predicted metal-dependent hydrolase	General function prediction only
+-	COG1672	2/3	Predicted ATPase (AAA+ superfamily)	General function prediction only
+-	COG1778	2/3	Low specificity phosphatase (HAD superfamily)	General function prediction only
+-	COG2194	2/3	Predicted membrane-associated, metal-dependent hydrolase	General function prediction only
+-	COG2249	2/3	Putative NADPH-quinone reductase (modulator of drug activity B)	General function prediction only
+-	COG2344	2/3	AT-rich DNA-binding protein	General function prediction only
+-	COG2715	3/3	Uncharacterized membrane protein, required for spore maturation in B.subtilis.	General function prediction only
+-	COG2910	2/3	Putative NADH-flavin reductase	General function prediction only
+-	COG2985	3/3	Predicted permease	General function prediction only
+-	COG3467	2/3	Predicted flavin-nucleotide-binding protein	General function prediction only
+-	COG3550	2/3	Uncharacterized protein related to capsule biosynthesis enzymes	General function prediction only
+-	COG3560	2/3	Predicted oxidoreductase related to nitroreductase	General function prediction only
+-	COG3871	2/3	Uncharacterized stress protein (general stress protein 26)	General function prediction only
+-	COG3940	2/3	Predicted beta-xylosidase	General function prediction only
+-	COG3943	2/3	Virulence protein	General function prediction only
+-	COG3956	3/3	Protein containing tetrapyrrole methyltransferase domain and MazG-like (predicted pyrophosphatase) domain	General function prediction only
+-	COG4186	2/3	Predicted phosphoesterase or phosphohydrolase	General function prediction only
+-	COG4734	2/3	Antirestriction protein	General function prediction only
+-	COG0393	2/3	Uncharacterized conserved protein	Function unknown
+-	COG0586	2/3	Uncharacterized membrane-associated protein	Function unknown
+-	COG0700	3/3	Uncharacterized membrane protein	Function unknown
+-	COG1238	2/3	Predicted membrane protein	Function unknown
+-	COG1297	2/3	Predicted membrane protein	Function unknown
+-	COG1479	2/3	Uncharacterized conserved protein	Function unknown
+-	COG1496	2/3	Uncharacterized conserved protein	Function unknown
+-	COG1971	2/3	Predicted membrane protein	Function unknown
+-	COG2268	2/3	Uncharacterized protein conserved in bacteria	Function unknown
+-	COG2606	2/3	Uncharacterized conserved protein	Function unknown
+-	COG2830	2/3	Uncharacterized protein conserved in bacteria	Function unknown
+-	COG2855	3/3	Predicted membrane protein	Function unknown
+-	COG3059	2/3	Predicted membrane protein	Function unknown
+-	COG3152	2/3	Predicted membrane protein	Function unknown
+-	COG3169	2/3	Uncharacterized protein conserved in bacteria	Function unknown
+-	COG3174	3/3	Predicted membrane protein	Function unknown
+-	COG3177	2/3	Uncharacterized conserved protein	Function unknown
+-	COG3189	2/3	Uncharacterized conserved protein	Function unknown
+-	COG3382	3/3	Uncharacterized conserved protein	Function unknown
+-	COG3533	2/3	Uncharacterized protein conserved in bacteria	Function unknown
+-	COG3538	2/3	Uncharacterized conserved protein	Function unknown
+-	COG3681	2/3	Uncharacterized conserved protein	Function unknown
+-	COG3735	2/3	Uncharacterized protein conserved in bacteria	Function unknown
+-	COG4289	2/3	Uncharacterized protein conserved in bacteria	Function unknown
+-	COG4744	2/3	Uncharacterized conserved protein	Function unknown
+-	COG4864	2/3	Uncharacterized protein conserved in bacteria	Function unknown
+-	COG4866	3/3	Uncharacterized conserved protein	Function unknown
+-	COG5368	2/3	Uncharacterized protein conserved in bacteria	Function unknown

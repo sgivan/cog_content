@@ -1,0 +1,37 @@
+C1_1244	COG4257	3/70	Streptogramin lyase	Defense mechanisms
+C1_0162	COG1038	0/70	Pyruvate carboxylase	Energy production and conversion
+C1_0789	COG3202	1/70	ATP/ADP translocase	Energy production and conversion
+C1_1890	COG2710	2/70	Nitrogenase molybdenum-iron protein, alpha and beta chains	Energy production and conversion
+C1_1891	COG2710	2/70	Nitrogenase molybdenum-iron protein, alpha and beta chains	Energy production and conversion
+C1_1906	COG2710	2/70	Nitrogenase molybdenum-iron protein, alpha and beta chains	Energy production and conversion
+C1_2018	COG1592	0/70	Rubrerythrin	Energy production and conversion
+C2_0175	COG1428	1/70	Deoxynucleoside kinases	Nucleotide transport and metabolism
+C1_1605	COG5598	0/70	Trimethylamine:corrinoid methyltransferase	Coenzyme transport and metabolism
+C1_1840	COG5598	0/70	Trimethylamine:corrinoid methyltransferase	Coenzyme transport and metabolism
+C1_1893	COG1348	2/70	Nitrogenase subunit NifH (ATPase)	Inorganic ion transport and metabolism
+C1_1908	COG1348	2/70	Nitrogenase subunit NifH (ATPase)	Inorganic ion transport and metabolism
+C1_1995	COG2046	3/70	ATP sulfurylase (sulfate adenylyltransferase)	Inorganic ion transport and metabolism
+C1_0091	COG1545	2/70	Predicted nucleic-acid-binding protein containing a Zn-ribbon	General function prediction only
+C1_0230	COG5014	0/70	Predicted Fe-S oxidoreductase	General function prediction only
+C1_0351	COG0595	2/70	Predicted hydrolase of the metallo-beta-lactamase superfamily	General function prediction only
+C1_0938	COG4784	1/70	Putative Zn-dependent protease	General function prediction only
+C1_1598	COG3894	0/70	Uncharacterized metal-binding protein	General function prediction only
+C1_1672	COG3621	2/70	Patatin	General function prediction only
+C1_1803	COG3903	2/70	Predicted ATPase	General function prediction only
+C1_2103	COG0618	1/70	Exopolyphosphatase-related proteins	General function prediction only
+C1_2490	COG1545	2/70	Predicted nucleic-acid-binding protein containing a Zn-ribbon	General function prediction only
+C1_2509	COG1545	2/70	Predicted nucleic-acid-binding protein containing a Zn-ribbon	General function prediction only
+C2_0006	COG3552	0/70	Protein containing von Willebrand factor type A (vWA) domain	General function prediction only
+C1_0881	COG3551	1/70	Uncharacterized protein conserved in bacteria	Function unknown
+C1_0893	COG4627	0/70	Uncharacterized protein conserved in bacteria	Function unknown
+C1_1317	COG4094	2/70	Predicted membrane protein	Function unknown
+C1_1820	COG4923	2/70	Uncharacterized conserved protein	Function unknown
+C1_2492	COG3777	3/70	Uncharacterized conserved protein	Function unknown
+C1_2512	COG3828	2/70	Uncharacterized protein conserved in bacteria	Function unknown
+C1_2543	COG1920	1/70	Uncharacterized conserved protein	Function unknown
+C1_2545	COG1478	1/70	Uncharacterized conserved protein	Function unknown
+C1_2739	COG1507	1/70	Uncharacterized conserved protein	Function unknown
+C1_2862	COG4270	1/70	Predicted membrane protein	Function unknown
+C1_2910	COG3551	1/70	Uncharacterized protein conserved in bacteria	Function unknown
+C1_2918	COG5501	2/70	Predicted secreted protein	Function unknown
+C2_0089	COG4333	3/70	Uncharacterized protein conserved in bacteria	Function unknown

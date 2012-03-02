@@ -1,0 +1,58 @@
+C3_0002	COG1061	3/32	DNA or RNA helicases of superfamily II	Transcription
+C3_1411	COG4650	3/32	Sigma54-dependent transcription regulator containing an AAA-type ATPase domain and a DNA-binding domain	Transcription
+C3_3161	COG1548	0/32	Predicted transcriptional regulator/sugar kinase	Transcription
+C3_0002	COG1061	3/32	DNA or RNA helicases of superfamily II	Replication, recombination and repair
+C3_1830	COG0419	3/32	ATPase involved in DNA repair	Replication, recombination and repair
+C3_3064	COG2176	3/32	DNA polymerase III, alpha subunit (gram-positive type)	Replication, recombination and repair
+C3_1411	COG4650	3/32	Sigma54-dependent transcription regulator containing an AAA-type ATPase domain and a DNA-binding domain	Signal transduction mechanisms
+C3_1293	COG1887	0/32	Putative glycosyl/glycerophosphate transferases involved in teichoic acid biosynthesis TagF/TagB/EpsJ/RodC	Cell wall/membrane/envelope biogenesis
+C3_0118	COG4930	1/32	Predicted ATP-dependent Lon-type protease	Posttranslational modification, protein turnover, chaperones
+C3_2872	COG2143	0/32	Thioredoxin-related protein	Posttranslational modification, protein turnover, chaperones
+C3_2891	COG1819	3/32	Glycosyl transferases, related to UDP-glucuronosyltransferase	Energy production and conversion
+C3_3145	COG2218	0/32	Formylmethanofuran dehydrogenase subunit C	Energy production and conversion
+C3_3146	COG2037	0/32	Formylmethanofuran:tetrahydromethanopterin formyltransferase	Energy production and conversion
+C3_3147	COG1229	0/32	Formylmethanofuran dehydrogenase subunit A	Energy production and conversion
+C3_3148	COG1029	0/32	Formylmethanofuran dehydrogenase subunit B	Energy production and conversion
+C3_2143	COG3001	2/32	Fructosamine-3-kinase	Carbohydrate transport and metabolism
+C3_2169	COG1363	3/32	Cellulase M and related proteins	Carbohydrate transport and metabolism
+C3_2891	COG1819	3/32	Glycosyl transferases, related to UDP-glucuronosyltransferase	Carbohydrate transport and metabolism
+C3_3161	COG1548	0/32	Predicted transcriptional regulator/sugar kinase	Carbohydrate transport and metabolism
+C3_4144	COG4266	1/32	Allantoicase	Nucleotide transport and metabolism
+C3_3154	COG3252	0/32	Methenyltetrahydromethanopterin cyclohydrolase	Coenzyme transport and metabolism
+C3_4100	COG3546	2/32	Mn-containing catalase	Inorganic ion transport and metabolism
+C3_0373	COG3380	2/32	Predicted NAD/FAD-dependent oxidoreductase	General function prediction only
+C3_0409	COG2054	0/32	Uncharacterized archaeal kinase related to aspartokinases, uridylate kinases	General function prediction only
+C3_1232	COG4135	3/32	ABC-type uncharacterized transport system, permease component	General function prediction only
+C3_1233	COG4136	3/32	ABC-type uncharacterized transport system, ATPase component	General function prediction only
+C3_1592	COG3788	2/32	Uncharacterized relative of glutathione S-transferase, MAPEG superfamily	General function prediction only
+C3_1946	COG3136	1/32	Uncharacterized membrane protein required for alginate biosynthesis	General function prediction only
+C3_2599	COG4388	3/32	Mu-like prophage I protein	General function prediction only
+C3_2607	COG4373	1/32	Mu-like prophage FluMu protein gp28	General function prediction only
+C3_3150	COG1907	1/32	Predicted archaeal sugar kinases	General function prediction only
+C3_4200	COG0622	0/32	Predicted phosphoesterase	General function prediction only
+C3_4305	COG4146	0/32	Predicted symporter	General function prediction only
+C3_0064	COG4729	0/32	Uncharacterized conserved protein	Function unknown
+C3_0407	COG1891	0/32	Uncharacterized protein conserved in archaea	Function unknown
+C3_0510	COG4850	0/32	Uncharacterized conserved protein	Function unknown
+C3_0765	COG4636	2/32	Uncharacterized protein conserved in cyanobacteria	Function unknown
+C3_0928	COG0401	3/32	Uncharacterized homolog of Blt101	Function unknown
+C3_1454	COG5463	3/32	Predicted integral membrane protein	Function unknown
+C3_1459	COG3789	1/32	Uncharacterized protein conserved in bacteria	Function unknown
+C3_1982	COG1795	0/32	Uncharacterized conserved protein	Function unknown
+C3_2080	COG3342	3/32	Uncharacterized conserved protein	Function unknown
+C3_2103	COG2138	1/32	Uncharacterized conserved protein	Function unknown
+C3_2462	COG2314	1/32	Predicted membrane protein	Function unknown
+C3_2605	COG2369	3/32	Uncharacterized protein, homolog of phage Mu protein gp30	Function unknown
+C3_2606	COG4383	1/32	Mu-like prophage protein gp29	Function unknown
+C3_2624	COG4382	0/32	Mu-like prophage protein gp16	Function unknown
+C3_2985	COG5497	3/32	Predicted secreted protein	Function unknown
+C3_3036	COG3222	1/32	Uncharacterized protein conserved in bacteria	Function unknown
+C3_3159	COG1795	0/32	Uncharacterized conserved protein	Function unknown
+C3_3445	COG1556	2/32	Uncharacterized conserved protein	Function unknown
+C3_3552	COG1795	0/32	Uncharacterized conserved protein	Function unknown
+C3_3802	COG4338	3/32	Uncharacterized protein conserved in bacteria	Function unknown
+C3_3817	COG4636	2/32	Uncharacterized protein conserved in cyanobacteria	Function unknown
+C3_3901	COG1795	0/32	Uncharacterized conserved protein	Function unknown
+C3_4029	COG4125	3/32	Predicted membrane protein	Function unknown
+C3_4059	COG3342	3/32	Uncharacterized conserved protein	Function unknown
+C3_4099	COG5637	1/32	Predicted integral membrane protein	Function unknown

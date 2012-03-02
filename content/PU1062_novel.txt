@@ -1,0 +1,15 @@
+C1_0479	COG2925	1/32	Exonuclease I	Replication, recombination and repair
+C1_0069	COG3419	0/32	Tfp pilus assembly protein, tip-associated adhesin PilY1	Cell motility
+C1_0075	COG2805	3/32	Tfp pilus assembly protein, pilus retraction ATPase PilT	Cell motility
+C1_0061	COG4796	0/32	Type II secretory pathway, component HofQ	Intracellular trafficking, secretion, and vesicular transport
+C1_0069	COG3419	0/32	Tfp pilus assembly protein, tip-associated adhesin PilY1	Intracellular trafficking, secretion, and vesicular transport
+C1_0075	COG2805	3/32	Tfp pilus assembly protein, pilus retraction ATPase PilT	Intracellular trafficking, secretion, and vesicular transport
+C1_0204	COG1899	2/32	Deoxyhypusine synthase	Posttranslational modification, protein turnover, chaperones
+C1_0395	COG1592	1/32	Rubrerythrin	Energy production and conversion
+C1_0167	COG3380	2/32	Predicted NAD/FAD-dependent oxidoreductase	General function prediction only
+C1_0183	COG2236	3/32	Predicted phosphoribosyltransferases	General function prediction only
+C1_0375	COG2992	1/32	Uncharacterized FlgJ-related protein	General function prediction only
+C1_0620	COG5524	0/32	Bacteriorhodopsin	General function prediction only
+C1_0633	COG4240	1/32	Predicted kinase	General function prediction only
+C1_0165	COG2364	2/32	Predicted membrane protein	Function unknown
+C1_0687	COG1666	1/32	Uncharacterized protein conserved in bacteria	Function unknown

@@ -1,0 +1,11 @@
+-	COG0186	31/32	Ribosomal protein S17	Translation, ribosomal structure and biogenesis
+-	COG0255	29/32	Ribosomal protein L29	Translation, ribosomal structure and biogenesis
+-	COG0333	30/32	Ribosomal protein L32	Translation, ribosomal structure and biogenesis
+-	COG0828	29/32	Ribosomal protein S21	Translation, ribosomal structure and biogenesis
+-	COG0794	28/32	Predicted sugar phosphate isomerase involved in capsule formation	Cell wall/membrane/envelope biogenesis
+-	COG1212	28/32	CMP-2-keto-3-deoxyoctulosonic acid synthetase	Cell wall/membrane/envelope biogenesis
+-	COG0221	28/32	Inorganic pyrophosphatase	Energy production and conversion
+-	COG0711	29/32	F0F1-type ATP synthase, subunit b	Energy production and conversion
+-	COG0108	29/32	3,4-dihydroxy-2-butanone 4-phosphate synthase	Coenzyme transport and metabolism
+-	COG1385	32/32	Uncharacterized protein conserved in bacteria	Function unknown
+-	COG2938	28/32	Uncharacterized conserved protein	Function unknown

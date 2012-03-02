@@ -1,0 +1,109 @@
+C22_0052	COG1378	0/70	Predicted transcriptional regulators	Transcription
+C24_0136	COG1111	5/70	ERCC4-like helicases	Replication, recombination and repair
+C24_0234	COG1111	5/70	ERCC4-like helicases	Replication, recombination and repair
+C30_0127	COG4257	3/70	Streptogramin lyase	Defense mechanisms
+C14_0458	COG1716	6/70	FOG: FHA domain	Signal transduction mechanisms
+C2_0056	COG3920	6/70	Signal transduction histidine kinase	Signal transduction mechanisms
+C17_0290	COG4464	3/70	Capsular polysaccharide biosynthesis protein	Cell wall/membrane/envelope biogenesis
+C17_0352	COG1887	6/70	Putative glycosyl/glycerophosphate transferases involved in teichoic acid biosynthesis TagF/TagB/EpsJ/RodC	Cell wall/membrane/envelope biogenesis
+C24_0170	COG3764	3/70	Sortase (surface protein transpeptidase)	Cell wall/membrane/envelope biogenesis
+C8_0024	COG3764	3/70	Sortase (surface protein transpeptidase)	Cell wall/membrane/envelope biogenesis
+C14_0045	COG5651	6/70	PPE-repeat proteins	Cell motility
+C24_0130	COG3351	0/70	Putative archaeal flagellar protein D/E	Cell motility
+C7_0177	COG3225	5/70	ABC-type uncharacterized transport system involved in gliding motility, auxiliary component	Cell motility
+C22_0072	COG3808	7/70	Inorganic pyrophosphatase	Energy production and conversion
+C27_0219	COG3202	1/70	ATP/ADP translocase	Energy production and conversion
+C7_0079	COG3202	1/70	ATP/ADP translocase	Energy production and conversion
+C17_0290	COG4464	3/70	Capsular polysaccharide biosynthesis protein	Carbohydrate transport and metabolism
+C25_0027	COG0145	6/70	N-methylhydantoinase A/acetone carboxylase, beta subunit	Amino acid transport and metabolism
+C25_0028	COG0146	5/70	N-methylhydantoinase B/acetone carboxylase, alpha subunit	Amino acid transport and metabolism
+C6_0480	COG4865	3/70	Glutamate mutase epsilon subunit	Amino acid transport and metabolism
+C9_0029	COG1164	7/70	Oligoendopeptidase F	Amino acid transport and metabolism
+C20_0087	COG1428	1/70	Deoxynucleoside kinases	Nucleotide transport and metabolism
+C14_0159	COG5598	0/70	Trimethylamine:corrinoid methyltransferase	Coenzyme transport and metabolism
+C14_0409	COG5598	0/70	Trimethylamine:corrinoid methyltransferase	Coenzyme transport and metabolism
+C3_0067	COG2046	3/70	ATP sulfurylase (sulfate adenylyltransferase)	Inorganic ion transport and metabolism
+C14_0358	COG4689	4/70	Acetoacetate decarboxylase	Secondary metabolites biosynthesis, transport and catabolism
+C17_0043	COG3670	4/70	Lignostilbene-alpha,beta-dioxygenase and related enzymes	Secondary metabolites biosynthesis, transport and catabolism
+C20_0067	COG3509	3/70	Poly(3-hydroxybutyrate) depolymerase	Secondary metabolites biosynthesis, transport and catabolism
+C24_0037	COG3473	2/70	Maleate cis-trans isomerase	Secondary metabolites biosynthesis, transport and catabolism
+C24_0040	COG3473	2/70	Maleate cis-trans isomerase	Secondary metabolites biosynthesis, transport and catabolism
+C25_0027	COG0145	6/70	N-methylhydantoinase A/acetone carboxylase, beta subunit	Secondary metabolites biosynthesis, transport and catabolism
+C25_0028	COG0146	5/70	N-methylhydantoinase B/acetone carboxylase, alpha subunit	Secondary metabolites biosynthesis, transport and catabolism
+C25_0035	COG3670	4/70	Lignostilbene-alpha,beta-dioxygenase and related enzymes	Secondary metabolites biosynthesis, transport and catabolism
+C25_0078	COG3917	6/70	2-hydroxychromene-2-carboxylate isomerase	Secondary metabolites biosynthesis, transport and catabolism
+C27_0118	COG1233	5/70	Phytoene dehydrogenase and related proteins	Secondary metabolites biosynthesis, transport and catabolism
+C27_0119	COG1233	5/70	Phytoene dehydrogenase and related proteins	Secondary metabolites biosynthesis, transport and catabolism
+C27_0129	COG1233	5/70	Phytoene dehydrogenase and related proteins	Secondary metabolites biosynthesis, transport and catabolism
+C27_0130	COG1233	5/70	Phytoene dehydrogenase and related proteins	Secondary metabolites biosynthesis, transport and catabolism
+C27_0138	COG1233	5/70	Phytoene dehydrogenase and related proteins	Secondary metabolites biosynthesis, transport and catabolism
+C27_0139	COG1233	5/70	Phytoene dehydrogenase and related proteins	Secondary metabolites biosynthesis, transport and catabolism
+C27_0157	COG1233	5/70	Phytoene dehydrogenase and related proteins	Secondary metabolites biosynthesis, transport and catabolism
+C27_0210	COG4569	7/70	Acetaldehyde dehydrogenase (acetylating)	Secondary metabolites biosynthesis, transport and catabolism
+C28_0124	COG4689	4/70	Acetoacetate decarboxylase	Secondary metabolites biosynthesis, transport and catabolism
+C6_0223	COG3509	3/70	Poly(3-hydroxybutyrate) depolymerase	Secondary metabolites biosynthesis, transport and catabolism
+C6_0247	COG3670	4/70	Lignostilbene-alpha,beta-dioxygenase and related enzymes	Secondary metabolites biosynthesis, transport and catabolism
+C6_0249	COG3670	4/70	Lignostilbene-alpha,beta-dioxygenase and related enzymes	Secondary metabolites biosynthesis, transport and catabolism
+C6_0265	COG3670	4/70	Lignostilbene-alpha,beta-dioxygenase and related enzymes	Secondary metabolites biosynthesis, transport and catabolism
+C6_0294	COG3527	4/70	Alpha-acetolactate decarboxylase	Secondary metabolites biosynthesis, transport and catabolism
+C7_0084	COG3670	4/70	Lignostilbene-alpha,beta-dioxygenase and related enzymes	Secondary metabolites biosynthesis, transport and catabolism
+C7_0130	COG1233	5/70	Phytoene dehydrogenase and related proteins	Secondary metabolites biosynthesis, transport and catabolism
+C8_0039	COG1233	5/70	Phytoene dehydrogenase and related proteins	Secondary metabolites biosynthesis, transport and catabolism
+C9_0049	COG3917	6/70	2-hydroxychromene-2-carboxylate isomerase	Secondary metabolites biosynthesis, transport and catabolism
+C9_0099	COG4308	1/70	Limonene-1,2-epoxide hydrolase	Secondary metabolites biosynthesis, transport and catabolism
+C14_0150	COG0595	2/70	Predicted hydrolase of the metallo-beta-lactamase superfamily	General function prediction only
+C14_0401	COG3894	0/70	Uncharacterized metal-binding protein	General function prediction only
+C17_0016	COG3687	7/70	Predicted metal-dependent hydrolase	General function prediction only
+C17_0216	COG4784	1/70	Putative Zn-dependent protease	General function prediction only
+C17_0350	COG4032	3/70	Predicted thiamine-pyrophosphate-binding protein	General function prediction only
+C19_0077	COG3291	7/70	FOG: PKD repeat	General function prediction only
+C20_0023	COG3552	0/70	Protein containing von Willebrand factor type A (vWA) domain	General function prediction only
+C24_0236	COG2270	5/70	Permeases of the major facilitator superfamily	General function prediction only
+C27_0084	COG4784	1/70	Putative Zn-dependent protease	General function prediction only
+C27_0236	COG2085	6/70	Predicted dinucleotide-binding enzymes	General function prediction only
+C27_0241	COG2236	7/70	Predicted phosphoribosyltransferases	General function prediction only
+C28_0034	COG1545	2/70	Predicted nucleic-acid-binding protein containing a Zn-ribbon	General function prediction only
+C28_0035	COG1545	2/70	Predicted nucleic-acid-binding protein containing a Zn-ribbon	General function prediction only
+C28_0050	COG3631	7/70	Ketosteroid isomerase-related protein	General function prediction only
+C28_0120	COG3687	7/70	Predicted metal-dependent hydrolase	General function prediction only
+C28_0185	COG1026	7/70	Predicted Zn-dependent peptidases, insulinase-like	General function prediction only
+C28_0194	COG1545	2/70	Predicted nucleic-acid-binding protein containing a Zn-ribbon	General function prediction only
+C28_0208	COG1545	2/70	Predicted nucleic-acid-binding protein containing a Zn-ribbon	General function prediction only
+C2_0037	COG4240	5/70	Predicted kinase	General function prediction only
+C6_0266	COG1545	2/70	Predicted nucleic-acid-binding protein containing a Zn-ribbon	General function prediction only
+C6_0338	COG1545	2/70	Predicted nucleic-acid-binding protein containing a Zn-ribbon	General function prediction only
+C6_0468	COG1545	2/70	Predicted nucleic-acid-binding protein containing a Zn-ribbon	General function prediction only
+C9_0046	COG1350	0/70	Predicted alternative tryptophan synthase beta-subunit (paralog of TrpB)	General function prediction only
+C10_0049	COG3804	0/70	Uncharacterized conserved protein related to dihydrodipicolinate reductase	Function unknown
+C10_0050	COG3804	0/70	Uncharacterized conserved protein related to dihydrodipicolinate reductase	Function unknown
+C14_0275	COG5361	5/70	Uncharacterized conserved protein	Function unknown
+C14_0276	COG5361	5/70	Uncharacterized conserved protein	Function unknown
+C14_0368	COG5361	5/70	Uncharacterized conserved protein	Function unknown
+C14_0421	COG5361	5/70	Uncharacterized conserved protein	Function unknown
+C17_0089	COG3804	0/70	Uncharacterized conserved protein related to dihydrodipicolinate reductase	Function unknown
+C19_0117	COG3379	0/70	Uncharacterized conserved protein	Function unknown
+C1_0012	COG3551	1/70	Uncharacterized protein conserved in bacteria	Function unknown
+C20_0060	COG5331	2/70	Uncharacterized protein conserved in bacteria	Function unknown
+C20_0168	COG3551	1/70	Uncharacterized protein conserved in bacteria	Function unknown
+C23_0031	COG5514	0/70	Uncharacterized conserved protein	Function unknown
+C24_0020	COG4704	5/70	Uncharacterized protein conserved in bacteria	Function unknown
+C24_0140	COG4487	1/70	Uncharacterized protein conserved in bacteria	Function unknown
+C27_0103	COG4336	6/70	Uncharacterized conserved protein	Function unknown
+C27_0177	COG1808	1/70	Predicted membrane protein	Function unknown
+C27_0237	COG1478	1/70	Uncharacterized conserved protein	Function unknown
+C27_0239	COG1920	1/70	Uncharacterized conserved protein	Function unknown
+C27_0282	COG3453	6/70	Uncharacterized protein conserved in bacteria	Function unknown
+C28_0040	COG3828	2/70	Uncharacterized protein conserved in bacteria	Function unknown
+C28_0178	COG3767	4/70	Uncharacterized low-complexity protein	Function unknown
+C28_0203	COG5605	1/70	Predicted small integral membrane protein	Function unknown
+C30_0002	COG5361	5/70	Uncharacterized conserved protein	Function unknown
+C30_0038	COG3744	0/70	Uncharacterized protein conserved in bacteria	Function unknown
+C3_0046	COG1507	1/70	Uncharacterized conserved protein	Function unknown
+C6_0129	COG3828	2/70	Uncharacterized protein conserved in bacteria	Function unknown
+C6_0427	COG1950	1/70	Predicted membrane protein	Function unknown
+C6_0466	COG3777	3/70	Uncharacterized conserved protein	Function unknown
+C6_0509	COG3804	0/70	Uncharacterized conserved protein related to dihydrodipicolinate reductase	Function unknown
+C7_0108	COG4094	2/70	Predicted membrane protein	Function unknown
+C8_0034	COG3222	6/70	Uncharacterized protein conserved in bacteria	Function unknown
+C9_0033	COG5361	5/70	Uncharacterized conserved protein	Function unknown
+C9_0130	COG5616	5/70	Predicted integral membrane protein	Function unknown

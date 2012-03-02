@@ -1,0 +1,172 @@
+-	COG0016	69/70	Phenylalanyl-tRNA synthetase alpha subunit	Translation, ribosomal structure and biogenesis
+-	COG0072	68/70	Phenylalanyl-tRNA synthetase beta subunit	Translation, ribosomal structure and biogenesis
+-	COG0144	68/70	tRNA and rRNA cytosine-C5-methylases	Translation, ribosomal structure and biogenesis
+-	COG0219	68/70	Predicted rRNA methylase (SpoU class)	Translation, ribosomal structure and biogenesis
+-	COG0267	68/70	Ribosomal protein L33	Translation, ribosomal structure and biogenesis
+-	COG0290	67/70	Translation initiation factor 3 (IF-3)	Translation, ribosomal structure and biogenesis
+-	COG0292	69/70	Ribosomal protein L20	Translation, ribosomal structure and biogenesis
+-	COG0349	63/70	Ribonuclease D	Translation, ribosomal structure and biogenesis
+-	COG0513	69/70	Superfamily II DNA and RNA helicases	Translation, ribosomal structure and biogenesis
+-	COG0594	68/70	RNase P protein component	Translation, ribosomal structure and biogenesis
+-	COG0751	69/70	Glycyl-tRNA synthetase, beta subunit	Translation, ribosomal structure and biogenesis
+-	COG0752	69/70	Glycyl-tRNA synthetase, alpha subunit	Translation, ribosomal structure and biogenesis
+-	COG1534	66/70	Predicted RNA-binding protein containing KH domain, possibly ribosomal protein	Translation, ribosomal structure and biogenesis
+-	COG1544	68/70	Ribosome-associated protein Y (PSrp-1)	Translation, ribosomal structure and biogenesis
+-	COG2264	67/70	Ribosomal protein L11 methylase	Translation, ribosomal structure and biogenesis
+-	COG4108	69/70	Peptide chain release factor RF-3	Translation, ribosomal structure and biogenesis
+-	COG0513	69/70	Superfamily II DNA and RNA helicases	Transcription
+-	COG0553	63/70	Superfamily II DNA/RNA helicases, SNF2 family	Transcription
+-	COG0789	65/70	Predicted transcriptional regulators	Transcription
+-	COG1200	68/70	RecG-like helicase	Transcription
+-	COG1278	68/70	Cold shock proteins	Transcription
+-	COG1396	65/70	Predicted transcriptional regulators	Transcription
+-	COG1678	68/70	Putative transcriptional regulator	Transcription
+-	COG2183	64/70	Transcriptional accessory protein	Transcription
+-	COG2197	66/70	Response regulator containing a CheY-like receiver domain and an HTH DNA-binding domain	Transcription
+-	COG2207	64/70	AraC-type DNA-binding domain-containing proteins	Transcription
+-	COG5007	67/70	Predicted transcriptional regulator, BolA superfamily	Transcription
+-	COG0116	67/70	Predicted N6-adenine-specific DNA methylase	Replication, recombination and repair
+-	COG0249	69/70	Mismatch repair ATPase (MutS family)	Replication, recombination and repair
+-	COG0272	69/70	NAD-dependent DNA ligase (contains BRCT domain type II)	Replication, recombination and repair
+-	COG0323	69/70	DNA mismatch repair enzyme (predicted ATPase)	Replication, recombination and repair
+-	COG0497	68/70	ATPase involved in DNA repair	Replication, recombination and repair
+-	COG0507	66/70	ATP-dependent exoDNAse (exonuclease V), alpha subunit - helicase superfamily I member	Replication, recombination and repair
+-	COG0513	69/70	Superfamily II DNA and RNA helicases	Replication, recombination and repair
+-	COG0553	63/70	Superfamily II DNA/RNA helicases, SNF2 family	Replication, recombination and repair
+-	COG0582	65/70	Integrase	Replication, recombination and repair
+-	COG0608	68/70	Single-stranded DNA-specific exonuclease	Replication, recombination and repair
+-	COG0632	68/70	Holliday junction resolvasome, DNA-binding subunit	Replication, recombination and repair
+-	COG0758	66/70	Predicted Rossmann fold nucleotide-binding protein involved in DNA uptake	Replication, recombination and repair
+-	COG0792	67/70	Predicted endonuclease distantly related to archaeal Holliday junction resolvase	Replication, recombination and repair
+-	COG0817	68/70	Holliday junction resolvasome, endonuclease subunit	Replication, recombination and repair
+-	COG1074	69/70	ATP-dependent exoDNAse (exonuclease V) beta subunit (contains helicase and exonuclease domains)	Replication, recombination and repair
+-	COG1200	68/70	RecG-like helicase	Replication, recombination and repair
+-	COG1555	64/70	DNA uptake protein and related DNA-binding proteins	Replication, recombination and repair
+-	COG1643	63/70	HrpA-like helicases	Replication, recombination and repair
+-	COG2003	63/70	DNA repair proteins	Replication, recombination and repair
+-	COG2255	68/70	Holliday junction resolvasome, helicase subunit	Replication, recombination and repair
+-	COG2256	67/70	ATPase related to the helicase subunit of the Holliday junction resolvase	Replication, recombination and repair
+-	COG2919	69/70	Septum formation initiator	Cell cycle control, cell division, chromosome partitioning
+-	COG3115	65/70	Cell division protein	Cell cycle control, cell division, chromosome partitioning
+-	COG0589	65/70	Universal stress protein UspA and related nucleotide-binding proteins	Signal transduction mechanisms
+-	COG0664	63/70	cAMP-binding proteins - catabolite gene activator and regulatory subunit of cAMP-dependent protein kinases	Signal transduction mechanisms
+-	COG0834	63/70	ABC-type amino acid transport/signal transduction systems, periplasmic component/domain	Signal transduction mechanisms
+-	COG1217	69/70	Predicted membrane GTPase involved in stress response	Signal transduction mechanisms
+-	COG1391	63/70	Glutamine synthetase adenylyltransferase	Signal transduction mechanisms
+-	COG1551	67/70	Carbon storage regulator (could also regulate swarming and quorum sensing)	Signal transduction mechanisms
+-	COG2197	66/70	Response regulator containing a CheY-like receiver domain and an HTH DNA-binding domain	Signal transduction mechanisms
+-	COG0463	68/70	Glycosyltransferases involved in cell wall biogenesis	Cell wall/membrane/envelope biogenesis
+-	COG0729	65/70	Outer membrane protein	Cell wall/membrane/envelope biogenesis
+-	COG0797	65/70	Lipoproteins	Cell wall/membrane/envelope biogenesis
+-	COG1589	68/70	Cell division septal protein	Cell wall/membrane/envelope biogenesis
+-	COG2834	68/70	Outer membrane lipoprotein-sorting protein	Cell wall/membrane/envelope biogenesis
+-	COG2891	64/70	Cell shape-determining protein	Cell wall/membrane/envelope biogenesis
+-	COG2805	63/70	Tfp pilus assembly protein, pilus retraction ATPase PilT	Cell motility
+-	COG0541	69/70	Signal recognition particle GTPase	Intracellular trafficking, secretion, and vesicular transport
+-	COG0758	66/70	Predicted Rossmann fold nucleotide-binding protein involved in DNA uptake	Intracellular trafficking, secretion, and vesicular transport
+-	COG1952	69/70	Preprotein translocase subunit SecB	Intracellular trafficking, secretion, and vesicular transport
+-	COG2805	63/70	Tfp pilus assembly protein, pilus retraction ATPase PilT	Intracellular trafficking, secretion, and vesicular transport
+-	COG4796	67/70	Type II secretory pathway, component HofQ	Intracellular trafficking, secretion, and vesicular transport
+-	COG0450	66/70	Peroxiredoxin	Posttranslational modification, protein turnover, chaperones
+-	COG0501	69/70	Zn-dependent protease with chaperone function	Posttranslational modification, protein turnover, chaperones
+-	COG0602	66/70	Organic radical activating enzymes	Posttranslational modification, protein turnover, chaperones
+-	COG1047	64/70	FKBP-type peptidyl-prolyl cis-trans isomerases 2	Posttranslational modification, protein turnover, chaperones
+-	COG1066	68/70	Predicted ATP-dependent serine protease	Posttranslational modification, protein turnover, chaperones
+-	COG1214	69/70	Inactive homolog of metal-dependent proteases, putative molecular chaperone	Posttranslational modification, protein turnover, chaperones
+-	COG1220	65/70	ATP-dependent protease HslVU (ClpYQ), ATPase subunit	Posttranslational modification, protein turnover, chaperones
+-	COG1281	65/70	Disulfide bond chaperones of the HSP33 family	Posttranslational modification, protein turnover, chaperones
+-	COG1391	63/70	Glutamine synthetase adenylyltransferase	Posttranslational modification, protein turnover, chaperones
+-	COG1495	66/70	Disulfide bond formation protein DsbB	Posttranslational modification, protein turnover, chaperones
+-	COG5405	66/70	ATP-dependent protease HslVU (ClpYQ), peptidase subunit	Posttranslational modification, protein turnover, chaperones
+-	COG0221	64/70	Inorganic pyrophosphatase	Energy production and conversion
+-	COG0243	64/70	Anaerobic dehydrogenases, typically selenocysteine-containing	Energy production and conversion
+-	COG0277	66/70	FAD/FMN-containing dehydrogenases	Energy production and conversion
+-	COG0281	67/70	Malic enzyme	Energy production and conversion
+-	COG1145	67/70	Ferredoxin	Energy production and conversion
+-	COG1271	64/70	Cytochrome bd-type quinol oxidase, subunit 1	Energy production and conversion
+-	COG1294	64/70	Cytochrome bd-type quinol oxidase, subunit 2	Energy production and conversion
+-	COG2878	68/70	Predicted NADH:ubiquinone oxidoreductase, subunit RnfB	Energy production and conversion
+-	COG1925	63/70	Phosphotransferase system, HPr-related proteins	Carbohydrate transport and metabolism
+-	COG0014	64/70	Gamma-glutamyl phosphate reductase	Amino acid transport and metabolism
+-	COG0040	65/70	ATP phosphoribosyltransferase	Amino acid transport and metabolism
+-	COG0078	66/70	Ornithine carbamoyltransferase	Amino acid transport and metabolism
+-	COG0079	65/70	Histidinol-phosphate/aromatic aminotransferase and cobyric acid decarboxylase	Amino acid transport and metabolism
+-	COG0106	65/70	Phosphoribosylformimino-5-aminoimidazole carboxamide ribonucleotide (ProFAR) isomerase	Amino acid transport and metabolism
+-	COG0107	65/70	Imidazoleglycerol-phosphate synthase	Amino acid transport and metabolism
+-	COG0111	67/70	Phosphoglycerate dehydrogenase and related dehydrogenases	Amino acid transport and metabolism
+-	COG0118	65/70	Glutamine amidotransferase	Amino acid transport and metabolism
+-	COG0131	65/70	Imidazoleglycerol-phosphate dehydratase	Amino acid transport and metabolism
+-	COG0137	66/70	Argininosuccinate synthase	Amino acid transport and metabolism
+-	COG0139	65/70	Phosphoribosyl-AMP cyclohydrolase	Amino acid transport and metabolism
+-	COG0140	65/70	Phosphoribosyl-ATP pyrophosphohydrolase	Amino acid transport and metabolism
+-	COG0141	65/70	Histidinol dehydrogenase	Amino acid transport and metabolism
+-	COG0165	66/70	Argininosuccinate lyase	Amino acid transport and metabolism
+-	COG0241	63/70	Histidinol phosphatase and related phosphatases	Amino acid transport and metabolism
+-	COG0263	64/70	Glutamate 5-kinase	Amino acid transport and metabolism
+-	COG0308	68/70	Aminopeptidase N	Amino acid transport and metabolism
+-	COG0339	68/70	Zn-dependent oligopeptidases	Amino acid transport and metabolism
+-	COG0436	67/70	Aspartate/tyrosine/aromatic aminotransferase	Amino acid transport and metabolism
+-	COG0509	63/70	Glycine cleavage system H protein (lipoate-binding)	Amino acid transport and metabolism
+-	COG0520	66/70	Selenocysteine lyase	Amino acid transport and metabolism
+-	COG0531	66/70	Amino acid transporters	Amino acid transport and metabolism
+-	COG0626	65/70	Cystathionine beta-lyases/cystathionine gamma-synthases	Amino acid transport and metabolism
+-	COG0834	63/70	ABC-type amino acid transport/signal transduction systems, periplasmic component/domain	Amino acid transport and metabolism
+-	COG1063	63/70	Threonine dehydrogenase and related Zn-dependent dehydrogenases	Amino acid transport and metabolism
+-	COG3842	63/70	ABC-type spermidine/putrescine transport systems, ATPase components	Amino acid transport and metabolism
+-	COG0026	65/70	Phosphoribosylaminoimidazole carboxylase (NCAIR synthetase)	Nucleotide transport and metabolism
+-	COG0634	66/70	Hypoxanthine-guanine phosphoribosyltransferase	Nucleotide transport and metabolism
+-	COG0111	67/70	Phosphoglycerate dehydrogenase and related dehydrogenases	Coenzyme transport and metabolism
+-	COG0132	69/70	Dethiobiotin synthetase	Coenzyme transport and metabolism
+-	COG0156	67/70	7-keto-8-aminopelargonate synthetase and related enzymes	Coenzyme transport and metabolism
+-	COG0157	64/70	Nicotinate-nucleotide pyrophosphorylase	Coenzyme transport and metabolism
+-	COG0161	68/70	Adenosylmethionine-8-amino-7-oxononanoate aminotransferase	Coenzyme transport and metabolism
+-	COG0171	65/70	NAD synthase	Coenzyme transport and metabolism
+-	COG0259	63/70	Pyridoxamine-phosphate oxidase	Coenzyme transport and metabolism
+-	COG0285	69/70	Folylpolyglutamate synthase	Coenzyme transport and metabolism
+-	COG0294	68/70	Dihydropteroate synthase and related enzymes	Coenzyme transport and metabolism
+-	COG0352	65/70	Thiamine monophosphate synthase	Coenzyme transport and metabolism
+-	COG0413	64/70	Ketopantoate hydroxymethyltransferase	Coenzyme transport and metabolism
+-	COG0414	64/70	Panthothenate synthetase	Coenzyme transport and metabolism
+-	COG0452	68/70	Phosphopantothenoylcysteine synthetase/decarboxylase	Coenzyme transport and metabolism
+-	COG0476	66/70	Dinucleotide-utilizing enzymes involved in molybdopterin and thiamine biosynthesis family 2	Coenzyme transport and metabolism
+-	COG0502	68/70	Biotin synthase and related enzymes	Coenzyme transport and metabolism
+-	COG0635	69/70	Coproporphyrinogen III oxidase and related Fe-S oxidoreductases	Coenzyme transport and metabolism
+-	COG3071	63/70	Uncharacterized enzyme of heme biosynthesis	Coenzyme transport and metabolism
+-	COG0671	65/70	Membrane-associated phospholipid phosphatase	Lipid transport and metabolism
+-	COG0688	67/70	Phosphatidylserine decarboxylase	Lipid transport and metabolism
+-	COG1502	64/70	Phosphatidylserine/phosphatidylglycerophosphate/cardiolipin synthases and related enzymes	Lipid transport and metabolism
+-	COG1607	63/70	Acyl-CoA hydrolase	Lipid transport and metabolism
+-	COG0288	68/70	Carbonic anhydrase	Inorganic ion transport and metabolism
+-	COG0475	65/70	Kef-type K+ transport systems, membrane components	Inorganic ion transport and metabolism
+-	COG0605	69/70	Superoxide dismutase	Inorganic ion transport and metabolism
+-	COG1226	63/70	Kef-type K+ transport systems, predicted NAD-binding component	Inorganic ion transport and metabolism
+-	COG1393	67/70	Arsenate reductase and related proteins, glutaredoxin family	Inorganic ion transport and metabolism
+-	COG0767	65/70	ABC-type transport system involved in resistance to organic solvents, permease component	Secondary metabolites biosynthesis, transport and catabolism
+-	COG1127	65/70	ABC-type transport system involved in resistance to organic solvents, ATPase component	Secondary metabolites biosynthesis, transport and catabolism
+-	COG1463	65/70	ABC-type transport system involved in resistance to organic solvents, periplasmic component	Secondary metabolites biosynthesis, transport and catabolism
+-	COG0388	63/70	Predicted amidohydrolase	General function prediction only
+-	COG0488	69/70	ATPase components of ABC transporters with duplicated ATPase domains	General function prediction only
+-	COG0603	66/70	Predicted PP-loop superfamily ATPase	General function prediction only
+-	COG0612	64/70	Predicted Zn-dependent peptidases	General function prediction only
+-	COG0637	63/70	Predicted phosphatase/phosphohexomutase	General function prediction only
+-	COG0693	63/70	Putative intracellular protease/amidase	General function prediction only
+-	COG1040	65/70	Predicted amidophosphoribosyltransferases	General function prediction only
+-	COG1063	63/70	Threonine dehydrogenase and related Zn-dependent dehydrogenases	General function prediction only
+-	COG1090	63/70	Predicted nucleoside-diphosphate sugar epimerase	General function prediction only
+-	COG1092	67/70	Predicted SAM-dependent methyltransferases	General function prediction only
+-	COG1253	65/70	Hemolysins and related proteins containing CBS domains	General function prediction only
+-	COG1778	67/70	Low specificity phosphatase (HAD superfamily)	General function prediction only
+-	COG1923	67/70	Uncharacterized host factor I protein	General function prediction only
+-	COG2081	63/70	Predicted flavoproteins	General function prediction only
+-	COG2262	66/70	GTPases	General function prediction only
+-	COG2961	63/70	Protein involved in catabolism of external DNA	General function prediction only
+-	COG2969	68/70	Stringent starvation protein B	General function prediction only
+-	COG0718	69/70	Uncharacterized protein conserved in bacteria	Function unknown
+-	COG1295	68/70	Predicted membrane protein	Function unknown
+-	COG1496	68/70	Uncharacterized conserved protein	Function unknown
+-	COG1934	66/70	Uncharacterized protein conserved in bacteria	Function unknown
+-	COG2350	64/70	Uncharacterized protein conserved in bacteria	Function unknown
+-	COG2840	67/70	Uncharacterized protein conserved in bacteria	Function unknown
+-	COG2911	65/70	Uncharacterized protein conserved in bacteria	Function unknown
+-	COG3028	64/70	Uncharacterized protein conserved in bacteria	Function unknown
+-	COG3079	63/70	Uncharacterized protein conserved in bacteria	Function unknown

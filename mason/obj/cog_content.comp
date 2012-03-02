@@ -1,0 +1,344 @@
+# MASON COMPILER ID: 2097!27087
+package HTML::Mason::Commands;
+use strict;
+use vars qw($m);
+my %_def =
+(
+'.divCOGs' => HTML::Mason::Component::Subcomponent->new(
+'code' => sub {
+HTML::Mason::Exception::Params->throw
+    ( error =>
+      "Odd number of parameters passed to component expecting name/value pairs"
+    ) if @_ % 2;
+my ( $cog, $organism, $cnt, $whogdb, $pathogen );
+{
+    my %pos;
+    for ( my $x = 0; $x < @_; $x += 2 )
+    {
+        $pos{ $_[$x] } = $x + 1;
+    }
+
+    foreach my $arg ( qw( cog organism cnt whogdb ) )
+    {
+        HTML::Mason::Exception::Params->throw
+            ( error => "no value sent for required parameter '$arg'" )
+                unless exists $pos{$arg};
+    }
+#line 220 /home/cgrb/givans/projects/cog_content/cog_content.comp
+    $cog = $_[ $pos{'cog'} ];
+#line 221 /home/cgrb/givans/projects/cog_content/cog_content.comp
+    $organism = $_[ $pos{'organism'} ];
+#line 222 /home/cgrb/givans/projects/cog_content/cog_content.comp
+    $cnt = $_[ $pos{'cnt'} ];
+#line 223 /home/cgrb/givans/projects/cog_content/cog_content.comp
+    $whogdb = $_[ $pos{'whogdb'} ];
+#line 224 /home/cgrb/givans/projects/cog_content/cog_content.comp
+     $pathogen = exists $pos{'pathogen'} ? $_[ $pos{'pathogen'} ] :  0;
+}
+$m->debug_hook( $m->current_comp->path ) if ( %DB:: );
+
+#line 225 /home/cgrb/givans/projects/cog_content/cog_content.comp
+
+my $string;
+my $coverage = $whogdb->coverage_by_division({ cog => $cog, division => $organism->division(), pathogen => $pathogen });
+#my $coverage = [1, 2, 3];
+
+if ($coverage && scalar(@$coverage)) {
+  $string .= scalar(@$coverage) . "/$cnt";
+} else {
+  $string .= "0/$cnt";
+
+}
+#$string .= "</a>";
+
+# #   foreach my $organism (sort { $a->code() cmp $b->code() } @$organisms) {
+# #     my $whogs = $whogdb->fetch_by_whog({ cog => $cog, organism => $organism });
+# #     if (scalar(@$whogs)) {
+# #       $string .= $organism->code() . " ";
+# #     } else {
+# #       $string .= " &ndash; &nbsp;";
+# #     }
+
+#   }
+
+#line 218 /home/cgrb/givans/projects/cog_content/cog_content.comp
+$m->print( '
+' );
+#line 249 /home/cgrb/givans/projects/cog_content/cog_content.comp
+$m->print(  $string  );
+#line 249 /home/cgrb/givans/projects/cog_content/cog_content.comp
+$m->print( '
+' );
+return undef;
+},
+'declared_args' => {
+  '$cnt' => { default => undef },
+  '$cog' => { default => undef },
+  '$organism' => { default => undef },
+  '$pathogen' => { default => ' 0' },
+  '$whogdb' => { default => undef }
+},
+
+)
+,
+
+);
+HTML::Mason::Component::FileBased->new(
+'code' => sub {
+HTML::Mason::Exception::Params->throw
+    ( error =>
+      "Odd number of parameters passed to component expecting name/value pairs"
+    ) if @_ % 2;
+my ( $org, $novel, $absent, $default, $pathogen, $debug );
+{
+    my %pos;
+    for ( my $x = 0; $x < @_; $x += 2 )
+    {
+        $pos{ $_[$x] } = $x + 1;
+    }
+#line 4 /home/cgrb/givans/projects/cog_content/cog_content.comp
+     $org = exists $pos{'org'} ? $_[ $pos{'org'} ] :  'SAR11';
+#line 5 /home/cgrb/givans/projects/cog_content/cog_content.comp
+     $novel = exists $pos{'novel'} ? $_[ $pos{'novel'} ] :  0;
+#line 6 /home/cgrb/givans/projects/cog_content/cog_content.comp
+     $absent = exists $pos{'absent'} ? $_[ $pos{'absent'} ] :  0;
+#line 7 /home/cgrb/givans/projects/cog_content/cog_content.comp
+     $default = exists $pos{'default'} ? $_[ $pos{'default'} ] :  0;
+#line 8 /home/cgrb/givans/projects/cog_content/cog_content.comp
+     $pathogen = exists $pos{'pathogen'} ? $_[ $pos{'pathogen'} ] :  1;
+#line 9 /home/cgrb/givans/projects/cog_content/cog_content.comp
+     $debug = exists $pos{'debug'} ? $_[ $pos{'debug'} ] :  0;
+}
+$m->debug_hook( $m->current_comp->path ) if ( %DB:: );
+
+#line 10 /home/cgrb/givans/projects/cog_content/cog_content.comp
+
+# $Id: cog_content.comp,v 1.1 2006/09/26 20:20:15 givans Exp givans $
+use COGDB;
+my ($cogdb,$localcogs);
+my ($time00,$time01,$time02,$time03,$time04,$time05);
+if ($debug) {
+  open(LOG,">cog_content.log") or die "can't open cog_content.log: $!";
+  $time00 = time();
+  print LOG "time00: $time00\n";
+}
+
+$cogdb = COGDB->new();
+$localcogs = $cogdb->localcogs();
+
+my $whogdb = $cogdb->whog();
+my $categories = $cogdb->category()->fetch_all();
+my $organism = $localcogs->organism({Code => $org});
+
+#
+# this next line is a little hairy ...
+# use the MMG organism's COG division to fetch
+# a list of public organisms in the same COG division
+#
+my $organisms = $cogdb->organism()->fetch_by_division($organism->division()->name(),$pathogen);## non-local organisms in this COG division
+
+my $localwhogdb = $localcogs->whog();
+my $whogs;
+
+
+my $content_dir = $m->current_comp()->source_dir();
+$content_dir .= '/content';
+
+my $content_file = "$content_dir/$org" . ".html";
+
+unlink($content_file) if ($debug);
+
+my $content_relative = "content/$org" . ".html";
+my $novel_link = "<a href=\"?org=$org\">present</a> - <a href=\"?org=$org;novel=1\">novel</a> - <a href=\"?org=$org;absent=1\">absent</a>";
+my $novel_link_style = "\"background-color: rgb(200,200,200); padding: 2px;\"";
+my $base_link = "?org=$org";
+
+if ($novel) {
+
+  $content_file = "$content_dir/$org" . "_novel.html";
+  unlink($content_file) if ($debug);
+  $content_relative = "content/$org" . "_novel.html";
+  $novel_link =~ s/>novel</><span style=$novel_link_style>novel<\/span></;
+  $base_link .= ";novel=1";
+
+  if (!-e $content_file) {
+
+    $whogs = $localwhogdb->fetch_by_organism($organism);
+    my @novel_whogs;
+    foreach my $whog (@$whogs) {
+      push(@novel_whogs,$whog) if ($whog->novel());
+    }
+    $whogs = \@novel_whogs;
+  }
+
+} elsif ($absent) {
+
+  $content_file = "$content_dir/$org" . "_absent.html";
+  unlink($content_file) if ($debug);
+  $content_relative = "content/$org" . "_absent.html";
+  $novel_link =~ s/>absent</><span style=$novel_link_style>absent<\/span></;
+  $base_link .= ";absent=1";
+  $whogs = $localwhogdb->fetch_absent_cogs($organism) unless (-e $content_file);
+
+} else {
+
+  $whogs = $localwhogdb->fetch_by_organism($organism) unless (-e $content_file);
+  $novel_link =~ s/>present</><span style=$novel_link_style>present<\/span></;
+
+} ## end of if $novel or $absent or default
+
+if ($debug) {
+  $time01 = time() - $time00;
+  print LOG "time01:  $time01\n";
+}
+
+
+my %category_db = ();
+#
+#	Structure of %category_db
+#
+#	$category_db{"category name"} = ( COGDB::Whog, ...)
+#
+
+my $factfinder_url = "/cgi-bin/factfinder.cgi?qry_type=displayOrf;org=" . $organism->id_local() . ";orf_name=";
+#my $cog_url = "http://www.ncbi.nlm.nih.gov/Structure/cdd/cddsrv.cgi?uid=";
+#my $cog_url = "http://www.ncbi.nlm.nih.gov/COG/new/release/cow.cgi?cog=";
+my $cog_url = "http://www.ncbi.nlm.nih.gov/COG/grace/wiew.cgi?";
+
+my $data_file = $content_file;
+my $data_relative = $content_relative;
+$data_file =~ s/\.html/\.txt/;
+$data_relative =~ s/\.html/.txt/;
+unlink($content_file,$data_file) if ($debug);
+#
+# If content file doesn't already exist, create new one
+#
+if (!-e $content_file) {
+
+  foreach my $whog (@$whogs) {
+    my $cog = $absent ? $whog : $whog->cog();
+    my $categories = $cog->categories();
+    foreach my $category (@$categories) {
+      push(@{$category_db{$category->name()}},$whog);
+    }
+  }
+
+  if ($debug) {
+    $time02 = time() - $time00;
+    print LOG "time02:  $time02\n";
+  }
+
+  my ($image_MAP,$top_Y,$bot_Y,$spacing)  = ("<map name=\"colorkey\">",0,17.28,17.28);
+  open(OUT,">$content_file") or die "can't open content file: $!";
+  open(DATA,">$data_file") or die "can't open '$data_file': $!";
+  my $cnt = 0;
+  my %coverage;
+  foreach my $category (@$categories) {
+    last if ($debug && ++$cnt == 5);
+    my $tally = $category_db{$category->name()} ? scalar(@{$category_db{$category->name()}}) : 0;
+    print OUT "<a name=\"" . $category->name() . "\"></a><h4>" . $category->name() . " - ($tally)</h4>";
+
+    $image_MAP .= "<area href=\"#" . $category->name() . "\" shape=\"rect\" coords=\"0,$top_Y,400,$bot_Y\" alt=\"\" />\n";
+    $top_Y = $bot_Y;
+    $bot_Y += $spacing;
+
+    #
+    # if this category has members, generate output
+    #
+    if ($tally) {
+      print OUT "<div style=\"padding-left: 10px;\"><table style=\"width: 800px; background-color: silver;\">\n";
+      print OUT "<tr><th>ORF</th><th>COG</th><th>N</th><th>COG Description</th></tr>\n";
+
+      my $whog_cnt = 0;
+      foreach my $whog (sort { $a->name() cmp $b->name() } @{$category_db{$category->name()}}) {
+	last if ($debug && ++$whog_cnt == 11);
+	my $li;
+
+	if (!$absent && $whog->novel()) {
+	  $li = "<tr style=\"background-color: red;\"><td>";
+	} else {
+	  $li = "<tr style=\"background-color: white;\"><td>";
+	}
+
+	my $whogname = $absent ? '-' : $whog->name();
+	my $cogname = $absent ? $whog->name() : $whog->cog()->name();
+	my $cogdesc = $absent ? $whog->description : $whog->cog()->description();
+
+ 	my $coverage;
+ 	if ($coverage{$cogname}) {
+ 	  $coverage = $coverage{$cogname};
+ 	} else {
+
+#	my $coverage = $m->scomp('.divCOGs', whogdb => $whogdb, cog => $absent ? $whog : $whog->cog(), organism => $organism, cnt => scalar(@$organisms), pathogen => $pathogen);
+	  $coverage = $m->scomp('.divCOGs', whogdb => $whogdb, cog => $absent ? $whog : $whog->cog(), organism => $organism, cnt => scalar(@$organisms), pathogen => $pathogen);
+ 	  $coverage{$cogname} = $coverage;
+ 	}
+
+	$coverage =~ s/[\015\012\r\n]//g;
+	$li .= $absent ? '-</td>' : "<a href=\"$factfinder_url" . "$whogname\">$whogname</a></td>";
+
+	$li .= "<td><a href=\"$cog_url" . $cogname . "\" target=\"_NCBI_COG\">$cogname</a></td><td>" . "<a href=\"divCOGs.html?cog=";
+	$absent ?  $li .= $whog->id() :  $li .= $whog->cog->id();
+	$li .= ";division=" . $organism->division()->id() . "\">$coverage</a></td><td>$cogdesc</td></tr>\n";
+
+	print OUT $li;
+
+	print DATA "$whogname\t$cogname\t$coverage\t$cogdesc\t" . $category->name() . "\n";
+
+      } ## end of foreach my $whog
+
+      print OUT "</table></div>\n";
+
+      if ($debug) {
+	$time03 = time() - $time00;
+	print LOG "time03:  $time03\n";
+      }
+
+      
+    } ## end of if ($tally)
+  } ## end of foreach my $category
+
+
+  if ($debug) {
+    $time04 = time() - $time00;
+    print LOG "time04:  $time04\n";
+  }
+
+
+
+  $image_MAP .= "</map>\n";
+  print OUT $image_MAP;
+  close(OUT);
+  close(DATA);
+  
+} ## end of if (!-e $content_file) ##
+
+if ($debug) {
+  $time05 = time() - $time00;
+  print LOG "time05:  $time05\n";
+}
+
+close(LOG);
+#line 251 /home/cgrb/givans/projects/cog_content/cog_content.comp
+$m->print( '
+' );
+return undef;
+},
+'compiler_id' => '2097!27087',
+'declared_args' => {
+  '$absent' => { default => ' 0' },
+  '$debug' => { default => ' 0' },
+  '$default' => { default => ' 0' },
+  '$novel' => { default => ' 0' },
+  '$org' => { default => ' \'SAR11\'' },
+  '$pathogen' => { default => ' 1' }
+},
+'flags' => {
+inherit => undef
+},
+'load_time' => 1187036660,
+'object_size' => 8223,
+'subcomps' => \%_def,
+
+)
+;

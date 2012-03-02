@@ -1,0 +1,36 @@
+C1_0088	COG2925	1/32	Exonuclease I	Replication, recombination and repair
+C1_0408	COG0419	3/32	ATPase involved in DNA repair	Replication, recombination and repair
+C1_0756	COG0419	3/32	ATPase involved in DNA repair	Replication, recombination and repair
+C1_1439	COG2172	3/32	Anti-sigma regulatory factor (Ser/Thr protein kinase)	Signal transduction mechanisms
+C1_0548	COG4969	0/32	Tfp pilus assembly protein, major pilin PilA	Cell motility
+C1_0549	COG4969	0/32	Tfp pilus assembly protein, major pilin PilA	Cell motility
+C1_0887	COG4969	0/32	Tfp pilus assembly protein, major pilin PilA	Cell motility
+C1_1436	COG4968	0/32	Tfp pilus assembly protein PilE	Cell motility
+C1_1437	COG4969	0/32	Tfp pilus assembly protein, major pilin PilA	Cell motility
+C1_1445	COG4972	0/32	Tfp pilus assembly protein, ATPase PilM	Cell motility
+C1_1446	COG2805	3/32	Tfp pilus assembly protein, pilus retraction ATPase PilT	Cell motility
+C1_1452	COG3419	0/32	Tfp pilus assembly protein, tip-associated adhesin PilY1	Cell motility
+C1_0548	COG4969	0/32	Tfp pilus assembly protein, major pilin PilA	Intracellular trafficking, secretion, and vesicular transport
+C1_0549	COG4969	0/32	Tfp pilus assembly protein, major pilin PilA	Intracellular trafficking, secretion, and vesicular transport
+C1_0887	COG4969	0/32	Tfp pilus assembly protein, major pilin PilA	Intracellular trafficking, secretion, and vesicular transport
+C1_1436	COG4968	0/32	Tfp pilus assembly protein PilE	Intracellular trafficking, secretion, and vesicular transport
+C1_1437	COG4969	0/32	Tfp pilus assembly protein, major pilin PilA	Intracellular trafficking, secretion, and vesicular transport
+C1_1442	COG4796	0/32	Type II secretory pathway, component HofQ	Intracellular trafficking, secretion, and vesicular transport
+C1_1445	COG4972	0/32	Tfp pilus assembly protein, ATPase PilM	Intracellular trafficking, secretion, and vesicular transport
+C1_1446	COG2805	3/32	Tfp pilus assembly protein, pilus retraction ATPase PilT	Intracellular trafficking, secretion, and vesicular transport
+C1_1452	COG3419	0/32	Tfp pilus assembly protein, tip-associated adhesin PilY1	Intracellular trafficking, secretion, and vesicular transport
+C1_0379	COG1899	2/32	Deoxyhypusine synthase	Posttranslational modification, protein turnover, chaperones
+C1_1494	COG4555	2/32	ABC-type Na+ transport system, ATPase component	Energy production and conversion
+C1_1359	COG3340	0/32	Peptidase E	Amino acid transport and metabolism
+C1_1384	COG4766	1/32	Ethanolamine utilization protein	Amino acid transport and metabolism
+C1_0508	COG0027	0/32	Formate-dependent phosphoribosylglycinamide formyltransferase (GAR transformylase)	Nucleotide transport and metabolism
+C1_1494	COG4555	2/32	ABC-type Na+ transport system, ATPase component	Inorganic ion transport and metabolism
+C1_0205	COG2992	1/32	Uncharacterized FlgJ-related protein	General function prediction only
+C1_0400	COG2236	3/32	Predicted phosphoribosyltransferases	General function prediction only
+C1_0413	COG3380	2/32	Predicted NAD/FAD-dependent oxidoreductase	General function prediction only
+C1_0554	COG5524	0/32	Bacteriorhodopsin	General function prediction only
+C1_0573	COG4240	1/32	Predicted kinase	General function prediction only
+C1_0853	COG3769	1/32	Predicted hydrolase (HAD superfamily)	General function prediction only
+C1_1074	COG4341	3/32	Predicted HD phosphohydrolase	General function prediction only
+C1_0415	COG2364	2/32	Predicted membrane protein	Function unknown
+C1_1195	COG1666	1/32	Uncharacterized protein conserved in bacteria	Function unknown
