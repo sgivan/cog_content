@@ -1,0 +1,44 @@
+-	COG0102	9/9	Ribosomal protein L13	Translation, ribosomal structure and biogenesis
+-	COG0162	9/9	Tyrosyl-tRNA synthetase	Translation, ribosomal structure and biogenesis
+-	COG0292	9/9	Ribosomal protein L20	Translation, ribosomal structure and biogenesis
+-	COG0360	9/9	Ribosomal protein S6	Translation, ribosomal structure and biogenesis
+-	COG0522	9/9	Ribosomal protein S4 and related proteins	Translation, ribosomal structure and biogenesis
+-	COG0689	9/9	RNase PH	Translation, ribosomal structure and biogenesis
+-	COG1189	9/9	Predicted rRNA methylase	Translation, ribosomal structure and biogenesis
+-	COG2740	9/9	Predicted nucleic-acid-binding protein implicated in transcription termination	Transcription
+-	COG0817	9/9	Holliday junction resolvasome, endonuclease subunit	Replication, recombination and repair
+-	COG1637	9/9	Predicted nuclease of the RecB family	Replication, recombination and repair
+-	COG2816	8/9	NTP pyrophosphohydrolases containing a Zn-finger, probably nucleic-acid-binding	Replication, recombination and repair
+-	COG3547	8/9	Transposase and inactivated derivatives	Replication, recombination and repair
+-	COG3830	8/9	ACT domain-containing protein	Signal transduction mechanisms
+-	COG0771	9/9	UDP-N-acetylmuramoylalanine-D-glutamate ligase	Cell wall/membrane/envelope biogenesis
+-	COG0796	9/9	Glutamate racemase	Cell wall/membrane/envelope biogenesis
+-	COG1686	8/9	D-alanyl-D-alanine carboxypeptidase	Cell wall/membrane/envelope biogenesis
+-	COG1862	9/9	Preprotein translocase subunit YajC	Intracellular trafficking, secretion, and vesicular transport
+-	COG1928	9/9	Dolichyl-phosphate-mannose--protein O-mannosyl transferase	Posttranslational modification, protein turnover, chaperones
+-	COG0039	9/9	Malate/lactate dehydrogenases	Energy production and conversion
+-	COG0282	8/9	Acetate kinase	Energy production and conversion
+-	COG1048	9/9	Aconitase A	Energy production and conversion
+-	COG0057	9/9	Glyceraldehyde-3-phosphate dehydrogenase/erythrose-4-phosphate dehydrogenase	Carbohydrate transport and metabolism
+-	COG0149	9/9	Triosephosphate isomerase	Carbohydrate transport and metabolism
+-	COG1877	8/9	Trehalose-6-phosphatase	Carbohydrate transport and metabolism
+-	COG0040	9/9	ATP phosphoribosyltransferase	Amino acid transport and metabolism
+-	COG0462	9/9	Phosphoribosylpyrophosphate synthetase	Amino acid transport and metabolism
+-	COG1760	8/9	L-serine deaminase	Amino acid transport and metabolism
+-	COG0167	9/9	Dihydroorotate dehydrogenase	Nucleotide transport and metabolism
+-	COG0462	9/9	Phosphoribosylpyrophosphate synthetase	Nucleotide transport and metabolism
+-	COG0302	9/9	GTP cyclohydrolase I	Coenzyme transport and metabolism
+-	COG0373	9/9	Glutamyl-tRNA reductase	Coenzyme transport and metabolism
+-	COG0422	8/9	Thiamine biosynthesis protein ThiC	Coenzyme transport and metabolism
+-	COG0499	9/9	S-adenosylhomocysteine hydrolase	Coenzyme transport and metabolism
+-	COG2154	8/9	Pterin-4a-carbinolamine dehydratase	Coenzyme transport and metabolism
+-	COG1562	8/9	Phytoene/squalene synthetase	Lipid transport and metabolism
+-	COG0861	8/9	Membrane protein TerC, possibly involved in tellurium resistance	Inorganic ion transport and metabolism
+-	COG3509	8/9	Poly(3-hydroxybutyrate) depolymerase	Secondary metabolites biosynthesis, transport and catabolism
+-	COG0658	8/9	Predicted membrane metal-binding protein	General function prediction only
+-	COG1090	8/9	Predicted nucleoside-diphosphate sugar epimerase	General function prediction only
+-	COG2137	9/9	Uncharacterized protein conserved in bacteria	General function prediction only
+-	COG0718	8/9	Uncharacterized protein conserved in bacteria	Function unknown
+-	COG2096	9/9	Uncharacterized conserved protein	Function unknown
+-	COG2135	9/9	Uncharacterized conserved protein	Function unknown
+-	COG3346	9/9	Uncharacterized conserved protein	Function unknown
