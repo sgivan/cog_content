@@ -8,6 +8,7 @@ use HTML::Mason;
 use Getopt::Std;
 use Cwd;
 use vars qw/ $opt_o $opt_a $opt_h $opt_v /;
+use lib '/home/sgivan/projects/COGDB';
 
 getopts('o:ahv');
 
