@@ -8,9 +8,14 @@ $absent => 0
 $default => 0
 $pathogen => 1
 $debug => 0
+$relative => 0
+$absolute => 1
 </%args>
 <%init>
-# $Id: cog_content.comp,v 1.1 2006/09/26 20:20:15 givans Exp givans $
+#
+# absolute generates integer counts of COG category members
+# relative generates relative proporitions of # COGs in a category vs total number of COGs in the genome
+#
 use COGDB;
 my ($cogdb,$localcogs);
 my ($time00,$time01,$time02,$time03,$time04,$time05);
@@ -36,7 +41,6 @@ my $organisms = $cogdb->organism()->fetch_by_division($organism->division()->nam
 
 my $localwhogdb = $localcogs->whog();
 my $whogs;
-
 
 my $content_dir = $m->current_comp()->source_dir();
 $content_dir .= '/content';
@@ -89,7 +93,6 @@ if ($debug) {
   print LOG "time01:  $time01\n";
 }
 
-
 my %category_db = ();
 #
 #	Structure of %category_db
@@ -98,15 +101,16 @@ my %category_db = ();
 #
 
 my $factfinder_url = "/cgi-bin/factfinder.cgi?qry_type=displayOrf;org=" . $organism->id_local() . ";orf_name=";
-#my $cog_url = "http://www.ncbi.nlm.nih.gov/Structure/cdd/cddsrv.cgi?uid=";
+my $cog_url = "http://www.ncbi.nlm.nih.gov/Structure/cdd/cddsrv.cgi?uid=";
 #my $cog_url = "http://www.ncbi.nlm.nih.gov/COG/new/release/cow.cgi?cog=";
-my $cog_url = "http://www.ncbi.nlm.nih.gov/COG/grace/wiew.cgi?";
+#my $cog_url = "http://www.ncbi.nlm.nih.gov/COG/grace/wiew.cgi?";
 
 my $data_file = $content_file;
 my $data_relative = $content_relative;
 $data_file =~ s/\.html/\.txt/;
 $data_relative =~ s/\.html/.txt/;
 unlink($content_file,$data_file) if ($debug);
+my $tally_whog_category = 0;
 #
 # If content file doesn't already exist, create new one
 #
@@ -116,7 +120,8 @@ if (!-e $content_file) {
     my $cog = $absent ? $whog : $whog->cog();
     my $categories = $cog->categories();
     foreach my $category (@$categories) {
-      push(@{$category_db{$category->name()}},$whog);
+        ++$tally_whog_category;
+        push(@{$category_db{$category->name()}},$whog);
     }
   }
 
@@ -133,7 +138,8 @@ if (!-e $content_file) {
   foreach my $category (@$categories) {
     last if ($debug && ++$cnt == 5);
     my $tally = $category_db{$category->name()} ? scalar(@{$category_db{$category->name()}}) : 0;
-    print OUT "<a name=\"" . $category->name() . "\"></a><h4>" . $category->name() . " - ($tally)</h4>";
+    my $relative_amt = sprintf("%2.2f", ($tally/$tally_whog_category)*100);
+    print OUT "<a name=\"" . $category->name() . "\"></a><h4>" . $category->name() . " - ($tally, $relative_amt \%)</h4>";
 
     $image_MAP .= "<area href=\"#" . $category->name() . "\" shape=\"rect\" coords=\"0,$top_Y,400,$bot_Y\" alt=\"\" />\n";
     $top_Y = $bot_Y;
@@ -148,50 +154,47 @@ if (!-e $content_file) {
 
       my $whog_cnt = 0;
       foreach my $whog (sort { $a->name() cmp $b->name() } @{$category_db{$category->name()}}) {
-	last if ($debug && ++$whog_cnt == 11);
-	my $li;
+        last if ($debug && ++$whog_cnt == 11);
+        my $li;
 
-	if (!$absent && $whog->novel()) {
-	  $li = "<tr style=\"background-color: red;\"><td>";
-	} else {
-	  $li = "<tr style=\"background-color: white;\"><td>";
-	}
+        if (!$absent && $whog->novel()) {
+            $li = "<tr style=\"background-color: red;\"><td>";
+        } else {
+            $li = "<tr style=\"background-color: white;\"><td>";
+        }
 
-	my $whogname = $absent ? '-' : $whog->name();
-	my $cogname = $absent ? $whog->name() : $whog->cog()->name();
-	my $cogdesc = $absent ? $whog->description : $whog->cog()->description();
+        my $whogname = $absent ? '-' : $whog->name();
+        my $cogname = $absent ? $whog->name() : $whog->cog()->name();
+        my $cogdesc = $absent ? $whog->description : $whog->cog()->description();
 
- 	my $coverage;
- 	if ($coverage{$cogname}) {
- 	  $coverage = $coverage{$cogname};
- 	} else {
+        my $coverage;
+        if ($coverage{$cogname}) {
+            $coverage = $coverage{$cogname};
+        } else {
 
-#	my $coverage = $m->scomp('.divCOGs', whogdb => $whogdb, cog => $absent ? $whog : $whog->cog(), organism => $organism, cnt => scalar(@$organisms), pathogen => $pathogen);
-	  $coverage = $m->scomp('.divCOGs', whogdb => $whogdb, cog => $absent ? $whog : $whog->cog(), organism => $organism, cnt => scalar(@$organisms), pathogen => $pathogen);
- 	  $coverage{$cogname} = $coverage;
- 	}
+            $coverage = $m->scomp('.divCOGs', whogdb => $whogdb, cog => $absent ? $whog : $whog->cog(), organism => $organism, cnt => scalar(@$organisms), pathogen => $pathogen);
+            $coverage{$cogname} = $coverage;
+        }
 
-	$coverage =~ s/[\015\012\r\n]//g;
-	$li .= $absent ? '-</td>' : "<a href=\"$factfinder_url" . "$whogname\">$whogname</a></td>";
+        $coverage =~ s/[\015\012\r\n]//g;
+        $li .= $absent ? '-</td>' : "<a href=\"$factfinder_url" . "$whogname\">$whogname</a></td>";
 
-	$li .= "<td><a href=\"$cog_url" . $cogname . "\" target=\"_NCBI_COG\">$cogname</a></td><td>" . "<a href=\"divCOGs.html?cog=";
-	$absent ?  $li .= $whog->id() :  $li .= $whog->cog->id();
-	$li .= ";division=" . $organism->division()->id() . "\">$coverage</a></td><td>$cogdesc</td></tr>\n";
+        $li .= "<td><a href=\"$cog_url" . $cogname . "\" target=\"_NCBI_COG\">$cogname</a></td><td>" . "<a href=\"divCOGs.html?cog=";
+        $absent ?  $li .= $whog->id() :  $li .= $whog->cog->id();
+        $li .= ";division=" . $organism->division()->id() . "\">$coverage</a></td><td>$cogdesc</td></tr>\n";
 
-	print OUT $li;
+        print OUT $li;
 
-	print DATA "$whogname\t$cogname\t$coverage\t$cogdesc\t" . $category->name() . "\n";
+        print DATA "$whogname\t$cogname\t$coverage\t$cogdesc\t" . $category->name() . "\n";
 
       } ## end of foreach my $whog
 
       print OUT "</table></div>\n";
 
       if ($debug) {
-	$time03 = time() - $time00;
-	print LOG "time03:  $time03\n";
+        $time03 = time() - $time00;
+        print LOG "time03:  $time03\n";
       }
-
-      
     } ## end of if ($tally)
   } ## end of foreach my $category
 
@@ -200,8 +203,6 @@ if (!-e $content_file) {
     $time04 = time() - $time00;
     print LOG "time04:  $time04\n";
   }
-
-
 
   $image_MAP .= "</map>\n";
   print OUT $image_MAP;
