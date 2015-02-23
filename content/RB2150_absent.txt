@@ -1,9 +1,0 @@
--	COG0048	31/32	Ribosomal protein S12	Translation, ribosomal structure and biogenesis
--	COG0185	31/32	Ribosomal protein S19	Translation, ribosomal structure and biogenesis
--	COG0221	28/32	Inorganic pyrophosphatase	Energy production and conversion
--	COG0688	30/32	Phosphatidylserine decarboxylase	Lipid transport and metabolism
--	COG0573	29/32	ABC-type phosphate transport system, permease component	Inorganic ion transport and metabolism
--	COG0581	29/32	ABC-type phosphate transport system, permease component	Inorganic ion transport and metabolism
--	COG0670	32/32	Integral membrane protein, interacts with FtsH	General function prediction only
--	COG1295	31/32	Predicted membrane protein	Function unknown
--	COG2938	28/32	Uncharacterized conserved protein	Function unknown
