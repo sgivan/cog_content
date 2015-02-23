@@ -16,6 +16,7 @@ $absolute => 1
 # absolute generates integer counts of COG category members
 # relative generates relative proporitions of # COGs in a category vs total number of COGs in the genome
 #
+use lib '/home/sgivan/projects/COGDB/lib';
 use COGDB;
 my ($cogdb,$localcogs);
 my ($time00,$time01,$time02,$time03,$time04,$time05);
