@@ -139,7 +139,7 @@ if (!-e $content_file) {
   foreach my $category (@$categories) {
     last if ($debug && ++$cnt == 5);
     my $tally = $category_db{$category->name()} ? scalar(@{$category_db{$category->name()}}) : 0;
-    my $relative_amt = sprintf("%2.2f", ($tally/$tally_whog_category)*100);
+    my $relative_amt = $tally_whog_category ?  sprintf("%2.2f", ($tally/$tally_whog_category)*100) : 'zero';
     print OUT "<a name=\"" . $category->name() . "\"></a><h4>" . $category->name() . " - ($tally, $relative_amt \%)</h4>";
 
     $image_MAP .= "<area href=\"#" . $category->name() . "\" shape=\"rect\" coords=\"0,$top_Y,400,$bot_Y\" alt=\"\" />\n";
